@@ -1,7 +1,7 @@
 <template>
   <div class="relative">
     <!-- Carousel -->
-    <div class="relative overflow-hidden" style="height: 100vh; min-height: 600px; max-height: 800px;">
+    <div class="relative overflow-hidden" style="height: calc(100vh - 76px);">
       <div 
         class="carousel-track flex transition-transform duration-600 h-full"
         :style="{ transform: `translateX(-${activeIndex * 100}%)` }"
