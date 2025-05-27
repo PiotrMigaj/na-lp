@@ -51,6 +51,15 @@ export default defineNuxtConfig({
   },
   
   ssr: true,
+    routeRules: {
+    '/': { prerender: true },
+    '/about': { prerender: true },
+    '/portfolio': { prerender: true },
+    '/services': { prerender: true },
+    '/contact': { prerender: true },
+    '/privacy': { prerender: true },
+    '/terms': { prerender: true }
+  },
   
   typescript: {
     strict: true
