@@ -12,7 +12,7 @@
           class="carousel-slide w-full h-full flex-shrink-0 bg-center bg-cover relative"
         >
           <div class="absolute inset-0">
-            <img 
+            <NuxtImg 
               :src="slide.image" 
               :alt="slide.title"
               class="w-full h-full object-cover"

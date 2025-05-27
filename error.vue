@@ -8,7 +8,7 @@
           The page you are looking for doesn't exist or has been moved.
         </p>
         <div class="mb-8">
-          <img src="~/assets/images/error-camera.svg" alt="Camera Icon" class="mx-auto w-24 h-24" />
+          <NuxtImg src="~/assets/images/error-camera.svg" alt="Camera Icon" class="mx-auto w-24 h-24" />
         </div>
         <NuxtLink to="/" class="inline-block bg-secondary text-primary px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-opacity-80">
           Back to Home

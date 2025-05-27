@@ -85,6 +85,7 @@ const navItems = [
   { label: 'About', path: '/about' },
   { label: 'Portfolio', path: '/portfolio' },
   { label: 'Services', path: '/services' },
+  { label: 'Blog', path: '/blog' },
   { label: 'Contact', path: '/contact' },
 ];
 </script>
