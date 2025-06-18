@@ -16,6 +16,11 @@ services:
     environment:
       - NODE_ENV=production
       - NITRO_PORT=3000
+      - AWS_REGION=${AWS_REGION}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+    env_file:
+      - .env
     restart: unless-stopped
     security_opt:
       - no-new-privileges

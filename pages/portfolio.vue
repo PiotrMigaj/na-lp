@@ -109,7 +109,7 @@ const portfolioItems = [
   {
     title: 'Agnieszka',
     category: 'kobiece',
-    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250439/kobiece-4_txff42.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250439/kobiece-2_nsnioa.webp'
   },
   {
     title: 'Madzia',

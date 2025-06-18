@@ -121,19 +121,26 @@ const submitForm = async () => {
   isSubmitting.value = true;
   
   try {
-    // Symulacja wysyłki do API
-    await new Promise(resolve => setTimeout(resolve, 1000));
+    const response = await $fetch('/api/contact', {
+      method: 'POST',
+      body: form
+    });
     
-    // Reset formularza
-    Object.keys(form).forEach(key => form[key] = '');
-    formSubmitted.value = true;
-    
-    // Ukryj wiadomość po 5 sekundach
-    setTimeout(() => {
-      formSubmitted.value = false;
-    }, 5000);
+    if (response.success) {
+      // Reset formularza
+      Object.keys(form).forEach(key => form[key] = '');
+      formSubmitted.value = true;
+      
+      // Ukryj wiadomość po 5 sekundach
+      setTimeout(() => {
+        formSubmitted.value = false;
+      }, 5000);
+    } else {
+      throw new Error(response.message);
+    }
   } catch (error) {
     console.error('Błąd podczas wysyłania formularza:', error);
+    // Możesz dodać obsługę błędów tutaj, np. wyświetlić komunikat o błędzie
   } finally {
     isSubmitting.value = false;
   }
