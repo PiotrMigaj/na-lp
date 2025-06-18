@@ -82,10 +82,9 @@ onMounted(() => {
 // Navigation items
 const navItems = [
   { label: 'Home', path: '/' },
-  { label: 'About', path: '/about' },
+  { label: 'O Mnie', path: '/o-mnie' },
   { label: 'Portfolio', path: '/portfolio' },
-  { label: 'Services', path: '/services' },
   { label: 'Blog', path: '/blog' },
-  { label: 'Contact', path: '/contact' },
+  { label: 'Kontakt', path: '/kontakt' },
 ];
 </script>

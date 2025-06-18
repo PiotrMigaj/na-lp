@@ -1,9 +1,9 @@
 <template>
   <div class="container mx-auto px-4 py-16">
-    <h1 class="font-italiana text-4xl md:text-5xl text-center mb-12">Photography Blog</h1>
+    <h1 class="font-italiana text-4xl md:text-5xl text-center mb-12">Blog Fotograficzny</h1>
     <p class="text-center text-text-light max-w-2xl mx-auto mb-16">
-      Discover insights, tips, and inspiration from our professional photography journey. 
-      From preparation guides to creative techniques, we share our expertise to help you capture perfect moments.
+      Odkryj porady, inspiracje i spostrzeżenia z naszej profesjonalnej podróży fotograficznej.
+      Od poradników przygotowawczych po kreatywne techniki — dzielimy się wiedzą, aby pomóc Ci uchwycić idealne momenty.
     </p>
     
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -13,7 +13,7 @@
         class="group bg-white shadow-lg overflow-hidden transition-transform duration-300 hover:-translate-y-2"
       >
         <NuxtLink :to="`/blog/${post.slug}`">
-          <div class="relative h-64 overflow-hidden">
+          <div class="relative h-84 overflow-hidden">
             <NuxtImg 
               :src="post.image" 
               :alt="post.title"
@@ -29,46 +29,48 @@
             <div class="flex items-center justify-between">
               <span class="text-sm text-text-light">{{ post.date }}</span>
               <span class="text-secondary group-hover:translate-x-2 transition-transform duration-300">
-                Read more →
+                Czytaj dalej →
               </span>
             </div>
           </div>
         </NuxtLink>
       </article>
     </div>
+    
   </div>
+  
 </template>
 
 <script setup>
 const blogPosts = [
   {
-    slug: 'how-to-prepare-for-session',
-    title: 'How to Prepare for Your Photography Session',
-    excerpt: 'Essential tips and checklist to ensure your photography session goes smoothly and produces stunning results.',
-    image: 'https://images.pexels.com/photos/2682452/pexels-photo-2682452.jpeg?auto=compress&cs=tinysrgb&w=1600',
-    date: 'March 15, 2024'
+    slug: 'jak-przygotowac-sie-do-sesji-zdjeciowej',
+    title: 'Jak przygotować się do sesji zdjęciowej',
+    excerpt: 'Najważniejsze wskazówki i lista kontrolna, które pomogą Ci przygotować się do udanej sesji zdjęciowej i uzyskać zachwycające rezultaty.',
+    image: '/images/blog/preparation/blog-preparation-1.webp',
+    date: '15 marca 2024'
   },
   {
-    slug: 'choosing-perfect-location',
-    title: 'Choosing the Perfect Location for Your Shoot',
-    excerpt: 'Learn how to select and scout locations that will enhance your photography and create the perfect atmosphere.',
-    image: 'https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=1600',
-    date: 'March 10, 2024'
+    slug: 'jak-wybrac-idealne-miejsce-na-sesje',
+    title: 'Jak wybrać idealne miejsce na sesję',
+    excerpt: 'Dowiedz się, jak wybierać i sprawdzać lokalizacje, które podkreślą klimat Twoich zdjęć i stworzą odpowiednią atmosferę.',
+    image: '/images/blog/location/blog-location-1.webp',
+    date: '10 marca 2024'
   },
   {
-    slug: 'posing-techniques',
-    title: 'Mastering Natural Posing Techniques',
-    excerpt: 'Professional tips for achieving natural, flattering poses that capture authentic moments and emotions.',
-    image: 'https://images.pexels.com/photos/1375883/pexels-photo-1375883.jpeg?auto=compress&cs=tinysrgb&w=1600',
-    date: 'March 5, 2024'
+    slug: 'sztuka-naturalnego-pozowania-do-zdjec',
+    title: 'Sztuka Naturalnego Pozowania do Zdjęć',
+    excerpt: 'Profesjonalne porady, jak uzyskać naturalne, korzystne pozy, które oddadzą autentyczne emocje i chwile.',
+    image: '/images/blog/posing/blog-posing-1.webp',
+    date: '5 marca 2024'
   }
 ];
 
 useSeoMeta({
-  title: 'Photography Blog - Tips, Guides & Inspiration',
-  description: 'Explore our photography blog for expert tips, preparation guides, and creative inspiration. Learn about session preparation, location scouting, and posing techniques.',
-  ogTitle: 'Photography Blog - Tips, Guides & Inspiration',
-  ogDescription: 'Explore our photography blog for expert tips, preparation guides, and creative inspiration.',
+  title: 'Blog Fotograficzny – Porady, Przewodniki i Inspiracje',
+  description: 'Przeglądaj naszego bloga fotograficznego, aby znaleźć profesjonalne porady, przewodniki przygotowawcze i twórcze inspiracje. Dowiedz się, jak przygotować się do sesji, wybrać lokalizację i pozować naturalnie.',
+  ogTitle: 'Blog Fotograficzny – Porady, Przewodniki i Inspiracje',
+  ogDescription: 'Przeglądaj naszego bloga fotograficznego, aby znaleźć profesjonalne porady, przewodniki przygotowawcze i twórcze inspiracje.',
   ogImage: 'https://images.pexels.com/photos/2682452/pexels-photo-2682452.jpeg',
   twitterCard: 'summary_large_image',
 });
@@ -81,4 +83,4 @@ useSeoMeta({
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-</style> 
+</style>

@@ -4,7 +4,7 @@
       <input 
         v-model="form.name"
         type="text" 
-        placeholder="Your Name" 
+        placeholder="Twoje imię" 
         class="w-full border-0 border-b border-gray-300 py-3 px-0 focus:ring-0 focus:border-secondary bg-transparent"
         :class="{ 'border-error-500': errors.name }"
         required
@@ -16,7 +16,7 @@
       <input 
         v-model="form.email"
         type="email" 
-        placeholder="Your Email" 
+        placeholder="Twój e-mail" 
         class="w-full border-0 border-b border-gray-300 py-3 px-0 focus:ring-0 focus:border-secondary bg-transparent"
         :class="{ 'border-error-500': errors.email }"
         required
@@ -28,7 +28,7 @@
       <input 
         v-model="form.subject"
         type="text" 
-        placeholder="Subject" 
+        placeholder="Temat" 
         class="w-full border-0 border-b border-gray-300 py-3 px-0 focus:ring-0 focus:border-secondary bg-transparent"
         :class="{ 'border-error-500': errors.subject }"
         required
@@ -40,7 +40,7 @@
       <textarea 
         v-model="form.message"
         rows="5" 
-        placeholder="Your Message" 
+        placeholder="Twoja wiadomość" 
         class="w-full border-0 border-b border-gray-300 py-3 px-0 focus:ring-0 focus:border-secondary bg-transparent resize-none"
         :class="{ 'border-error-500': errors.message }"
         required
@@ -54,13 +54,13 @@
         class="bg-secondary text-primary px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-opacity-80 disabled:opacity-50 disabled:cursor-not-allowed"
         :disabled="isSubmitting"
       >
-        <span v-if="isSubmitting">Sending...</span>
-        <span v-else>Send Message</span>
+        <span v-if="isSubmitting">Wysyłanie...</span>
+        <span v-else>Wyślij wiadomość</span>
       </button>
     </div>
     
     <div v-if="formSubmitted" class="py-4 px-6 bg-success-50 text-success-700 rounded">
-      Thank you! Your message has been sent successfully.
+      Dziękuję! Twoja wiadomość została wysłana pomyślnie.
     </div>
   </form>
 </template>
@@ -86,29 +86,29 @@ const formSubmitted = ref(false);
 const validateForm = () => {
   let isValid = true;
   
-  // Reset errors
+  // Reset błędów
   Object.keys(errors).forEach(key => errors[key] = '');
   
   if (!form.name.trim()) {
-    errors.name = 'Name is required';
+    errors.name = 'Imię jest wymagane';
     isValid = false;
   }
   
   if (!form.email.trim()) {
-    errors.email = 'Email is required';
+    errors.email = 'Adres e-mail jest wymagany';
     isValid = false;
   } else if (!/^\S+@\S+\.\S+$/.test(form.email)) {
-    errors.email = 'Please enter a valid email address';
+    errors.email = 'Podaj poprawny adres e-mail';
     isValid = false;
   }
   
   if (!form.subject.trim()) {
-    errors.subject = 'Subject is required';
+    errors.subject = 'Temat jest wymagany';
     isValid = false;
   }
   
   if (!form.message.trim()) {
-    errors.message = 'Message is required';
+    errors.message = 'Wiadomość jest wymagana';
     isValid = false;
   }
   
@@ -121,19 +121,19 @@ const submitForm = async () => {
   isSubmitting.value = true;
   
   try {
-    // Simulate API call
+    // Symulacja wysyłki do API
     await new Promise(resolve => setTimeout(resolve, 1000));
     
-    // Reset form
+    // Reset formularza
     Object.keys(form).forEach(key => form[key] = '');
     formSubmitted.value = true;
     
-    // Hide success message after 5 seconds
+    // Ukryj wiadomość po 5 sekundach
     setTimeout(() => {
       formSubmitted.value = false;
     }, 5000);
   } catch (error) {
-    console.error('Form submission error:', error);
+    console.error('Błąd podczas wysyłania formularza:', error);
   } finally {
     isSubmitting.value = false;
   }
