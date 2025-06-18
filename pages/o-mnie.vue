@@ -15,7 +15,7 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <NuxtImg src="/images/anna-migaj-fotograf.webp" alt="Anna Migaj – Fotograf"
+            <NuxtImg src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp" alt="Anna Migaj – Fotograf"
               class="w-full h-[800px] object-cover" width="800" height="800" format="webp" />
           </div>
           <div>
@@ -60,7 +60,7 @@
           </div>
           <div>
             <NuxtImg
-              src="/images/o-mnie-anna-migaj-fotograf.webp"
+              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249188/o-mnie-anna-migaj-fotograf_pghi8g.webp"
               alt="Filozofia fotografii" class="w-full h-[600px] object-cover" width="800" height="600" format="webp" />
           </div>
         </div>

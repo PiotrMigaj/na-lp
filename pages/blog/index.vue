@@ -47,21 +47,21 @@ const blogPosts = [
     slug: 'jak-przygotowac-sie-do-sesji-zdjeciowej',
     title: 'Jak przygotować się do sesji zdjęciowej',
     excerpt: 'Najważniejsze wskazówki i lista kontrolna, które pomogą Ci przygotować się do udanej sesji zdjęciowej i uzyskać zachwycające rezultaty.',
-    image: '/images/blog/preparation/blog-preparation-1.webp',
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-1_dgl2mi.webp',
     date: '15 marca 2024'
   },
   {
     slug: 'jak-wybrac-idealne-miejsce-na-sesje',
     title: 'Jak wybrać idealne miejsce na sesję',
     excerpt: 'Dowiedz się, jak wybierać i sprawdzać lokalizacje, które podkreślą klimat Twoich zdjęć i stworzą odpowiednią atmosferę.',
-    image: '/images/blog/location/blog-location-1.webp',
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-1_vppdpx.webp',
     date: '10 marca 2024'
   },
   {
     slug: 'sztuka-naturalnego-pozowania-do-zdjec',
     title: 'Sztuka Naturalnego Pozowania do Zdjęć',
     excerpt: 'Profesjonalne porady, jak uzyskać naturalne, korzystne pozy, które oddadzą autentyczne emocje i chwile.',
-    image: '/images/blog/posing/blog-posing-1.webp',
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249631/blog-posing-1_mcyarl.webp',
     date: '5 marca 2024'
   }
 ];

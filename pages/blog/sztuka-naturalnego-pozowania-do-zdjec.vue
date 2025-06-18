@@ -9,7 +9,7 @@
       </div>
       <div class="relative h-[400px] md:h-[500px] overflow-hidden mb-12">
         <NuxtImg 
-          src="/images/blog/posing/blog-posing-1.webp"
+          src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249631/blog-posing-1_mcyarl.webp"
           alt="Techniki naturalnego pozowania"
           class="w-full h-full object-cover"
           loading="eager"
@@ -86,7 +86,7 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
         <div class="relative h-84 overflow-hidden">
           <NuxtImg 
-            src="/images/blog/posing/blog-posing-2.webp"
+            src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249631/blog-posing-2_chzog2.webp"
             alt="Przykład naturalnej ekspresji"
             class="w-full h-full object-cover"
             loading="lazy"
@@ -94,7 +94,7 @@
         </div>
         <div class="relative h-84 overflow-hidden">
           <NuxtImg 
-            src="/images/blog/posing/blog-posing-3.webp"
+            src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249632/blog-posing-3_wlwqs7.webp"
             alt="Technika pozowania"
             class="w-full h-full object-cover"
             loading="lazy"

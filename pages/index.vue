@@ -18,13 +18,13 @@
             <p class="mb-6 font-light leading-relaxed">
               Studiowałam architekturę i współpracowałam z osobami kreatywnymi z różnych branż. Dziś łączę te doświadczenia z miłością do pracy z ludźmi. Wierzę, że dobra fotografia rodzi się z uważności, wzajemnego zaufania i prawdziwej relacji.
             </p>
-            <NuxtLink to="/about" class="inline-block bg-secondary text-primary px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-opacity-80 mt-4">
+            <NuxtLink to="/o-mnie" class="inline-block bg-secondary text-primary px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-opacity-80 mt-4">
               Dowiedz się więcej
             </NuxtLink>
           </div>
           <div>
             <NuxtImg
-              src="/images/anna-migaj-fotograf.webp"
+              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp"
               alt="Anna Migaj Fotograf"
               class="w-full h-[900px] object-cover"
               width="800"
@@ -107,9 +107,36 @@
 import SectionHeaderCenteredSubtitle from '~/components/SectionHeaderCenteredSubtitle.vue';
 
 useHead({
-  title: 'Profesjonalna fotografia mody – Anna Migaj',
+  title: 'Anna Migaj - Profesjonalna Fotografia Ślubna i Biznesowa | Wrocław',
   meta: [
-    { name: 'description', content: 'Anna Migaj oferuje profesjonalne usługi fotograficzne – tworzy unikalne, estetyczne kadry dla marek, magazynów i klientów indywidualnych.' }
+    { 
+      name: 'description', 
+      content: 'Profesjonalna fotografia ślubna, biznesowa i kobieca we Wrocławiu. Anna Migaj tworzy naturalne, pełne emocji zdjęcia, które uwieczniają najważniejsze chwile. Sprawdź portfolio i umów się na sesję!' 
+    },
+    { 
+      name: 'keywords', 
+      content: 'fotografia ślubna Wrocław, fotografia biznesowa, sesja kobieca, fotografia portretowa, Anna Migaj, Niebieskie Aparaty' 
+    },
+    { 
+      name: 'robots', 
+      content: 'index, follow' 
+    },
+    { 
+      property: 'og:title', 
+      content: 'Anna Migaj - Profesjonalna Fotografia Ślubna i Biznesowa | Wrocław' 
+    },
+    { 
+      property: 'og:description', 
+      content: 'Profesjonalna fotografia ślubna, biznesowa i kobieca we Wrocławiu. Naturalne, pełne emocji zdjęcia, które uwieczniają najważniejsze chwile.' 
+    },
+    { 
+      property: 'og:image', 
+      content: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp' 
+    },
+    { 
+      property: 'og:locale', 
+      content: 'pl_PL' 
+    }
   ]
 });
 
@@ -117,32 +144,32 @@ const portfolioItems = [
   {
     title: 'Sesja ślubna Weroniki i Szymona',
     category: 'SESJA ŚLUBNA',
-    image: '/images/sesja-slubna.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/sesja-slubna_oukxfe.webp'
   },
   {
     title: 'Sesja rodzinna na Dzień Mamy',
     category: 'SESJA RODZINNA',
-    image: '/images/sesja-rodzinna.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249188/sesja-rodzinna_khokg4.webp'
   },
   {
     title: 'Sesja portretowa',
     category: 'PORTRET',
-    image: '/images/sesja-portretowa.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249190/sesja-portretowa_z1ibbr.webp'
   },
   {
     title: 'Sesja biznesowa dla Krzysztofa',
     category: 'SESJA BIZNESOWA',
-    image: '/images/sesja-biznesowa-meska.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/sesja-biznesowa-meska_pijzxm.webp'
   },
   {
     title: 'Sesja kobieca na Dzień Mamy',
     category: 'SESJA KOBIECA',
-    image: '/images/sesja-kobieca.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/sesja-kobieca_hlszsa.webp'
   },
   {
     title: 'Sesja produktowa dla Nieba Przychylam',
     category: 'SESJA PRODUKTOWA',
-    image: '/images/sesja-produktowa.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249190/sesja-produktowa_v4qv7z.webp'
   }
 ];
 

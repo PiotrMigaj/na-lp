@@ -9,7 +9,7 @@
       </div>
       <div class="relative h-[400px] md:h-[600px] overflow-hidden mb-12">
         <NuxtImg 
-          src="/images/blog/preparation/blog-preparation-1.webp"
+          src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-1_dgl2mi.webp"
           alt="Przygotowanie do sesji fotograficznej"
           class="w-full h-full object-cover"
           loading="eager"
@@ -56,7 +56,7 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
         <div class="relative h-84 overflow-hidden">
           <NuxtImg 
-            src="/images/blog/preparation/blog-preparation-2.webp"
+            src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-2_iiywwa.webp"
             alt="Przykład stylizacji na sesję"
             class="w-full h-full object-cover"
             loading="lazy"
@@ -64,7 +64,7 @@
         </div>
         <div class="relative h-84 overflow-hidden">
           <NuxtImg 
-            src="/images/blog/preparation/blog-preparation-3.webp"
+            src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-3_dqtbxp.webp"
             alt="Wybór lokalizacji na sesję we Wrocławiu"
             class="w-full h-full object-cover"
             loading="lazy"

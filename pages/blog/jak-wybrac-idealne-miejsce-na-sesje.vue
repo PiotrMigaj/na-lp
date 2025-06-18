@@ -9,7 +9,7 @@
       </div>
       <div class="relative h-[400px] md:h-[600px] overflow-hidden mb-12">
         <NuxtImg 
-          src="/images/blog/location/blog-location-1.webp"
+          src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-1_vppdpx.webp"
           alt="Wybór lokalizacji do sesji zdjęciowej"
           class="w-full h-full object-cover"
           loading="eager"
@@ -82,7 +82,7 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
         <div class="relative h-84 overflow-hidden">
           <NuxtImg 
-            src="/images/blog/location/blog-location-2.webp"
+            src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-2_ek5tqy.webp"
             alt="Przykład miejskiej lokalizacji"
             class="w-full h-full object-cover"
             loading="lazy"
@@ -90,7 +90,7 @@
         </div>
         <div class="relative h-84 overflow-hidden">
           <NuxtImg 
-            src="/images/blog/location/blog-location-3.webp"
+            src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-3_slbmxp.webp"
             alt="Przykład naturalnej scenerii"
             class="w-full h-full object-cover"
             loading="lazy"

@@ -51,6 +51,7 @@ const navItems = [
   { label: 'Strona główna', path: '/' },
   { label: 'O mnie', path: '/o-mnie' },
   { label: 'Portfolio', path: '/portfolio' },
+  { label: 'Blog', path: '/blog' },
   { label: 'Kontakt', path: '/kontakt' },
 ];
 </script>

@@ -64,217 +64,212 @@ const portfolioItems = [
   {
     title: 'Weronika i Szymon',
     category: 'ślubne',
-    image: '/images/portfolio/slubne/slubne-3.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249874/slubne-1_jyc43n.webp'
   },
   {
     title: 'Weronika i Szymon',
     category: 'ślubne',
-    image: '/images/portfolio/slubne/slubne-2.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249875/slubne-2_rwyoia.webp'
   },
   {
     title: 'Weronika i Szymon',
     category: 'ślubne',
-    image: '/images/portfolio/slubne/slubne-1.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249875/slubne-3_jrkhrs.webp'
   },
   {
     title: 'Weronika i Szymon',
     category: 'ślubne',
-    image: '/images/portfolio/slubne/slubne-4.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249876/slubne-4_hxcrau.webp'
   },
   {
     title: 'Weronika i Szymon',
     category: 'ślubne',
-    image: '/images/portfolio/slubne/slubne-5.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249877/slubne-5_sd1cv8.webp'
   },
   {
     title: 'Ewelina i Kamil',
     category: 'ślubne',
-    image: '/images/portfolio/slubne/slubne-10.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249877/slubne-11_epvqau.webp'
   },
   {
     title: 'Ewelina i Kamil',
     category: 'ślubne',
-    image: '/images/portfolio/slubne/slubne-11.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249878/slubne-12_zdmsx4.webp'
   },
   {
     title: 'Ewelina i Kamil',
     category: 'ślubne',
-    image: '/images/portfolio/slubne/slubne-12.webp'
-  },
-  {
-    title: 'Ewelina i Kamil',
-    category: 'ślubne',
-    image: '/images/portfolio/slubne/slubne-13.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249878/slubne-13_or8cxc.webp'
   },
   {
     title: 'Ania',
     category: 'kobiece',
-    image: '/images/portfolio/kobiece/kobiece-1.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250438/kobiece-1_ovdkxi.webp'
   },
   {
     title: 'Agnieszka',
     category: 'kobiece',
-    image: '/images/portfolio/kobiece/kobiece-2.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250439/kobiece-4_txff42.webp'
   },
   {
     title: 'Madzia',
     category: 'kobiece',
-    image: '/images/portfolio/kobiece/kobiece-4.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250439/kobiece-4_txff42.webp'
   },
   {
     title: 'Madzia',
     category: 'kobiece',
-    image: '/images/portfolio/kobiece/kobiece-5.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250440/kobiece-5_evb8sq.webp'
   },
   {
     title: 'Madzia',
     category: 'kobiece',
-    image: '/images/portfolio/kobiece/kobiece-6.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250441/kobiece-6_ecmdym.webp'
   },
   {
     title: 'Edyta',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-1.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250522/biznesowe-1_fknqui.webp'
   },
   {
     title: 'Edyta',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-2.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250523/biznesowe-2_cu0imq.webp'
   },
   {
     title: 'Justyna',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-3.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250525/biznesowe-3_mqxyks.webp'
   },
   {
     title: 'Justyna',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-4.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250526/biznesowe-4_ssnmoo.webp'
   },
   {
     title: 'Krzysztof',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-5.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250527/biznesowe-5_uae4ts.webp'
   },
   {
     title: 'Krzysztof',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-6.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250529/biznesowe-6_dkvnsw.webp'
   },
   {
     title: 'Centrum Rehabilitacji',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-7.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250530/biznesowe-7_jsng2y.webp'
   },
   {
     title: 'Centrum Rehabilitacji',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-8.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250531/biznesowe-8_ytltoh.webp'
   },
   {
     title: 'Marek',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-9.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250533/biznesowe-9_ej7dco.webp'
   },
   {
     title: 'Ola',
     category: 'biznesowe',
-    image: '/images/portfolio/biznesowe/biznesowe-10.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250534/biznesowe-10_xunggg.webp'
   },
   {
     title: 'Emilii',
     category: 'fashion',
-    image: '/images/portfolio/fashion/fashion-2.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250638/fashion-2_t9wm6f.webp'
   },
   {
     title: 'Marta',
     category: 'fashion',
-    image: '/images/portfolio/fashion/fashion-3.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250639/fashion-3_mjof7d.webp'
   },
   {
     title: 'Marta',
     category: 'fashion',
-    image: '/images/portfolio/fashion/fashion-5.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250641/fashion-5_b3djjh.webp'
   },
   {
     title: 'Marta',
     category: 'fashion',
-    image: '/images/portfolio/fashion/fashion-6.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250642/fashion-6_pnv11m.webp'
   },
   {
     title: 'Portretowe',
     category: 'fashion',
-    image: '/images/portfolio/fashion/fashion-7.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250645/fashion-7_pmwn3w.webp'
   },
   {
     title: 'Nieba Przychylam',
     category: 'produktowe',
-    image: '/images/portfolio/produktowe/produktowe-2.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250709/produktowe-2_fhz9gj.webp'
   },
   {
     title: 'Nieba Przychylam',
     category: 'produktowe',
-    image: '/images/portfolio/produktowe/produktowe-3.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250713/produktowe-3_judq4l.webp'
   },
   {
     title: 'Nieba Przychylam',
     category: 'produktowe',
-    image: '/images/portfolio/produktowe/produktowe-4.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250714/produktowe-4_sz8zpe.webp'
   },
   {
     title: 'Nieba Przychylam',
     category: 'produktowe',
-    image: '/images/portfolio/produktowe/produktowe-5.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250715/produktowe-5_bkmdup.webp'
   },
   {
     title: 'Nieba Przychylam',
     category: 'produktowe',
-    image: '/images/portfolio/produktowe/produktowe-6.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250718/produktowe-6_d9zwi4.webp'
   },
   {
     title: 'Rodzinne',
     category: 'rodzinne',
-    image: '/images/portfolio/rodzinne/rodzinne-1.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250788/rodzinne-1_m1ii1u.webp'
   },
   {
     title: 'Rodzinne',
     category: 'rodzinne',
-    image: '/images/portfolio/rodzinne/rodzinne-2.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250789/rodzinne-2_jaxa46.webp'
   },
   {
     title: 'Rodzinne',
     category: 'rodzinne',
-    image: '/images/portfolio/rodzinne/rodzinne-3.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250792/rodzinne-3_bmmt4o.webp'
   },
   {
     title: 'Rodzinne',
     category: 'rodzinne',
-    image: '/images/portfolio/rodzinne/rodzinne-4.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250794/rodzinne-4_dg45ou.webp'
   },
   {
     title: 'Rodzinne',
     category: 'rodzinne',
-    image: '/images/portfolio/rodzinne/rodzinne-5.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250797/rodzinne-5_vxnxxv.webp'
   },
   {
     title: 'Rodzinne',
     category: 'rodzinne',
-    image: '/images/portfolio/rodzinne/rodzinne-7.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250801/rodzinne-7_kzthzq.webp'
   },
   {
     title: 'Rodzinne',
     category: 'rodzinne',
-    image: '/images/portfolio/rodzinne/rodzinne-8.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250804/rodzinne-8_qv43r8.webp'
   },
   {
     title: 'Rodzinne',
     category: 'rodzinne',
-    image: '/images/portfolio/rodzinne/rodzinne-9.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250806/rodzinne-9_l01kul.webp'
   },
   {
     title: 'Rodzinne',
     category: 'rodzinne',
-    image: '/images/portfolio/rodzinne/rodzinne-10.webp'
+    image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250809/rodzinne-10_lz51pc.webp'
   },
 ];
 
