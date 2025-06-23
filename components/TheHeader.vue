@@ -56,10 +56,10 @@
       </ul>
       
       <div class="mt-12 flex justify-center space-x-6">
-        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+        <a href="https://www.instagram.com/niebieskie_aparaty?utm_source=ig_web_button_share_sheet&igsh=cWFiZ3d4Mjd4NDdq" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
           <Icon name="mdi:instagram" class="w-6 h-6" />
         </a>
-        <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+        <a href="https://www.facebook.com/profile.php?id=100001562507926" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
           <Icon name="mdi:facebook" class="w-6 h-6" />
         </a>
       </div>

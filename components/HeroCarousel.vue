@@ -1,11 +1,11 @@
 <template>
   <div class="relative">
-    <!-- Loading Overlay -->
+    <!-- Loading Overlay --> 
     <div v-if="isLoading" 
-         class="absolute inset-0 bg-gray-900 flex items-center justify-center z-50"
+         class="absolute inset-0 bg-white flex items-center justify-center z-50"
          style="height: calc(100vh - 76px);">
-      <div class="text-center text-white">
-        <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-white mx-auto mb-4"></div>
+      <div class="text-center text-black">
+        <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-black mx-auto mb-4"></div>
         <p class="text-sm tracking-wider opacity-80">Ładowanie...</p>
       </div>
     </div>
