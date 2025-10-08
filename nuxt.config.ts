@@ -80,7 +80,9 @@ app: {
   
   ssr: true,
   routeRules: {
-    '/': { prerender: true },
+    '/': { redirect: '/sesje-swiateczne' },
+    '/home': { prerender: true },
+    '/sesje-swiateczne': { prerender: true },
     '/o-mnie': { prerender: true },
     '/portfolio': { prerender: true },
     '/blog': { prerender: true },
