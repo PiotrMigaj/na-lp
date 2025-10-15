@@ -60,6 +60,7 @@ app: {
       Italiana: true,
       Montserrat: [300, 400, 500, 600],
     },
+    subsets: ['latin', 'latin-ext'],
     display: 'swap',
     prefetch: true,
     preconnect: true,

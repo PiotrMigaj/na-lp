@@ -13,6 +13,7 @@ module.exports = {
       fontFamily: {
         italiana: ['Italiana', 'serif'],
         montserrat: ['Montserrat', 'sans-serif'],
+        'bodoni-moda': ['Bodoni Moda', 'serif'],
       },
       colors: {
         primary: '#ffffff',
