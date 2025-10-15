@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: migi987/na-lp:3.0
+    image: migi987/na-lp:5.0
     ports:
       - "3000:3000"
     deploy:
