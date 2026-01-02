@@ -131,7 +131,7 @@ app: {
   
   ssr: true,
   routeRules: {
-    '/': { redirect: '/sesje-swiateczne' },
+    '/': { redirect: '/home' },
     '/home': { prerender: true },
     '/sesje-swiateczne': { prerender: true },
     '/o-mnie': { prerender: true },

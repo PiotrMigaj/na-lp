@@ -13,20 +13,10 @@
               <li v-for="item in navItems" :key="item.path">
                 <NuxtLink 
                   :to="item.path" 
-                  :class="[
-                    'uppercase text-sm tracking-widest font-medium relative after:absolute after:w-0 after:h-px after:bottom-0 after:left-0 after:transition-all after:duration-300 hover:after:w-full',
-                    item.path === '/sesje-swiateczne' 
-                      ? 'text-red-600 hover:text-red-700 after:bg-red-500' 
-                      : 'after:bg-secondary'
-                  ]"
+                  class="uppercase text-sm tracking-widest font-medium relative after:absolute after:w-0 after:h-px after:bottom-0 after:left-0 after:transition-all after:duration-300 hover:after:w-full after:bg-secondary"
                   active-class="after:w-full"
                 >
-                  <span v-if="item.path === '/sesje-swiateczne'" class="flex items-center">
-                    <Icon name="mdi:snowflake" class="w-4 h-4 mr-1" />
-                    {{ item.label }}
-                    <Icon name="mdi:snowflake" class="w-4 h-4 ml-1" />
-                  </span>
-                  <span v-else>{{ item.label }}</span>
+                  <span>{{ item.label }}</span>
                 </NuxtLink>
               </li>
             </ul>
@@ -57,18 +47,10 @@
         <li v-for="item in navItems" :key="item.path">
           <NuxtLink 
             :to="item.path" 
-            :class="[
-              'uppercase text-lg tracking-widest font-medium',
-              item.path === '/sesje-swiateczne' ? 'text-red-600 hover:text-red-700' : ''
-            ]"
+            class="uppercase text-lg tracking-widest font-medium"
             @click="isMenuOpen = false"
           >
-            <span v-if="item.path === '/sesje-swiateczne'" class="flex items-center">
-              <Icon name="mdi:snowflake" class="w-5 h-5 mr-2" />
-              {{ item.label }}
-              <Icon name="mdi:snowflake" class="w-5 h-5 ml-2" />
-            </span>
-            <span v-else>{{ item.label }}</span>
+            <span>{{ item.label }}</span>
           </NuxtLink>
         </li>
       </ul>
@@ -102,7 +84,7 @@ const navItems = [
   { label: 'Home', path: '/home' },
   { label: 'O Mnie', path: '/o-mnie' },
   { label: 'Portfolio', path: '/portfolio' },
-  { label: 'Sesje Świąteczne', path: '/sesje-swiateczne' },
+
   { label: 'Blog', path: '/blog' },
   { label: 'Kontakt', path: '/kontakt' },
 ];
