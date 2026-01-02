@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://niebieskie-aparaty.com/sitemap.xml
+Sitemap: https://niebieskie-aparaty.pl/sitemap.xml

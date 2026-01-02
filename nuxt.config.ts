@@ -50,6 +50,56 @@ app: {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'canonical', href: 'https://niebieskie-aparaty.pl' }
+    ],
+    script: [
+      {
+        type: 'application/ld+json',
+        innerHTML: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "@id": "https://niebieskie-aparaty.pl",
+          "name": "Niebieskie Aparaty - Anna Migaj",
+          "description": "Profesjonalna fotografia ślubna, portretowa, biznesowa i rodzinna we Wrocławiu. Anna Migaj - doświadczony fotograf z pasją do uchwycenia naturalnych emocji.",
+          "url": "https://niebieskie-aparaty.pl",
+          "telephone": "+48 501 766 564",
+          "email": "kozlowska0705@gmail.com",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Wrocław",
+            "addressRegion": "Dolnośląskie",
+            "addressCountry": "PL"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 51.1079,
+            "longitude": 17.0385
+          },
+          "image": "https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp",
+          "founder": {
+            "@type": "Person",
+            "name": "Anna Migaj",
+            "jobTitle": "Fotograf",
+            "image": "https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp"
+          },
+          "areaServed": [
+            "Wrocław",
+            "Dolnośląskie",
+            "Polska"
+          ],
+          "serviceType": [
+            "Fotografia ślubna",
+            "Fotografia portretowa", 
+            "Fotografia biznesowa",
+            "Fotografia rodzinna",
+            "Sesje zdjęciowe"
+          ],
+          "openingHours": "Mo-Fr 09:00-18:00",
+          "sameAs": [
+            "https://www.instagram.com/niebieskie_aparaty",
+            "https://www.facebook.com/profile.php?id=100001562507926"
+          ]
+        })
+      }
     ]
   },
   pageTransition: { name: 'page', mode: 'out-in' }
@@ -90,7 +140,10 @@ app: {
     '/blog/jak-przygotowac-sie-do-sesji-zdjeciowej': { prerender: true },
     '/blog/jak-wybrac-idealne-miejsce-na-sesje': { prerender: true },
     '/blog/sztuka-naturalnego-pozowania-do-zdjec': { prerender: true },
-    '/kontakt': { prerender: true }
+    '/kontakt': { prerender: true },
+    '/sesja-slubna-wroclaw': { prerender: true },
+    '/fotograf-portretowy-wroclaw': { prerender: true },
+    '/sesja-biznesowa-wroclaw': { prerender: true }
   },
   
   typescript: {

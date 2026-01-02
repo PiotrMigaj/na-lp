@@ -278,14 +278,14 @@ const filteredPortfolioItems = computed(() => {
   return portfolioItems.filter(item => item.category === selectedCategory.value);
 });
 
-useHead({
-  title: 'Portfolio | Anna Migaj – Fotografia Kobieca, Ślubna, Rodzinna, Biznesowa',
-  meta: [
-    {
-      name: 'description',
-      content:
-        'Portfolio Anny Migaj – fotografki z Wrocławia. Zobacz wybrane sesje kobiece, ślubne, rodzinne i wizerunkowe. Estetyka, emocje i profesjonalizm w jednym kadrze.'
-    }
-  ]
+useSeoMeta({
+  title: 'Portfolio Fotograf Wrocław - Anna Migaj | Sesje Ślubne, Biznesowe',
+  description: 'Portfolio Anny Migaj - fotografki ze Wrocławia. Zobacz realizacje sesji ślubnych, biznesowych, kobiecych i rodzinnych. Profesjonalna fotografia pełna emocji.',
+  keywords: 'portfolio fotograf Wrocław, zdjęcia ślubne portfolio, sesje biznesowe Wrocław, fotografia kobieca, Anna Migaj portfolio',
+  robots: 'index, follow',
+  ogTitle: 'Portfolio Fotograf Wrocław - Anna Migaj | Sesje Ślubne, Biznesowe',
+  ogDescription: 'Portfolio Anny Migaj - fotografki ze Wrocławia. Zobacz realizacje sesji ślubnych, biznesowych, kobiecych i rodzinnych.',
+  ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249874/slubne-1_jyc43n.webp',
+  ogLocale: 'pl_PL'
 });
 </script>

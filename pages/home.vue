@@ -8,10 +8,11 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <SectionHeader 
-              title="O mnie"
-              subtitle="Nazywam się Anna Migaj i od kilku lat zajmuję się fotografią. Z wykształcenia jestem architektką – zamiłowanie do estetyki, harmonii i detalu od zawsze towarzyszyło mojej pracy twórczej."
-            />
+            <h2 class="font-italiana text-4xl mb-6">Profesjonalna Fotografia we Wrocławiu</h2>
+            <h3 class="text-xl font-medium mb-4">Anna Migaj - Twój Fotograf</h3>
+            <p class="mb-6 font-light leading-relaxed">
+              Nazywam się Anna Migaj i od kilku lat zajmuję się fotografią. Z wykształcenia jestem architektką – zamiłowanie do estetyki, harmonii i detalu od zawsze towarzyszyło mojej pracy twórczej.
+            </p>
             <p class="mb-6 font-light leading-relaxed">
               Moje zdjęcia charakteryzują się minimalistycznym stylem, w którym światło i forma odgrywają kluczową rolę. Tworzę kadry ponadczasowe – subtelne, ale pełne znaczenia – uchwycające naturalne piękno i osobowość fotografowanej osoby.
             </p>
@@ -25,7 +26,7 @@
           <div>
             <NuxtImg
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp"
-              alt="Anna Migaj Fotograf"
+              alt="Anna Migaj - profesjonalny fotograf ślubny i portretowy we Wrocławiu"
               class="w-full h-[900px] object-cover"
               width="800"
               height="900"
@@ -39,11 +40,12 @@
     <!-- Portfolio Section -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
-        <SectionHeaderCenteredSubtitle 
-          title="Wybrane projekty"
-          subtitle="Przegląd moich najnowszych realizacji, które odzwierciedlają mój styl i podejście do fotografii."
-          class="text-center"
-        />
+        <div class="text-center mb-16">
+          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Portfolio Fotografa ze Wrocławia</h2>
+          <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+            Przegląd moich najnowszych realizacji, które odzwierciedlają mój styl i podejście do fotografii.
+          </p>
+        </div>
 
         <PortfolioGrid :items="portfolioItems.slice(0, 6)" />
 
@@ -58,11 +60,28 @@
     <!-- Services Section -->
     <section class="py-24">
       <div class="container mx-auto px-4">
-        <SectionHeaderCenteredSubtitle 
-          title="Oferta"
-          subtitle="Profesjonalna fotografia dopasowana do Twoich potrzeb i wizji."
-          class="text-center"
-        />
+        <div class="text-center mb-16">
+          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Sesje Zdjęciowe Wrocław</h2>
+          <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+            Profesjonalna fotografia dopasowana do Twoich potrzeb i wizji.
+          </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+          <div class="text-center">
+            <h3 class="text-2xl font-medium mb-4">Fotografia Ślubna Wrocław</h3>
+            <p class="text-gray-600 mb-4">Naturalne zdjęcia ślubne pełne emocji i spontanicznych momentów</p>
+          </div>
+          <div class="text-center">
+            <h3 class="text-2xl font-medium mb-4">Sesje Biznesowe Wrocław</h3>
+            <p class="text-gray-600 mb-4">Profesjonalne zdjęcia biznesowe i korporacyjne</p>
+          </div>
+          <div class="text-center">
+            <h3 class="text-2xl font-medium mb-4">Fotografia Portretowa</h3>
+            <p class="text-gray-600 mb-4">Sesje portretowe i kobiece pełne naturalności</p>
+          </div>
+        </div>
+        
         <ServicesGrid :services="services" />
       </div>
     </section>
@@ -106,38 +125,19 @@
 <script setup>
 import SectionHeaderCenteredSubtitle from '~/components/SectionHeaderCenteredSubtitle.vue';
 
-useHead({
-  title: 'Anna Migaj - Profesjonalna Fotografia Ślubna i Biznesowa | Wrocław',
-  meta: [
-    { 
-      name: 'description', 
-      content: 'Profesjonalna fotografia ślubna, biznesowa i kobieca we Wrocławiu. Anna Migaj tworzy naturalne, pełne emocji zdjęcia, które uwieczniają najważniejsze chwile. Sprawdź portfolio i umów się na sesję!' 
-    },
-    { 
-      name: 'keywords', 
-      content: 'fotografia ślubna Wrocław, fotografia biznesowa, sesja kobieca, fotografia portretowa, Anna Migaj, Niebieskie Aparaty' 
-    },
-    { 
-      name: 'robots', 
-      content: 'index, follow' 
-    },
-    { 
-      property: 'og:title', 
-      content: 'Anna Migaj - Profesjonalna Fotografia Ślubna i Biznesowa | Wrocław' 
-    },
-    { 
-      property: 'og:description', 
-      content: 'Profesjonalna fotografia ślubna, biznesowa i kobieca we Wrocławiu. Naturalne, pełne emocji zdjęcia, które uwieczniają najważniejsze chwile.' 
-    },
-    { 
-      property: 'og:image', 
-      content: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp' 
-    },
-    { 
-      property: 'og:locale', 
-      content: 'pl_PL' 
-    }
-  ]
+useSeoMeta({
+  title: 'Fotograf Wrocław - Anna Migaj | Sesje Ślubne, Portretowe, Biznesowe',
+  description: 'Profesjonalny fotograf Wrocław - Anna Migaj. Sesje ślubne, portretowe, biznesowe i rodzinne. Naturalne zdjęcia pełne emocji. Zarezerwuj sesję już dziś! ✨',
+  keywords: 'fotograf Wrocław, sesja zdjęciowa Wrocław, fotografia ślubna Wrocław, fotograf portretowy Wrocław, Anna Migaj, Niebieskie Aparaty, sesja biznesowa Wrocław',
+  robots: 'index, follow',
+  ogTitle: 'Fotograf Wrocław - Anna Migaj | Sesje Ślubne, Portretowe, Biznesowe',
+  ogDescription: 'Profesjonalny fotograf Wrocław - Anna Migaj. Sesje ślubne, portretowe, biznesowe i rodzinne. Naturalne zdjęcia pełne emocji. Zarezerwuj sesję już dziś!',
+  ogImage: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp',
+  ogLocale: 'pl_PL',
+  twitterCard: 'summary_large_image',
+  twitterTitle: 'Fotograf Wrocław - Anna Migaj | Sesje Ślubne, Portretowe, Biznesowe',
+  twitterDescription: 'Profesjonalny fotograf Wrocław - Anna Migaj. Sesje ślubne, portretowe, biznesowe i rodzinne. Naturalne zdjęcia pełne emocji.',
+  twitterImage: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp'
 });
 
 const portfolioItems = [

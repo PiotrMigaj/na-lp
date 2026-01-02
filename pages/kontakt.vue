@@ -105,13 +105,14 @@
 </template>
 
 <script setup>
-useHead({
-  title: 'Kontakt',
-  meta: [
-    {
-      name: 'description',
-      content: 'Skontaktuj się z NIEBIESKIE APARATY i zaplanuj profesjonalną sesję zdjęciową. Fotografuję w całej Polsce – napisz i opowiedz o swoim pomyśle!',
-    },
-  ],
+useSeoMeta({
+  title: 'Kontakt - Fotograf Wrocław Anna Migaj | Zarezerwuj Sesję',
+  description: 'Skontaktuj się z Anną Migaj - fotografem ze Wrocławia. Umów sesję ślubną, portretową lub biznesową. Tel: +48 501 766 564. Działam w całej Polsce.',
+  keywords: 'kontakt fotograf Wrocław, umówić sesję Wrocław, fotograf tel Wrocław, rezerwacja sesji zdjęciowej',
+  robots: 'index, follow',
+  ogTitle: 'Kontakt - Fotograf Wrocław Anna Migaj | Zarezerwuj Sesję',
+  ogDescription: 'Skontaktuj się z Anną Migaj - fotografem ze Wrocławia. Umów sesję ślubną, portretową lub biznesową. Tel: +48 501 766 564.',
+  ogImage: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp',
+  ogLocale: 'pl_PL'
 });
 </script>

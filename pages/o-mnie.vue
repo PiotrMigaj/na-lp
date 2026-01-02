@@ -15,7 +15,7 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <NuxtImg src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp" alt="Anna Migaj – Fotograf"
+            <NuxtImg src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp" alt="Anna Migaj - doświadczony fotograf ze Wrocławia z wykształceniem architektonicznym"
               class="w-full h-[800px] object-cover" width="800" height="800" format="webp" />
           </div>
           <div>
@@ -61,7 +61,7 @@
           <div>
             <NuxtImg
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249188/o-mnie-anna-migaj-fotograf_pghi8g.webp"
-              alt="Filozofia fotografii" class="w-full h-[600px] object-cover" width="800" height="600" format="webp" />
+              alt="Filozofia pracy fotografa Anny Migaj - naturalne zdjęcia pełne emocji" class="w-full h-[600px] object-cover" width="800" height="600" format="webp" />
           </div>
         </div>
       </div>
@@ -84,10 +84,14 @@
 </template>
 
 <script setup>
-useHead({
-  title: 'O mnie – Anna Migaj',
-  meta: [
-    { name: 'description', content: 'Poznaj Annę Migaj – fotografkę z wykształceniem architektonicznym, która łączy wrażliwość estetyczną z pasją do pracy z ludźmi.' }
-  ]
+useSeoMeta({
+  title: 'O mnie - Anna Migaj Fotograf Wrocław | Niebieskie Aparaty',
+  description: 'Anna Migaj - doświadczony fotograf ze Wrocławia. Z wykształcenia architektka, z pasji fotografka. Poznaj moją historię i styl fotograficzny.',
+  keywords: 'Anna Migaj fotograf, fotograf Wrocław o mnie, biografia fotografa, architektka fotograf',
+  robots: 'index, follow',
+  ogTitle: 'O mnie - Anna Migaj Fotograf Wrocław | Niebieskie Aparaty',
+  ogDescription: 'Anna Migaj - doświadczony fotograf ze Wrocławia. Z wykształcenia architektka, z pasji fotografka. Poznaj moją historię i styl fotograficzny.',
+  ogImage: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp',
+  ogLocale: 'pl_PL'
 });
 </script>
