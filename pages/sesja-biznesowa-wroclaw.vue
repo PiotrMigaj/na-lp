@@ -8,7 +8,7 @@
     <!-- Hero Section -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-italiana text-5xl md:text-6xl mb-6">Sesja Biznesowa Wrocław</h1>
+        <h1 class="font-cormorant text-5xl md:text-6xl mb-6">Sesja Biznesowa Wrocław</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
           Profesjonalne zdjęcia biznesowe i korporacyjne we Wrocławiu. Anna Migaj tworzy autentyczne portrety biznesowe, które budują Twój wizerunek profesjonalny.
         </p>
@@ -20,7 +20,7 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 class="font-italiana text-4xl mb-6">Sesje Biznesowe Wrocław</h2>
+            <h2 class="font-cormorant text-4xl mb-6">Sesje Biznesowe Wrocław</h2>
             <h3 class="text-xl font-medium mb-4">Profesjonalne Zdjęcia do Biznesu</h3>
             <p class="mb-6 font-light leading-relaxed">
               Specjalizuję się w sesjach biznesowych we Wrocławiu, tworząc profesjonalne zdjęcia, które budują Twój wizerunek w branży. Moje zdjęcia biznesowe łączą profesjonalizm z naturalnością.
@@ -50,7 +50,7 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Rodzaje Sesji Biznesowych</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Rodzaje Sesji Biznesowych</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Oferuję kompleksowe usługi fotografii biznesowej dostosowane do potrzeb Twojej firmy.
           </p>
@@ -97,7 +97,7 @@
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Portfolio Biznesowe</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Portfolio Biznesowe</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Zobacz przykłady moich realizacji dla klientów biznesowych we Wrocławiu.
           </p>
@@ -184,7 +184,7 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Cennik Sesji Biznesowych</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Cennik Sesji Biznesowych</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Przejrzyste ceny dostosowane do potrzeb Twojego biznesu.
           </p>
@@ -244,7 +244,7 @@
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Dlaczego Warto Zainwestować</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Dlaczego Warto Zainwestować</h2>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -271,7 +271,7 @@
     <!-- CTA -->
     <section class="py-24 bg-secondary text-primary text-center">
       <div class="container mx-auto px-4 max-w-3xl">
-        <h2 class="font-italiana text-4xl mb-6">Zbuduj Profesjonalny Wizerunek</h2>
+        <h2 class="font-cormorant text-4xl mb-6">Zbuduj Profesjonalny Wizerunek</h2>
         <p class="font-light text-lg mb-10 leading-relaxed">
           Skontaktuj się ze mną, aby omówić Twoje potrzeby biznesowe i zarezerwować sesję.
         </p>

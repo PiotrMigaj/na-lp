@@ -1,7 +1,7 @@
 <template>
   <article class="container mx-auto px-4 py-16 max-w-4xl">
     <header class="mb-12">
-      <h1 class="font-italiana text-4xl md:text-5xl mb-6">Jak przygotować się do sesji zdjęciowej</h1>
+      <h1 class="font-cormorant text-4xl md:text-5xl mb-6">Jak przygotować się do sesji zdjęciowej</h1>
       <div class="flex items-center text-text-light mb-8">
         <span>15 marca 2024</span>
         <span class="mx-2">•</span>
@@ -113,7 +113,7 @@
       </ul>
 
       <div class="mt-12 pt-8 border-t">
-        <h3 class="text-2xl font-italiana mb-4">Gotowa/y na swoją sesję we Wrocławiu?</h3>
+        <h3 class="text-2xl font-cormorant mb-4">Gotowa/y na swoją sesję we Wrocławiu?</h3>
         <p>
           Teraz, gdy wiesz już, jak się przygotować, czas umówić swoją sesję zdjęciową. 
           Skontaktuj się z nami, aby omówić swoją wizję i zarezerwować dogodny termin.
@@ -146,7 +146,7 @@ useSeoMeta({
 }
 
 .prose h2 {
-  @apply font-italiana text-3xl mt-12 mb-6;
+  @apply font-cormorant text-3xl mt-12 mb-6;
 }
 
 .prose p {

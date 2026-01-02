@@ -16,7 +16,7 @@
       />
       <div class="absolute inset-0 bg-black/0 group-hover:bg-black/70 transition-all duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100">
         <div class="text-center text-white">
-          <h3 class="font-italiana text-xl tracking-wider mb-2">{{ item.title }}</h3>
+          <h3 class="font-cormorant text-xl tracking-wider mb-2">{{ item.title }}</h3>
           <p class="text-sm tracking-wide">{{ item.category }}</p>
         </div>
       </div>

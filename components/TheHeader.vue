@@ -3,7 +3,7 @@
     <nav class="bg-white/95 shadow-sm backdrop-blur-sm py-4">
       <div class="container mx-auto px-4">
         <div class="flex justify-between items-center">
-          <NuxtLink to="/" class="font-italiana text-3xl tracking-wider">
+          <NuxtLink to="/" class="font-cormorant text-3xl tracking-wider">
             NIEBIESKIE APARATY
           </NuxtLink>
           

@@ -8,7 +8,7 @@
     <!-- Hero Section -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-italiana text-5xl md:text-6xl mb-6">Sesja Ślubna Wrocław</h1>
+        <h1 class="font-cormorant text-5xl md:text-6xl mb-6">Sesja Ślubna Wrocław</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
           Naturalne, pełne emocji zdjęcia ślubne we Wrocławiu. Anna Migaj specjalizuje się w uchwyceniu spontanicznych momentów i prawdziwych uczuć w dniu ślubu.
         </p>
@@ -20,7 +20,7 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 class="font-italiana text-4xl mb-6">Fotografia Ślubna Wrocław</h2>
+            <h2 class="font-cormorant text-4xl mb-6">Fotografia Ślubna Wrocław</h2>
             <h3 class="text-xl font-medium mb-4">Naturalne Zdjęcia Ślubne</h3>
             <p class="mb-6 font-light leading-relaxed">
               Specjalizuję się w fotografii ślubnej we Wrocławiu, tworząc naturalne, spontaniczne zdjęcia, które oddają prawdziwe emocje dnia ślubu. Mój styl to minimalizm, elegancja i uchwycenie najważniejszych momentów.
@@ -50,7 +50,7 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Pakiety Ślubne</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Pakiety Ślubne</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Oferuję różne pakiety fotografii ślubnej dostosowane do Waszych potrzeb i budżetu.
           </p>
@@ -101,7 +101,7 @@
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Galeria Zdjęć Ślubnych</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Galeria Zdjęć Ślubnych</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Zobacz przykłady moich prac z sesji ślubnych we Wrocławiu i okolicach.
           </p>
@@ -133,7 +133,7 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Dlaczego Anna Migaj?</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Dlaczego Anna Migaj?</h2>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -160,7 +160,7 @@
     <!-- CTA -->
     <section class="py-24 bg-secondary text-primary text-center">
       <div class="container mx-auto px-4 max-w-3xl">
-        <h2 class="font-italiana text-4xl mb-6">Zarezerwuj Swoją Sesję Ślubną</h2>
+        <h2 class="font-cormorant text-4xl mb-6">Zarezerwuj Swoją Sesję Ślubną</h2>
         <p class="font-light text-lg mb-10 leading-relaxed">
           Skontaktuj się ze mną, aby omówić szczegóły Waszego ślubu i zarezerwować termin na fotografię ślubną we Wrocławiu.
         </p>

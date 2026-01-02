@@ -3,7 +3,7 @@
     <!-- Sekcja Hero -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-italiana text-5xl mb-6">Kontakt</h1>
+        <h1 class="font-cormorant text-5xl mb-6">Kontakt</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
           Masz pomysł na sesję? Napisz do mnie – chętnie porozmawiam i wspólnie stworzymy coś wyjątkowego.
         </p>

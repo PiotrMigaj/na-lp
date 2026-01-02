@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        italiana: ['Italiana', 'serif'],
+        cormorant: ['Cormorant Garamond', 'serif'],
         montserrat: ['Montserrat', 'sans-serif'],
         'bodoni-moda': ['Bodoni Moda', 'serif'],
       },

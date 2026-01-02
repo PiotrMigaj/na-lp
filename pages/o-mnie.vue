@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-italiana text-5xl mb-6">O mnie</h1>
+        <h1 class="font-cormorant text-5xl mb-6">O mnie</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
           Poznaj historię mojej drogi twórczej i pasji do fotografii, która łączy w sobie estetykę, relacje i uważność.
         </p>
@@ -70,7 +70,7 @@
     <!-- Contact CTA -->
     <section class="py-24 bg-secondary text-primary text-center">
       <div class="container mx-auto px-4 max-w-3xl">
-        <h2 class="font-italiana text-4xl mb-6">Stwórzmy razem coś pięknego</h2>
+        <h2 class="font-cormorant text-4xl mb-6">Stwórzmy razem coś pięknego</h2>
         <p class="font-light text-lg mb-10 leading-relaxed">
           Porozmawiajmy o Twoim projekcie – wspólnie stworzymy fotografie, które zachwycają i zostają w pamięci.
         </p>

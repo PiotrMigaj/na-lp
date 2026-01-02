@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-italiana text-5xl mb-6">Portfolio</h1>
+        <h1 class="font-cormorant text-5xl mb-6">Portfolio</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
           Kolekcja moich prac, obejmująca głównie sesje kobiece, biznesowe, ślubne, rodzinne oraz inne projekty tworzone
           z pasją — zarówno komercyjne, jak i osobiste.
@@ -34,7 +34,7 @@
     <!-- CTA -->
     <section class="py-24 bg-secondary text-primary text-center">
       <div class="container mx-auto px-4 max-w-3xl">
-        <h2 class="font-italiana text-4xl mb-6">Rozpocznij swój projekt</h2>
+        <h2 class="font-cormorant text-4xl mb-6">Rozpocznij swój projekt</h2>
         <p class="font-light text-lg mb-10 leading-relaxed">
           Gotowa na stworzenie wyjątkowych wizualizacji dla Twojej marki lub publikacji? Porozmawiajmy o Twojej wizji i
           zrealizujmy ją razem.

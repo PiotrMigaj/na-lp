@@ -107,7 +107,7 @@ app: {
   
   googleFonts: {
     families: {
-      Italiana: true,
+      'Cormorant+Garamond': [300, 400, 500, 600, 700],
       Montserrat: [300, 400, 500, 600],
     },
     subsets: ['latin', 'latin-ext'],

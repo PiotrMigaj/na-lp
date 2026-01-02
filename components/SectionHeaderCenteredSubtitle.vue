@@ -1,6 +1,6 @@
 <template>
   <div class="mb-16 relative">
-    <h2 class="font-italiana text-4xl relative inline-block">
+    <h2 class="font-cormorant text-4xl relative inline-block">
       {{ title }}
       <span class="absolute -bottom-4 left-0 w-[50px] h-[1px] bg-secondary"></span>
     </h2>

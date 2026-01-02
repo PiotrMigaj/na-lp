@@ -5,7 +5,7 @@
         class="flex flex-col md:flex-row justify-between items-start md:items-center gap-12 text-center md:text-left">
         <!-- Lewa kolumna: Niebieskie Aparaty -->
         <div class="md:w-1/2 max-w-xl">
-          <h3 class="font-italiana text-2xl mb-6">NIEBIESKIE APARATY</h3>
+          <h3 class="font-cormorant text-2xl mb-6">NIEBIESKIE APARATY</h3>
           <p class="font-light leading-relaxed">
             Fotografuję kobiety, pary i rodziny – łącząc minimalistyczną estetykę z autentycznymi emocjami.
           </p>
@@ -24,7 +24,7 @@
 
         <!-- Prawa kolumna: Nawigacja -->
         <div class="md:w-1/2 md:text-right">
-          <h3 class="font-italiana text-2xl mb-6">Nawigacja</h3>
+          <h3 class="font-cormorant text-2xl mb-6">Nawigacja</h3>
           <ul class="space-y-3">
             <li v-for="item in navItems" :key="item.path">
               <NuxtLink :to="item.path" class="inline-block font-light hover:underline">

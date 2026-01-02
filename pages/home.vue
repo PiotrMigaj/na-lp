@@ -8,7 +8,7 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 class="font-italiana text-4xl mb-6">Fotograf Wrocław - Profesjonalne Sesje Zdjęciowe</h2>
+            <h2 class="font-cormorant text-4xl mb-6">Fotograf Wrocław - Profesjonalne Sesje Zdjęciowe</h2>
             <h3 class="text-xl font-medium mb-4">Anna Migaj - Twój Fotograf</h3>
             <p class="mb-6 font-light leading-relaxed">
               Nazywam się Anna Migaj i od kilku lat zajmuję się fotografią. Z wykształcenia jestem architektką – zamiłowanie do estetyki, harmonii i detalu od zawsze towarzyszyło mojej pracy twórczej.
@@ -41,7 +41,7 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Portfolio Fotografa ze Wrocławia</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Portfolio Fotografa ze Wrocławia</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Przegląd moich najnowszych realizacji, które odzwierciedlają mój styl i podejście do fotografii.
           </p>
@@ -61,7 +61,7 @@
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Sesje Zdjęciowe Wrocław</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Sesje Zdjęciowe Wrocław</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Profesjonalna fotografia dopasowana do Twoich potrzeb i wizji.
           </p>
@@ -110,7 +110,7 @@
     <!-- Contact CTA -->
     <section class="py-24 bg-secondary text-primary text-center">
       <div class="container mx-auto px-4 max-w-3xl">
-        <h2 class="font-italiana text-4xl mb-6">Stwórzmy razem coś pięknego</h2>
+        <h2 class="font-cormorant text-4xl mb-6">Stwórzmy razem coś pięknego</h2>
         <p class="font-light text-lg mb-10 leading-relaxed">
           Porozmawiajmy o Twoim projekcie – wspólnie stworzymy fotografie, które zachwycają i zostają w pamięci.
         </p>

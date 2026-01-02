@@ -50,7 +50,7 @@
                    'translate-y-0 opacity-100': imageLoaded[index] 
                  }"
                  :style="{ transition: 'all 1s ease-out 0.6s' }">
-              <h1 class="font-italiana text-4xl md:text-5xl lg:text-6xl mb-6 tracking-wider">{{ slide.title }}</h1>
+              <h1 class="font-cormorant text-4xl md:text-5xl lg:text-6xl mb-6 tracking-wider">{{ slide.title }}</h1>
               <p class="font-light text-base md:text-lg lg:text-xl mb-8 tracking-wide max-w-2xl mx-auto">{{
                 slide.description }}</p>
               <NuxtLink :to="slide.buttonLink"

@@ -8,7 +8,7 @@
     <!-- Hero Section -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-italiana text-5xl md:text-6xl mb-6">Fotograf Portretowy Wrocław</h1>
+        <h1 class="font-cormorant text-5xl md:text-6xl mb-6">Fotograf Portretowy Wrocław</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
           Profesjonalne sesje portretowe i kobiece we Wrocławiu. Anna Migaj tworzy naturalne portrety, które oddają Twoją osobowość i unikalny charakter.
         </p>
@@ -20,7 +20,7 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 class="font-italiana text-4xl mb-6">Sesje Portretowe Wrocław</h2>
+            <h2 class="font-cormorant text-4xl mb-6">Sesje Portretowe Wrocław</h2>
             <h3 class="text-xl font-medium mb-4">Naturalne Portrety Pełne Charakteru</h3>
             <p class="mb-6 font-light leading-relaxed">
               Jako fotograf portretowy we Wrocławiu specjalizuję się w tworzeniu naturalnych, autentycznych portretów. Wierzę, że najpiękniejsze zdjęcia powstają, gdy czujesz się swobodnie i komfortowo.
@@ -50,7 +50,7 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Rodzaje Sesji Portretowych</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Rodzaje Sesji Portretowych</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Oferuję różne typy sesji portretowych dostosowane do Twoich potrzeb i stylu.
           </p>
@@ -94,7 +94,7 @@
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Portfolio Portretów</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Portfolio Portretów</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Zobacz przykłady moich prac portretowych - naturalne, autentyczne zdjęcia.
           </p>
@@ -181,7 +181,7 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-italiana text-4xl md:text-5xl mb-6">Jak Przebiega Sesja</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Jak Przebiega Sesja</h2>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
@@ -212,7 +212,7 @@
     <!-- CTA -->
     <section class="py-24 bg-secondary text-primary text-center">
       <div class="container mx-auto px-4 max-w-3xl">
-        <h2 class="font-italiana text-4xl mb-6">Zarezerwuj Swoją Sesję Portretową</h2>
+        <h2 class="font-cormorant text-4xl mb-6">Zarezerwuj Swoją Sesję Portretową</h2>
         <p class="font-light text-lg mb-10 leading-relaxed">
           Umów się na konsultację i stwórzmy razem wyjątkowe portrety, które pokochasz.
         </p>

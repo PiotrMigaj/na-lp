@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4 py-16">
-    <h1 class="font-italiana text-4xl md:text-5xl text-center mb-12">Blog Fotograficzny</h1>
+    <h1 class="font-cormorant text-4xl md:text-5xl text-center mb-12">Blog Fotograficzny</h1>
     <p class="text-center text-text-light max-w-2xl mx-auto mb-16">
       Odkryj porady, inspiracje i spostrzeżenia z naszej profesjonalnej podróży fotograficznej.
       Od poradników przygotowawczych po kreatywne techniki — dzielimy się wiedzą, aby pomóc Ci uchwycić idealne momenty.
@@ -22,7 +22,7 @@
             />
           </div>
           <div class="p-6">
-            <h2 class="font-italiana text-2xl mb-3 group-hover:text-secondary transition-colors duration-300">
+            <h2 class="font-cormorant text-2xl mb-3 group-hover:text-secondary transition-colors duration-300">
               {{ post.title }}
             </h2>
             <p class="text-text-light mb-4 line-clamp-2">{{ post.excerpt }}</p>

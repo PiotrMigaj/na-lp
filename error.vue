@@ -2,8 +2,8 @@
   <div class="min-h-screen flex items-center justify-center bg-accent">
     <div class="container mx-auto px-4">
       <div class="max-w-lg mx-auto text-center">
-        <h1 class="font-italiana text-6xl mb-4">404</h1>
-        <h2 class="font-italiana text-2xl mb-6">Strona Nie Znaleziona</h2>
+        <h1 class="font-cormorant text-6xl mb-4">404</h1>
+        <h2 class="font-cormorant text-2xl mb-6">Strona Nie Znaleziona</h2>
         <p class="mb-8 text-text-light">
           Strona, której szukasz, nie istnieje lub została przeniesiona.
         </p>

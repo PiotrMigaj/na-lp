@@ -407,7 +407,7 @@ useSeoMeta({
 }
 
 .prose h2 {
-  @apply font-italiana text-3xl mt-12 mb-6;
+  @apply font-cormorant text-3xl mt-12 mb-6;
 }
 
 .prose p {
