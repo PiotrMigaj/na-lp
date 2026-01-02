@@ -58,7 +58,7 @@
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div class="bg-white p-8 rounded-lg shadow-lg text-center">
-            <h3 class="text-2xl font-medium mb-4">Sesje Kobiece</h3>
+            <h3 class="text-2xl font-medium mb-4">Sesje Kobiece Wrocław</h3>
             <p class="text-gray-600 mb-6">Naturalne, kobiece portrety podkreślające Twoją unikalną urodę i osobowość</p>
             <ul class="text-left space-y-2 text-sm">
               <li>• Sesje w studio lub plenerze</li>
@@ -226,7 +226,7 @@
 
 <script setup>
 useSeoMeta({
-  title: 'Fotograf Portretowy Wrocław - Anna Migaj | Sesje Kobiece',
+  title: 'Fotograf Portretowy Wrocław - Anna Migaj | Sesje Kobiece Wrocław',
   description: 'Fotograf portretowy Wrocław - Anna Migaj. Profesjonalne sesje portretowe, kobiece i biznesowe. Naturalne zdjęcia oddające Twoją osobowość. Umów sesję!',
   keywords: 'fotograf portretowy Wrocław, sesja portretowa Wrocław, sesja kobieca Wrocław, zdjęcia portretowe, Anna Migaj portrait, fotografia portretowa',
   robots: 'index, follow',
@@ -236,4 +236,33 @@ useSeoMeta({
   ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image'
 });
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Sesje Kobiece Wrocław",
+        "description": "Naturalne i autentyczne sesje kobiece we Wrocławiu. Poczuj się piękna i pewna siebie przed obiektywem.",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Niebieskie Aparaty - Anna Migaj",
+          "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250438/kobiece-1_ovdkxi.webp"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Wrocław"
+        },
+        "offers": {
+          "@type": "Offer",
+          "description": "Sesja kobieca Wrocław",
+          "priceCurrency": "PLN",
+          "availability": "https://schema.org/InStock"
+        }
+      })
+    }
+  ]
+})
 </script>

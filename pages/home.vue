@@ -8,7 +8,7 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 class="font-italiana text-4xl mb-6">Profesjonalna Fotografia we Wrocławiu</h2>
+            <h2 class="font-italiana text-4xl mb-6">Fotograf Wrocław - Profesjonalne Sesje Zdjęciowe</h2>
             <h3 class="text-xl font-medium mb-4">Anna Migaj - Twój Fotograf</h3>
             <p class="mb-6 font-light leading-relaxed">
               Nazywam się Anna Migaj i od kilku lat zajmuję się fotografią. Z wykształcenia jestem architektką – zamiłowanie do estetyki, harmonii i detalu od zawsze towarzyszyło mojej pracy twórczej.
@@ -126,17 +126,17 @@
 import SectionHeaderCenteredSubtitle from '~/components/SectionHeaderCenteredSubtitle.vue';
 
 useSeoMeta({
-  title: 'Fotograf Wrocław - Anna Migaj | Sesje Ślubne, Portretowe, Biznesowe',
-  description: 'Profesjonalny fotograf Wrocław - Anna Migaj. Sesje ślubne, portretowe, biznesowe i rodzinne. Naturalne zdjęcia pełne emocji. Zarezerwuj sesję już dziś! ✨',
-  keywords: 'fotograf Wrocław, sesja zdjęciowa Wrocław, fotografia ślubna Wrocław, fotograf portretowy Wrocław, Anna Migaj, Niebieskie Aparaty, sesja biznesowa Wrocław',
+  title: 'Fotograf Wrocław - Anna Migaj | Sesje Kobiece, Biznesowe i Ślubne',
+  description: 'Profesjonalny fotograf Wrocław - Anna Migaj. Wyjątkowe sesje kobiece, biznesowe i ślubne. Naturalna fotografia pełna emocji. Sprawdź ofertę! ✨',
+  keywords: 'fotograf Wrocław, sesje kobiece Wrocław, sesja biznesowa Wrocław, fotografia ślubna Wrocław, Anna Migaj, Niebieskie Aparaty',
   robots: 'index, follow',
-  ogTitle: 'Fotograf Wrocław - Anna Migaj | Sesje Ślubne, Portretowe, Biznesowe',
-  ogDescription: 'Profesjonalny fotograf Wrocław - Anna Migaj. Sesje ślubne, portretowe, biznesowe i rodzinne. Naturalne zdjęcia pełne emocji. Zarezerwuj sesję już dziś!',
+  ogTitle: 'Fotograf Wrocław - Anna Migaj | Sesje Kobiece, Biznesowe i Ślubne',
+  ogDescription: 'Profesjonalny fotograf Wrocław - Anna Migaj. Wyjątkowe sesje kobiece, biznesowe i ślubne. Naturalna fotografia pełna emocji.',
   ogImage: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp',
   ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image',
-  twitterTitle: 'Fotograf Wrocław - Anna Migaj | Sesje Ślubne, Portretowe, Biznesowe',
-  twitterDescription: 'Profesjonalny fotograf Wrocław - Anna Migaj. Sesje ślubne, portretowe, biznesowe i rodzinne. Naturalne zdjęcia pełne emocji.',
+  twitterTitle: 'Fotograf Wrocław - Anna Migaj | Sesje Kobiece, Biznesowe i Ślubne',
+  twitterDescription: 'Profesjonalny fotograf Wrocław - Anna Migaj. Wyjątkowe sesje kobiece, biznesowe i ślubne.',
   twitterImage: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp'
 });
 

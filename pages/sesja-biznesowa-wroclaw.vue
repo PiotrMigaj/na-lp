@@ -20,10 +20,10 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 class="font-italiana text-4xl mb-6">Fotografia Biznesowa Wrocław</h2>
+            <h2 class="font-italiana text-4xl mb-6">Sesje Biznesowe Wrocław</h2>
             <h3 class="text-xl font-medium mb-4">Profesjonalne Zdjęcia do Biznesu</h3>
             <p class="mb-6 font-light leading-relaxed">
-              Specjalizuję się w fotografii biznesowej we Wrocławiu, tworząc profesjonalne zdjęcia, które budują Twój wizerunek w branży. Moje zdjęcia biznesowe łączą profesjonalizm z naturalnością.
+              Specjalizuję się w sesjach biznesowych we Wrocławiu, tworząc profesjonalne zdjęcia, które budują Twój wizerunek w branży. Moje zdjęcia biznesowe łączą profesjonalizm z naturalnością.
             </p>
             <p class="mb-6 font-light leading-relaxed">
               Pracuję z przedsiębiorcami, korporacjami i freelancerami, tworząc zdjęcia do LinkedIn, stron internetowych, materiałów marketingowych i kampanii reklamowych.
@@ -295,4 +295,51 @@ useSeoMeta({
   ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image'
 });
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Sesje Biznesowe Wrocław",
+        "description": "Profesjonalne sesje biznesowe i korporacyjne we Wrocławiu. Zdjęcia do LinkedIn, CV i stron www.",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Niebieskie Aparaty - Anna Migaj",
+          "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250522/biznesowe-1_fknqui.webp"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Wrocław"
+        },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Sesje Biznesowe",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Portret LinkedIn"
+              },
+              "price": "450",
+              "priceCurrency": "PLN"
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Sesja Biznesowa Standard"
+              },
+              "price": "850",
+              "priceCurrency": "PLN"
+            }
+          ]
+        }
+      })
+    }
+  ]
+})
 </script>
