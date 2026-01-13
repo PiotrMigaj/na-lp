@@ -203,7 +203,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385962/sesja-swiateczna-anna-migaj-6_rl8wvn.webp"
-              alt="Świąteczna sesja Anna Migaj 6"
+              alt="Sesja swiateczna Wroclaw - para z dzieckiem - fotograf Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -214,7 +214,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385962/sesja-swiateczna-anna-migaj-7_dgxca1.webp"
-              alt="Świąteczna sesja Anna Migaj 7"
+              alt="Zdjecia swiateczne rodzinne Wroclaw - naturalne portrety Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -225,7 +225,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-8_u0tzng.webp"
-              alt="Świąteczna sesja Anna Migaj 8"
+              alt="Swiateczna sesja fotograficzna Wroclaw - radosne chwile Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -236,7 +236,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-9_sm10dp.webp"
-              alt="Świąteczna sesja Anna Migaj 9"
+              alt="Sesja swiateczna dzieci Wroclaw - profesjonalne zdjecia Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -247,7 +247,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-10_lvuqvk.webp"
-              alt="Świąteczna sesja Anna Migaj 10"
+              alt="Fotografia swiateczna rodzinna Wroclaw - emocjonalne kadry Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -258,7 +258,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-11_mgpqkv.webp"
-              alt="Świąteczna sesja Anna Migaj 11"
+              alt="Sesja swiateczna studio Wroclaw - eleganckie portrety Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -269,7 +269,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385965/sesja-swiateczna-anna-migaj-12_ho0f3o.webp"
-              alt="Świąteczna sesja Anna Migaj 12"
+              alt="Zdjecia swiateczne Wroclaw - rodzina przy choince Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -280,7 +280,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385966/sesja-swiateczna-anna-migaj-14_pn59uz.webp"
-              alt="Świąteczna sesja Anna Migaj 14"
+              alt="Sesja swiateczna Wroclaw - naturalne zdjecia rodzinne Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -291,7 +291,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385966/sesja-swiateczna-anna-migaj-13_vqp504.webp"
-              alt="Świąteczna sesja Anna Migaj 13"
+              alt="Swiateczna sesja fotograficzna Wroclaw - wesole momenty Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -302,7 +302,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385966/sesja-swiateczna-anna-migaj-15_vh4pvy.webp"
-              alt="Świąteczna sesja Anna Migaj 15"
+              alt="Fotografia swiateczna Wroclaw - sesja z dziecmi Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -313,7 +313,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385966/sesja-swiateczna-anna-migaj-16_eh0h3a.webp"
-              alt="Świąteczna sesja Anna Migaj 16"
+              alt="Sesja swiateczna rodzinna Wroclaw - cieplo domowe Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -324,7 +324,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385967/sesja-swiateczna-anna-migaj-17_syxwkr.webp"
-              alt="Świąteczna sesja Anna Migaj 17"
+              alt="Zdjecia swiateczne studio Wroclaw - profesjonalna fotografia Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -335,7 +335,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385967/sesja-swiateczna-anna-migaj-18_tr2nfr.webp"
-              alt="Świąteczna sesja Anna Migaj 18"
+              alt="Sesja swiateczna Wroclaw - magiczne wspomnienia Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -346,7 +346,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385967/sesja-swiateczna-anna-migaj-19_a6agto.webp"
-              alt="Świąteczna sesja Anna Migaj 19"
+              alt="Fotografia swiateczna rodzinna Wroclaw - naturalne kadry Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -357,7 +357,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385967/sesja-swiateczna-anna-migaj-20_vbki9w.webp"
-              alt="Świąteczna sesja Anna Migaj 20"
+              alt="Sesja swiateczna Wroclaw - emocjonalne portrety rodzinne Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -368,7 +368,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385970/sesja-swiateczna-anna-migaj-21_amws3k.webp"
-              alt="Świąteczna sesja Anna Migaj 21"
+              alt="Zdjecia swiateczne rodzinne Wroclaw - radosna atmosfera Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"

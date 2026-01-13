@@ -8,34 +8,34 @@
     <!-- Hero Section -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-cormorant text-5xl md:text-6xl mb-6">Fotograf Portretowy Wrocław</h1>
+        <h1 class="font-cormorant text-5xl md:text-6xl mb-6">Sesja Kobieca Wroclaw</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
-          Profesjonalne sesje portretowe i kobiece we Wrocławiu. Anna Migaj tworzy naturalne portrety, które oddają Twoją osobowość i unikalny charakter.
+          Profesjonalne sesje kobiece we Wroclawiu. Anna Migaj tworzy naturalne, zmyslowe portrety podkreslajace Twoja kobiecosc i unikalny charakter.
         </p>
       </div>
     </section>
 
-    <!-- About Portrait Photography -->
+    <!-- About Women Photography -->
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 class="font-cormorant text-4xl mb-6">Sesje Portretowe Wrocław</h2>
-            <h3 class="text-xl font-medium mb-4">Naturalne Portrety Pełne Charakteru</h3>
+            <h2 class="font-cormorant text-4xl mb-6">Sesje Kobiece Wroclaw</h2>
+            <h3 class="text-xl font-medium mb-4">Naturalna Fotografia Kobieca</h3>
             <p class="mb-6 font-light leading-relaxed">
-              Jako fotograf portretowy we Wrocławiu specjalizuję się w tworzeniu naturalnych, autentycznych portretów. Wierzę, że najpiękniejsze zdjęcia powstają, gdy czujesz się swobodnie i komfortowo.
+              Sesja kobieca to wyjatkowe doswiadczenie, ktore pozwala Ci odkryc swoje piekno na nowo. Jako fotografka specjalizujaca sie w sesjach kobiecych we Wroclawiu, tworze bezpieczna przestrzen, w ktorej mozesz byc soba.
             </p>
             <p class="mb-6 font-light leading-relaxed">
-              Moje sesje portretowe to połączenie profesjonalizmu z luźną atmosferą. Pomagam Ci poczuć się pewnie przed obiektywem, dzięki czemu powstają zdjęcia, które prawdziwie Cię oddają.
+              Kazda kobieta jest piekna na swoj sposob. Moim celem jest uchwycic Twoja naturalnosc, pewnosc siebie i to, co czyni Cie wyjatkowa. Bez sztucznego pozowania - tylko autentyczne emocje i prawdziwe Ty.
             </p>
             <NuxtLink to="/kontakt" class="inline-block bg-secondary text-primary px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-opacity-80 mt-4">
-              Umów sesję portretową
+              Umow sesje kobieca
             </NuxtLink>
           </div>
           <div>
             <NuxtImg
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250438/kobiece-1_ovdkxi.webp"
-              alt="Sesja portretowa Wrocław - naturalne zdjęcia kobiety Anna Migaj fotograf"
+              alt="Sesja kobieca Wroclaw - naturalne zdjecia kobiety Anna Migaj fotograf"
               class="w-full h-[600px] object-cover rounded-lg"
               width="800"
               height="600"
@@ -46,65 +46,65 @@
       </div>
     </section>
 
-    <!-- Types of Portrait Sessions -->
+    <!-- Types of Women Sessions -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Rodzaje Sesji Portretowych</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Rodzaje Sesji Kobiecych</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-            Oferuję różne typy sesji portretowych dostosowane do Twoich potrzeb i stylu.
+            Oferuje rozne typy sesji kobiecych dostosowane do Twoich potrzeb i stylu.
           </p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div class="bg-white p-8 rounded-lg shadow-lg text-center">
-            <h3 class="text-2xl font-medium mb-4">Sesje Kobiece Wrocław</h3>
-            <p class="text-gray-600 mb-6">Naturalne, kobiece portrety podkreślające Twoją unikalną urodę i osobowość</p>
+            <h3 class="text-2xl font-medium mb-4">Sesja Budujaca Pewnosc Siebie</h3>
+            <p class="text-gray-600 mb-6">Sesja dla kobiet, ktore chca poczuc sie piekne i docenic siebie</p>
             <ul class="text-left space-y-2 text-sm">
-              <li>• Sesje w studio lub plenerze</li>
-              <li>• Pomoc w doborze stylizacji</li>
-              <li>• Naturalne pozowanie</li>
+              <li>&#8226; Bezpieczna, komfortowa atmosfera</li>
+              <li>&#8226; Pomoc w doborze stylizacji</li>
+              <li>&#8226; Naturalne, pelnne emocji zdjecia</li>
             </ul>
           </div>
-          
+
           <div class="bg-white p-8 rounded-lg shadow-lg text-center">
-            <h3 class="text-2xl font-medium mb-4">Portrety Biznesowe</h3>
-            <p class="text-gray-600 mb-6">Profesjonalne zdjęcia do CV, LinkedIn, strony firmowej</p>
+            <h3 class="text-2xl font-medium mb-4">Sesja Zmyslowa / Boudoir</h3>
+            <p class="text-gray-600 mb-6">Eleganckie, subtelne zdjecia podkreslajace Twoja kobiecosc</p>
             <ul class="text-left space-y-2 text-sm">
-              <li>• Zdjęcia do mediów społecznościowych</li>
-              <li>• Portrety korporacyjne</li>
-              <li>• Szybka realizacja</li>
+              <li>&#8226; Delikatne, artystyczne kadry</li>
+              <li>&#8226; Pelna dyskrecja</li>
+              <li>&#8226; Sesja w studio lub u Ciebie</li>
             </ul>
           </div>
-          
+
           <div class="bg-white p-8 rounded-lg shadow-lg text-center">
-            <h3 class="text-2xl font-medium mb-4">Sesje Rodzinne</h3>
-            <p class="text-gray-600 mb-6">Naturalne portrety rodzinne uchwycające Wasze więzi</p>
+            <h3 class="text-2xl font-medium mb-4">Sesja Artystyczna / Edytorialna</h3>
+            <p class="text-gray-600 mb-6">Kreatywne sesje inspirowane moda i sztuka</p>
             <ul class="text-left space-y-2 text-sm">
-              <li>• Sesje z dziećmi</li>
-              <li>• Portrety wielopokoleniowe</li>
-              <li>• Swobodna atmosfera</li>
+              <li>&#8226; Unikalne lokalizacje</li>
+              <li>&#8226; Wspolpraca ze stylistami</li>
+              <li>&#8226; Profesjonalna postprodukcja</li>
             </ul>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Portrait Gallery -->
+    <!-- Women Gallery -->
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Portfolio Portretów</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Portfolio Sesji Kobiecych</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-            Zobacz przykłady moich prac portretowych - naturalne, autentyczne zdjęcia.
+            Zobacz przyklady moich sesji kobiecych - naturalne, autentyczne piekno.
           </p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
+            <NuxtImg
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250438/kobiece-1_ovdkxi.webp"
-              alt="Sesja portretowa kobieca Wrocław - naturalne zdjęcia Anna Migaj 1"
+              alt="Sesja kobieca Wroclaw - portret kobiety Anna Migaj 1"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="400"
@@ -113,9 +113,9 @@
             />
           </div>
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
+            <NuxtImg
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250439/kobiece-2_nsnioa.webp"
-              alt="Sesja portretowa kobieca Wrocław - naturalne zdjęcia Anna Migaj 2"
+              alt="Sesja kobieca Wroclaw - naturalne zdjecia Anna Migaj 2"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="400"
@@ -124,9 +124,9 @@
             />
           </div>
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
+            <NuxtImg
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250439/kobiece-4_txff42.webp"
-              alt="Sesja portretowa kobieca Wrocław - naturalne zdjęcia Anna Migaj 3"
+              alt="Sesja kobieca Wroclaw - portret naturalny Anna Migaj 3"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="400"
@@ -135,31 +135,31 @@
             />
           </div>
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250522/biznesowe-1_fknqui.webp"
-              alt="Sesja biznesowa portretowa Wrocław - profesjonalne zdjęcia Anna Migaj"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="400"
-              height="533"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250788/rodzinne-1_m1ii1u.webp"
-              alt="Sesja rodzinna portretowa Wrocław - naturalne zdjęcia Anna Migaj"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="400"
-              height="533"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
+            <NuxtImg
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250440/kobiece-5_evb8sq.webp"
-              alt="Sesja portretowa kobieca Wrocław - naturalne zdjęcia Anna Migaj 4"
+              alt="Sesja kobieca Wroclaw - fotografia kobieca Anna Migaj 4"
+              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+              loading="lazy"
+              width="400"
+              height="533"
+              format="webp"
+            />
+          </div>
+          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
+            <NuxtImg
+              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250441/kobiece-6_ecmdym.webp"
+              alt="Sesja kobieca Wroclaw - naturalne portrety Anna Migaj 5"
+              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+              loading="lazy"
+              width="400"
+              height="533"
+              format="webp"
+            />
+          </div>
+          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
+            <NuxtImg
+              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250638/fashion-2_t9wm6f.webp"
+              alt="Sesja kobieca artystyczna Wroclaw - fotografia modowa Anna Migaj 6"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="400"
@@ -171,7 +171,7 @@
 
         <div class="mt-12 text-center">
           <NuxtLink to="/portfolio" class="inline-block bg-secondary text-primary px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-opacity-80">
-            Zobacz pełne portfolio
+            Zobacz pelne portfolio
           </NuxtLink>
         </div>
       </div>
@@ -181,29 +181,29 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Jak Przebiega Sesja</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Jak Przebiega Sesja Kobieca</h2>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div class="text-center">
             <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">1</div>
             <h3 class="text-xl font-medium mb-4">Konsultacja</h3>
-            <p class="text-gray-600">Omawiamy Twoje oczekiwania, styl i lokalizację sesji</p>
+            <p class="text-gray-600">Poznajemy sie i omawiamy Twoje oczekiwania, styl i charakter sesji</p>
           </div>
           <div class="text-center">
             <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">2</div>
-            <h3 class="text-xl font-medium mb-4">Przygotowanie</h3>
-            <p class="text-gray-600">Pomagam w doborze stylizacji i przygotowaniu do sesji</p>
+            <h3 class="text-xl font-medium mb-4">Przygotowania</h3>
+            <p class="text-gray-600">Pomagam w doborze stylizacji, makijazu i lokalizacji</p>
           </div>
           <div class="text-center">
             <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">3</div>
             <h3 class="text-xl font-medium mb-4">Sesja</h3>
-            <p class="text-gray-600">Swobodna sesja w wybranej lokalizacji</p>
+            <p class="text-gray-600">Swobodna sesja w komfortowej atmosferze - prowadze Cie przez pozowanie</p>
           </div>
           <div class="text-center">
             <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">4</div>
             <h3 class="text-xl font-medium mb-4">Odbiór</h3>
-            <p class="text-gray-600">Otrzymujesz obrobione zdjęcia w galerii online</p>
+            <p class="text-gray-600">Otrzymujesz pieknie obrobione zdjecia w prywatnej galerii online</p>
           </div>
         </div>
       </div>
@@ -215,16 +215,16 @@
         <div class="text-center mb-16">
           <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Czesto Zadawane Pytania</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-            Odpowiedzi na najczesciej zadawane pytania dotyczace sesji portretowych i kobiecych we Wroclawiu.
+            Odpowiedzi na najczesciej zadawane pytania dotyczace sesji kobiecych we Wroclawiu.
           </p>
         </div>
 
         <div class="max-w-4xl mx-auto space-y-6">
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Ile kosztuje sesja portretowa we Wroclawiu?</h3>
+            <h3 class="text-xl font-medium mb-3">Ile kosztuje sesja kobieca we Wroclawiu?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Ceny sesji portretowych we Wroclawiu zaczynaja sie od 500 zl za podstawowa sesje (1 godzina, 10 zdjec).
-              Sesje kobiece i stylizowane to koszt od 700 zl. Dokladna wycena zalezy od dlugosci sesji,
+              Ceny sesji kobiecych we Wroclawiu zaczynaja sie od 700 zl za podstawowa sesje (1-1,5 godziny, 15 zdjec).
+              Sesje z profesjonalnym makijazem i stylizacja to koszt od 1200 zl. Dokladna wycena zalezy od dlugosci sesji,
               liczby stylizacji i lokalizacji. Zapraszam do kontaktu po indywidualna oferte.
             </p>
           </div>
@@ -232,54 +232,54 @@
           <div class="bg-accent p-6 rounded-lg">
             <h3 class="text-xl font-medium mb-3">Jak przygotowac sie do sesji kobiecej?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Przed sesja kobieca we Wroclawiu rekomenduje dobre wyspanie sie i nawodnienie. Przygotuj 2-3
-              zestawy ubran w roznych stylach. Oferuje bezplatna konsultacje przed sesja, podczas ktorej
-              omowimy stylizacje, makijaz i oczekiwania. Warto tez przygotowac inspiracje ze zdjec.
-            </p>
-          </div>
-
-          <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Gdzie odbywaja sie sesje portretowe we Wroclawiu?</h3>
-            <p class="text-gray-600 leading-relaxed">
-              Sesje portretowe realizuje w profesjonalnym studio we Wroclawiu, w plenerze (parki, stare miasto,
-              nad Odra) lub w wybranej przez Ciebie lokalizacji. Kazde miejsce nadaje zdjeciom inny charakter -
-              studio sprawdza sie do eleganckich portretow, plener do naturalnych, swobodnych sesji.
-            </p>
-          </div>
-
-          <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Czy pomagasz w pozowaniu podczas sesji?</h3>
-            <p class="text-gray-600 leading-relaxed">
-              Tak, przez cala sesje portretowa prowadze Cie przez pozowanie krok po kroku. Wiem, ze wiele osob
-              czuje sie niepewnie przed obiektywem - to normalne! Moja rola to stworzyc luzna atmosfere
-              i podpowiadac naturalne pozy, dzieki ktorym bedziesz wygladac i czuc sie swietnie.
+              Przed sesja kobieca rekomenduje dobre wyspanie sie i nawodnienie - to widac na zdjeciach! Przygotuj 2-3
+              zestawy ubran w roznych stylach. Przed sesja oferuje bezplatna konsultacje, podczas ktorej omowimy
+              stylizacje, makijaz i oczekiwania. Warto tez zebrac inspiracje ze zdjec, ktore Ci sie podobaja.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
             <h3 class="text-xl font-medium mb-3">Czy potrzebuje profesjonalnego makijazu na sesje?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Profesjonalny makijaz nie jest wymagany, ale moze znaczaco podniesc efekt koncowy zdjec.
-              Wspolpracuje z utalentowanymi wizazystkami we Wroclawiu, ktore moge polecic. Moga wykonac
-              delikatny makijaz naturalny lub bardziej wyrazisty look - w zaleznosci od charakteru sesji.
+              Profesjonalny makijaz nie jest wymagany, ale moze znaczaco podniesc efekt koncowy zdjec. Wspolpracuje
+              z utalentowanymi wizazystkami we Wroclawiu, ktore moge polecic. Moga wykonac delikatny makijaz naturalny
+              lub bardziej wyrazisty look - w zaleznosci od charakteru sesji i Twoich preferencji.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Jak dlugo trwa sesja portretowa?</h3>
+            <h3 class="text-xl font-medium mb-3">Jak dlugo trwa sesja kobieca?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Standardowa sesja portretowa we Wroclawiu trwa 1-2 godziny. Sesje kobiece z kilkoma stylizacjami
-              moga trwac 2-3 godziny. Czas sesji dostosowuje do Twoich potrzeb - wazne, zebys nie czula
-              sie pospieszana i mogla w pelni cieszyc sie doswiadczeniem.
+              Standardowa sesja kobieca we Wroclawiu trwa 1-2 godziny. Sesje z kilkoma stylizacjami lub w roznych
+              lokalizacjach moga trwac 2-3 godziny. Czas sesji dostosowuje do Twoich potrzeb - wazne, zebys nie
+              czula sie pospieszana i mogla w pelni cieszyc sie doswiadczeniem.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Kiedy otrzymam gotowe zdjecia z sesji portretowej?</h3>
+            <h3 class="text-xl font-medium mb-3">Czy moge zabrac kogos na sesje?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Gotowe zdjecia z sesji portretowej otrzymasz w ciagu 7-14 dni od sesji. Kazde zdjecie jest
-              starannie obrobione z zachowaniem naturalnego wygladu. Zdjecia dostarczam w prywatnej galerii
-              online z mozliwoscia pobrania w wysokiej rozdzielczosci.
+              Tak, jesli czujesz sie pewniej z osoba towarzyszaca - mozesz zabrac przyjaciolke lub partnera.
+              Jednak wiele kobiet odkrywa, ze sesja sam na sam z fotografka pozwala im bardziej sie otworzyc
+              i byc soba. To Twoj wybor - zrobimy tak, jak bedzie Ci najwygodniej.
+            </p>
+          </div>
+
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Kiedy otrzymam gotowe zdjecia z sesji kobiecej?</h3>
+            <p class="text-gray-600 leading-relaxed">
+              Gotowe zdjecia z sesji kobiecej otrzymasz w ciagu 7-14 dni od sesji. Kazde zdjecie jest starannie
+              obrobione z zachowaniem naturalnego wygladu - nie retuszuje nadmiernie, ale dbam o piekne swiatlo
+              i kolory. Zdjecia dostarczam w prywatnej galerii online z mozliwoscia pobrania.
+            </p>
+          </div>
+
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Czy zdjecia moga byc prywatne?</h3>
+            <p class="text-gray-600 leading-relaxed">
+              Absolutnie tak! Pelna dyskrecja jest gwarantowana. Zdjecia z sesji kobiecej sa tylko Twoje - nie
+              publikuje ich nigdzie bez Twojej wyraznej zgody. Jesli zechcesz, mozesz pozwolic mi umiescic
+              wybrane kadry w portfolio, ale to zawsze Twoja decyzja.
             </p>
           </div>
         </div>
@@ -289,12 +289,12 @@
     <!-- CTA -->
     <section class="py-24 bg-secondary text-primary text-center">
       <div class="container mx-auto px-4 max-w-3xl">
-        <h2 class="font-cormorant text-4xl mb-6">Zarezerwuj Swoją Sesję Portretową</h2>
+        <h2 class="font-cormorant text-4xl mb-6">Zarezerwuj Swoja Sesje Kobieca</h2>
         <p class="font-light text-lg mb-10 leading-relaxed">
-          Umów się na konsultację i stwórzmy razem wyjątkowe portrety, które pokochasz.
+          Umow sie na bezplatna konsultacje i odkryj swoje piekno na nowo. Stworze dla Ciebie zdjecia, ktore pokochasz.
         </p>
         <NuxtLink to="/kontakt" class="inline-block border border-white text-white px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-white hover:text-secondary">
-          Skontaktuj się ze mną
+          Skontaktuj sie ze mna
         </NuxtLink>
       </div>
     </section>
@@ -303,12 +303,12 @@
 
 <script setup>
 useSeoMeta({
-  title: 'Fotograf Portretowy Wrocław - Anna Migaj | Sesje Kobiece Wrocław',
-  description: 'Fotograf portretowy Wrocław - Anna Migaj. Profesjonalne sesje portretowe, kobiece i biznesowe. Naturalne zdjęcia oddające Twoją osobowość. Umów sesję!',
-  keywords: 'fotograf portretowy Wrocław, sesja portretowa Wrocław, sesja kobieca Wrocław, zdjęcia portretowe, Anna Migaj portrait, fotografia portretowa',
+  title: 'Sesja Kobieca Wroclaw - Anna Migaj | Naturalne Portrety Kobiet',
+  description: 'Profesjonalne sesje kobiece we Wroclawiu. Anna Migaj - fotograf specjalizujacy sie w naturalnej fotografii kobiecej. Sesje budujace pewnosc siebie, boudoir, artystyczne. Umow sesje!',
+  keywords: 'sesja kobieca Wroclaw, fotografia kobieca Wroclaw, sesja portretowa kobiet, Anna Migaj sesja kobieca, boudoir Wroclaw, sesja budujaca pewnosc siebie',
   robots: 'index, follow',
-  ogTitle: 'Fotograf Portretowy Wrocław - Anna Migaj | Sesje Kobiece',
-  ogDescription: 'Fotograf portretowy Wrocław - Anna Migaj. Profesjonalne sesje portretowe, kobiece i biznesowe. Naturalne zdjęcia oddające Twoją osobowość.',
+  ogTitle: 'Sesja Kobieca Wroclaw - Anna Migaj | Naturalne Portrety Kobiet',
+  ogDescription: 'Profesjonalne sesje kobiece we Wroclawiu. Anna Migaj - fotograf specjalizujacy sie w naturalnej fotografii kobiecej. Umow sesje!',
   ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250438/kobiece-1_ovdkxi.webp',
   ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image'
@@ -321,8 +321,8 @@ useHead({
       innerHTML: JSON.stringify({
         "@context": "https://schema.org",
         "@type": "Service",
-        "name": "Sesje Kobiece Wrocław",
-        "description": "Naturalne i autentyczne sesje kobiece we Wrocławiu. Poczuj się piękna i pewna siebie przed obiektywem.",
+        "name": "Sesja Kobieca Wroclaw",
+        "description": "Profesjonalne sesje kobiece we Wroclawiu. Naturalne, zmyslowe portrety podkreslajace Twoja kobiecosc i unikalny charakter.",
         "provider": {
           "@type": "LocalBusiness",
           "name": "Niebieskie Aparaty - Anna Migaj",
@@ -330,12 +330,13 @@ useHead({
         },
         "areaServed": {
           "@type": "City",
-          "name": "Wrocław"
+          "name": "Wroclaw"
         },
         "offers": {
           "@type": "Offer",
-          "description": "Sesja kobieca Wrocław",
+          "description": "Sesja kobieca Wroclaw",
           "priceCurrency": "PLN",
+          "price": "700",
           "availability": "https://schema.org/InStock"
         }
       })
@@ -348,10 +349,10 @@ useHead({
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Ile kosztuje sesja portretowa we Wroclawiu?",
+            "name": "Ile kosztuje sesja kobieca we Wroclawiu?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Ceny sesji portretowych we Wroclawiu zaczynaja sie od 500 zl za podstawowa sesje (1 godzina, 10 zdjec). Sesje kobiece i stylizowane to koszt od 700 zl. Dokladna wycena zalezy od dlugosci sesji i lokalizacji."
+              "text": "Ceny sesji kobiecych we Wroclawiu zaczynaja sie od 700 zl za podstawowa sesje (1-1,5 godziny, 15 zdjec). Sesje z profesjonalnym makijazem i stylizacja to koszt od 1200 zl."
             }
           },
           {
@@ -359,23 +360,7 @@ useHead({
             "name": "Jak przygotowac sie do sesji kobiecej?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Rekomenduje dobre wyspanie sie i nawodnienie. Przygotuj 2-3 zestawy ubran. Oferuje bezplatna konsultacje przed sesja, podczas ktorej omowimy stylizacje, makijaz i oczekiwania."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Gdzie odbywaja sie sesje portretowe we Wroclawiu?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Sesje portretowe realizuje w profesjonalnym studio we Wroclawiu, w plenerze (parki, stare miasto, nad Odra) lub w wybranej przez Ciebie lokalizacji."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Czy pomagasz w pozowaniu podczas sesji?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Tak, przez cala sesje prowadze Cie przez pozowanie krok po kroku. Tworze luzna atmosfere i podpowiadam naturalne pozy, dzieki ktorym bedziesz wygladac i czuc sie swietnie."
+              "text": "Rekomenduje dobre wyspanie sie i nawodnienie. Przygotuj 2-3 zestawy ubran w roznych stylach. Oferuje bezplatna konsultacje przed sesja, podczas ktorej omowimy stylizacje i oczekiwania."
             }
           },
           {
@@ -388,23 +373,39 @@ useHead({
           },
           {
             "@type": "Question",
-            "name": "Jak dlugo trwa sesja portretowa?",
+            "name": "Jak dlugo trwa sesja kobieca?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Standardowa sesja portretowa trwa 1-2 godziny. Sesje kobiece z kilkoma stylizacjami moga trwac 2-3 godziny. Czas dostosowuje do Twoich potrzeb."
+              "text": "Standardowa sesja kobieca trwa 1-2 godziny. Sesje z kilkoma stylizacjami moga trwac 2-3 godziny. Czas dostosowuje do Twoich potrzeb."
             }
           },
           {
             "@type": "Question",
-            "name": "Kiedy otrzymam gotowe zdjecia z sesji portretowej?",
+            "name": "Czy moge zabrac kogos na sesje?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tak, mozesz zabrac przyjaciolke lub partnera jesli czujesz sie pewniej. Wiele kobiet odkrywa jednak, ze sesja sam na sam pozwala im bardziej sie otworzyc."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Kiedy otrzymam gotowe zdjecia z sesji kobiecej?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Gotowe zdjecia otrzymasz w ciagu 7-14 dni. Kazde zdjecie jest starannie obrobione. Zdjecia dostarczam w prywatnej galerii online z mozliwoscia pobrania."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Czy zdjecia moga byc prywatne?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Absolutnie tak! Pelna dyskrecja jest gwarantowana. Zdjecia z sesji kobiecej sa tylko Twoje - nie publikuje ich nigdzie bez Twojej wyraznej zgody."
             }
           }
         ]
       })
     }
   ]
-})
+});
 </script>

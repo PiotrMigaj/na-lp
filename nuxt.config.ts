@@ -88,9 +88,10 @@ app: {
           ],
           "serviceType": [
             "Fotografia ślubna",
-            "Fotografia portretowa", 
+            "Fotografia portretowa",
             "Fotografia biznesowa",
             "Fotografia rodzinna",
+            "Fotografia produktowa",
             "Sesje zdjęciowe"
           ],
           "openingHours": "Mo-Fr 09:00-18:00",
@@ -143,7 +144,9 @@ app: {
     '/kontakt': { prerender: true },
     '/sesja-slubna-wroclaw': { prerender: true },
     '/fotograf-portretowy-wroclaw': { prerender: true },
-    '/sesja-biznesowa-wroclaw': { prerender: true }
+    '/sesja-biznesowa-wroclaw': { prerender: true },
+    '/sesja-kobieca-wroclaw': { prerender: true },
+    '/sesja-produktowa-wroclaw': { prerender: true }
   },
   
   typescript: {

@@ -51,7 +51,11 @@ const navItems = [
   { label: 'Strona główna', path: '/' },
   { label: 'O mnie', path: '/o-mnie' },
   { label: 'Portfolio', path: '/portfolio' },
-
+  { label: 'Sesje Ślubne', path: '/sesja-slubna-wroclaw' },
+  { label: 'Sesje Biznesowe', path: '/sesja-biznesowa-wroclaw' },
+  { label: 'Sesje Kobiece', path: '/sesja-kobieca-wroclaw' },
+  { label: 'Sesje Produktowe', path: '/sesja-produktowa-wroclaw' },
+  { label: 'Fotografia Portretowa', path: '/fotograf-portretowy-wroclaw' },
   { label: 'Blog', path: '/blog' },
   { label: 'Kontakt', path: '/kontakt' },
 ];

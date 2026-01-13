@@ -1,23 +1,16 @@
 <template>
   <nav aria-label="breadcrumb" class="py-4">
     <ol itemscope itemtype="https://schema.org/BreadcrumbList" class="flex space-x-2 text-sm text-gray-600">
-      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-        <NuxtLink itemprop="item" to="/" class="hover:text-secondary transition-colors">
-          <span itemprop="name">Strona główna</span>
-        </NuxtLink>
-        <meta itemprop="position" content="1" />
-      </li>
-      
-      <li v-for="(breadcrumb, index) in breadcrumbs" :key="index" 
+      <li v-for="(breadcrumb, index) in breadcrumbs" :key="index"
           itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"
           class="flex items-center space-x-2">
-        <span class="text-gray-400">/</span>
-        <NuxtLink v-if="breadcrumb.to" itemprop="item" :to="breadcrumb.to" 
+        <span v-if="index > 0" class="text-gray-400">/</span>
+        <NuxtLink v-if="breadcrumb.to" itemprop="item" :to="breadcrumb.to"
                   class="hover:text-secondary transition-colors">
           <span itemprop="name">{{ breadcrumb.name }}</span>
         </NuxtLink>
         <span v-else itemprop="name" class="text-gray-800 font-medium">{{ breadcrumb.name }}</span>
-        <meta itemprop="position" :content="index + 2" />
+        <meta itemprop="position" :content="index + 1" />
       </li>
     </ol>
   </nav>
