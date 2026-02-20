@@ -1,5 +1,6 @@
 <template>
   <div class="container mx-auto px-4 py-16">
+    <Breadcrumbs />
     <h1 class="font-cormorant text-4xl md:text-5xl text-center mb-12">Blog Fotograficzny</h1>
     <p class="text-center text-text-light max-w-2xl mx-auto mb-16">
       Odkryj porady, inspiracje i spostrzeżenia z naszej profesjonalnej podróży fotograficznej.
@@ -14,11 +15,13 @@
       >
         <NuxtLink :to="`/blog/${post.slug}`">
           <div class="relative h-84 overflow-hidden">
-            <NuxtImg 
-              :src="post.image" 
+            <NuxtImg
+              :src="post.image"
               :alt="post.title"
               class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               loading="lazy"
+              width="400"
+              height="336"
             />
           </div>
           <div class="p-6">
@@ -69,9 +72,12 @@ const blogPosts = [
 useSeoMeta({
   title: 'Blog Fotograficzny – Porady, Przewodniki i Inspiracje',
   description: 'Przeglądaj naszego bloga fotograficznego, aby znaleźć profesjonalne porady, przewodniki przygotowawcze i twórcze inspiracje. Dowiedz się, jak przygotować się do sesji, wybrać lokalizację i pozować naturalnie.',
+  keywords: 'blog fotograficzny, porady fotograficzne, sesja zdjęciowa porady, fotograf Wrocław blog, jak pozować do zdjęć',
+  robots: 'index, follow',
   ogTitle: 'Blog Fotograficzny – Porady, Przewodniki i Inspiracje',
   ogDescription: 'Przeglądaj naszego bloga fotograficznego, aby znaleźć profesjonalne porady, przewodniki przygotowawcze i twórcze inspiracje.',
-  ogImage: 'https://images.pexels.com/photos/2682452/pexels-photo-2682452.jpeg',
+  ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-1_dgl2mi.webp',
+  ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image',
 });
 </script>

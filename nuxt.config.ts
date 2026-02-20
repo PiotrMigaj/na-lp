@@ -9,9 +9,17 @@ export default defineNuxtConfig({
     '@nuxt/image',
     'nuxt-icon',
     '@vueuse/nuxt',
+    '@nuxtjs/sitemap',
   ],
+
+  site: {
+    url: 'https://niebieskie-aparaty.pl',
+  },
   
 app: {
+  htmlAttrs: {
+    lang: 'pl',
+  },
   head: {
     charset: 'utf-8',
     viewport: 'width=device-width, initial-scale=1',
@@ -49,7 +57,6 @@ app: {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'canonical', href: 'https://niebieskie-aparaty.pl' }
     ],
     script: [
       {
@@ -110,6 +117,7 @@ app: {
     families: {
       'Cormorant+Garamond': [300, 400, 500, 600, 700],
       Montserrat: [300, 400, 500, 600],
+      'Bodoni+Moda': [400, 500, 600, 700],
     },
     subsets: ['latin', 'latin-ext'],
     display: 'swap',
@@ -132,8 +140,7 @@ app: {
   
   ssr: true,
   routeRules: {
-    '/': { redirect: '/home' },
-    '/home': { prerender: true },
+    '/': { prerender: true },
     '/sesje-swiateczne': { prerender: true },
     '/o-mnie': { prerender: true },
     '/portfolio': { prerender: true },

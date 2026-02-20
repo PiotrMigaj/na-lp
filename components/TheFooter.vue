@@ -23,7 +23,7 @@
         </div>
 
         <!-- Prawa kolumna: Nawigacja -->
-        <div class="md:w-1/2 md:text-right">
+        <nav class="md:w-1/2 md:text-right" aria-label="Nawigacja stopki">
           <h3 class="font-cormorant text-2xl mb-6">Nawigacja</h3>
           <ul class="space-y-3">
             <li v-for="item in navItems" :key="item.path">
@@ -32,7 +32,7 @@
               </NuxtLink>
             </li>
           </ul>
-        </div>
+        </nav>
       </div>
     </div>
 

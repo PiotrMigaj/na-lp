@@ -92,6 +92,7 @@ useSeoMeta({
   ogTitle: 'O mnie - Anna Migaj Fotograf Wrocław | Niebieskie Aparaty',
   ogDescription: 'Anna Migaj - doświadczony fotograf ze Wrocławia. Z wykształcenia architektka, z pasji fotografka. Poznaj moją historię i styl fotograficzny.',
   ogImage: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp',
-  ogLocale: 'pl_PL'
+  ogLocale: 'pl_PL',
+  twitterCard: 'summary_large_image'
 });
 </script>

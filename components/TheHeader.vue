@@ -1,6 +1,6 @@
 <template>
   <header class="fixed top-0 left-0 w-full z-50">
-    <nav class="bg-white/95 shadow-sm backdrop-blur-sm py-4">
+    <nav class="bg-white/95 shadow-sm backdrop-blur-sm py-4" aria-label="Nawigacja główna">
       <div class="container mx-auto px-4">
         <div class="flex justify-between items-center">
           <NuxtLink to="/" class="font-cormorant text-3xl tracking-wider">
@@ -139,7 +139,7 @@ onMounted(() => {
 
 // Navigation items
 const navItems = [
-  { label: 'Home', path: '/home' },
+  { label: 'Home', path: '/' },
   { label: 'O Mnie', path: '/o-mnie' },
   {
     label: 'Portfolio',

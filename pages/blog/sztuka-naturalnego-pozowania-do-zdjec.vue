@@ -1,5 +1,6 @@
 <template>
   <article class="container mx-auto px-4 py-16 max-w-4xl">
+    <Breadcrumbs />
     <header class="mb-12">
       <h1 class="font-cormorant text-4xl md:text-5xl mb-6">Sztuka Naturalnego Pozowania do Zdjęć</h1>
       <div class="flex items-center text-text-light mb-8">
@@ -8,11 +9,13 @@
         <span>12 minut czytania</span>
       </div>
       <div class="relative h-[400px] md:h-[500px] overflow-hidden mb-12">
-        <NuxtImg 
+        <NuxtImg
           src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249631/blog-posing-1_mcyarl.webp"
           alt="Techniki naturalnego pozowania"
           class="w-full h-full object-cover"
           loading="eager"
+          width="896"
+          height="500"
         />
       </div>
     </header>
@@ -85,19 +88,23 @@
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
         <div class="relative h-84 overflow-hidden">
-          <NuxtImg 
+          <NuxtImg
             src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249631/blog-posing-2_chzog2.webp"
             alt="Przykład naturalnej ekspresji"
             class="w-full h-full object-cover"
             loading="lazy"
+            width="430"
+            height="336"
           />
         </div>
         <div class="relative h-84 overflow-hidden">
-          <NuxtImg 
+          <NuxtImg
             src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249632/blog-posing-3_wlwqs7.webp"
             alt="Technika pozowania"
             class="w-full h-full object-cover"
             loading="lazy"
+            width="430"
+            height="336"
           />
         </div>
       </div>
@@ -144,10 +151,45 @@
 useSeoMeta({
   title: 'Naturalne Pozowanie do Zdjęć – Praktyczny Przewodnik',
   description: 'Poznaj profesjonalne techniki naturalnego pozowania. Dowiedz się, jak znaleźć najlepsze kąty, wyrażać emocje i wyglądać korzystnie na zdjęciach.',
+  keywords: 'naturalne pozowanie, jak pozować do zdjęć, techniki pozowania, porady fotograficzne pozowanie',
+  robots: 'index, follow',
   ogTitle: 'Naturalne Pozowanie do Zdjęć – Praktyczny Przewodnik',
   ogDescription: 'Poznaj profesjonalne techniki naturalnego pozowania. Dowiedz się, jak znaleźć najlepsze kąty, wyrażać emocje i wyglądać korzystnie na zdjęciach.',
-  ogImage: 'https://images.pexels.com/photos/1375883/pexels-photo-1375883.jpeg',
+  ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249631/blog-posing-1_mcyarl.webp',
+  ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image',
+});
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Sztuka Naturalnego Pozowania do Zdjęć",
+        "description": "Poznaj profesjonalne techniki naturalnego pozowania. Dowiedz się, jak znaleźć najlepsze kąty, wyrażać emocje i wyglądać korzystnie na zdjęciach.",
+        "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249631/blog-posing-1_mcyarl.webp",
+        "datePublished": "2024-03-05",
+        "author": {
+          "@type": "Person",
+          "name": "Anna Migaj"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Niebieskie Aparaty",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://niebieskie-aparaty.pl/favicon.ico"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://niebieskie-aparaty.pl/blog/sztuka-naturalnego-pozowania-do-zdjec"
+        }
+      })
+    }
+  ]
 });
 </script>
 

@@ -42,17 +42,28 @@ const autoBreadcrumbs = computed(() => {
     'portfolio': 'Portfolio',
     'blog': 'Blog',
     'sesje-swiateczne': 'Sesje świąteczne',
+    'sesja-slubna-wroclaw': 'Sesja Ślubna',
+    'sesja-biznesowa-wroclaw': 'Sesja Biznesowa',
+    'sesja-kobieca-wroclaw': 'Sesja Kobieca',
+    'sesja-produktowa-wroclaw': 'Sesja Produktowa',
+    'fotograf-portretowy-wroclaw': 'Fotografia Portretowa',
     'jak-przygotowac-sie-do-sesji-zdjeciowej': 'Jak przygotować się do sesji zdjęciowej',
     'jak-wybrac-idealne-miejsce-na-sesje': 'Jak wybrać idealne miejsce na sesję',
     'sztuka-naturalnego-pozowania-do-zdjec': 'Sztuka naturalnego pozowania do zdjęć'
   };
 
+  // Start with home
+  breadcrumbs.push({
+    name: 'Strona główna',
+    to: '/'
+  });
+
   let currentPath = '';
-  
+
   pathSegments.forEach((segment, index) => {
     currentPath += `/${segment}`;
     const isLast = index === pathSegments.length - 1;
-    
+
     breadcrumbs.push({
       name: pageNames[segment] || segment.charAt(0).toUpperCase() + segment.slice(1),
       to: isLast ? null : currentPath

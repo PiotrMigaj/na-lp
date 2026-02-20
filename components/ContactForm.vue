@@ -1,51 +1,55 @@
 <template>
   <form class="space-y-6" @submit.prevent="submitForm">
     <div>
-      <input 
+      <input
         v-model="form.name"
-        type="text" 
-        placeholder="Twoje imię" 
+        type="text"
+        placeholder="Twoje imię"
+        aria-label="Twoje imię"
         class="w-full border-0 border-b border-gray-300 py-3 px-0 focus:ring-0 focus:border-secondary bg-transparent"
         :class="{ 'border-error-500': errors.name }"
         required
       />
-      <p v-if="errors.name" class="text-error-500 text-sm mt-1">{{ errors.name }}</p>
+      <p v-if="errors.name" class="text-error-500 text-sm mt-1" role="alert">{{ errors.name }}</p>
     </div>
     
     <div>
-      <input 
+      <input
         v-model="form.email"
-        type="email" 
-        placeholder="Twój e-mail" 
+        type="email"
+        placeholder="Twój e-mail"
+        aria-label="Twój e-mail"
         class="w-full border-0 border-b border-gray-300 py-3 px-0 focus:ring-0 focus:border-secondary bg-transparent"
         :class="{ 'border-error-500': errors.email }"
         required
       />
-      <p v-if="errors.email" class="text-error-500 text-sm mt-1">{{ errors.email }}</p>
+      <p v-if="errors.email" class="text-error-500 text-sm mt-1" role="alert">{{ errors.email }}</p>
     </div>
     
     <div>
-      <input 
+      <input
         v-model="form.subject"
-        type="text" 
-        placeholder="Temat" 
+        type="text"
+        placeholder="Temat"
+        aria-label="Temat"
         class="w-full border-0 border-b border-gray-300 py-3 px-0 focus:ring-0 focus:border-secondary bg-transparent"
         :class="{ 'border-error-500': errors.subject }"
         required
       />
-      <p v-if="errors.subject" class="text-error-500 text-sm mt-1">{{ errors.subject }}</p>
+      <p v-if="errors.subject" class="text-error-500 text-sm mt-1" role="alert">{{ errors.subject }}</p>
     </div>
     
     <div>
-      <textarea 
+      <textarea
         v-model="form.message"
-        rows="5" 
-        placeholder="Twoja wiadomość" 
+        rows="5"
+        placeholder="Twoja wiadomość"
+        aria-label="Twoja wiadomość"
         class="w-full border-0 border-b border-gray-300 py-3 px-0 focus:ring-0 focus:border-secondary bg-transparent resize-none"
         :class="{ 'border-error-500': errors.message }"
         required
       ></textarea>
-      <p v-if="errors.message" class="text-error-500 text-sm mt-1">{{ errors.message }}</p>
+      <p v-if="errors.message" class="text-error-500 text-sm mt-1" role="alert">{{ errors.message }}</p>
     </div>
     
     <div>

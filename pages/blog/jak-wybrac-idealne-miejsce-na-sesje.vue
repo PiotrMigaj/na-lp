@@ -1,5 +1,6 @@
 <template>
   <article class="container mx-auto px-4 py-16 max-w-4xl">
+    <Breadcrumbs />
     <header class="mb-12">
       <h1 class="font-cormorant text-4xl md:text-5xl mb-6">Jak wybrać idealne miejsce na sesję zdjęciową</h1>
       <div class="flex items-center text-text-light mb-8">
@@ -8,11 +9,13 @@
         <span>8 minut czytania</span>
       </div>
       <div class="relative h-[400px] md:h-[600px] overflow-hidden mb-12">
-        <NuxtImg 
+        <NuxtImg
           src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-1_vppdpx.webp"
           alt="Wybór lokalizacji do sesji zdjęciowej"
           class="w-full h-full object-cover"
           loading="eager"
+          width="896"
+          height="600"
         />
       </div>
     </header>
@@ -81,19 +84,23 @@
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
         <div class="relative h-84 overflow-hidden">
-          <NuxtImg 
+          <NuxtImg
             src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-2_ek5tqy.webp"
             alt="Przykład miejskiej lokalizacji"
             class="w-full h-full object-cover"
             loading="lazy"
+            width="430"
+            height="336"
           />
         </div>
         <div class="relative h-84 overflow-hidden">
-          <NuxtImg 
+          <NuxtImg
             src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-3_slbmxp.webp"
             alt="Przykład naturalnej scenerii"
             class="w-full h-full object-cover"
             loading="lazy"
+            width="430"
+            height="336"
           />
         </div>
       </div>
@@ -140,10 +147,45 @@
 useSeoMeta({
   title: 'Jak wybrać idealne miejsce na sesję zdjęciową – poradnik fotografa Wrocław',
   description: 'Dowiedz się, jak wybrać idealną lokalizację na sesję zdjęciową we Wrocławiu. Sprawdź rodzaje miejsc, wskazówki i listę kontrolną od profesjonalnego fotografa.',
+  keywords: 'lokalizacja sesji zdjęciowej, miejsce na sesję Wrocław, poradnik fotograficzny, wybór lokalizacji zdjęcia',
+  robots: 'index, follow',
   ogTitle: 'Jak wybrać idealne miejsce na sesję zdjęciową – poradnik fotografa Wrocław',
   ogDescription: 'Dowiedz się, jak wybrać idealną lokalizację na sesję zdjęciową we Wrocławiu. Sprawdź rodzaje miejsc, wskazówki i listę kontrolną od profesjonalnego fotografa.',
-  ogImage: 'https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg',
+  ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-1_vppdpx.webp',
+  ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image',
+});
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Jak wybrać idealne miejsce na sesję zdjęciową",
+        "description": "Dowiedz się, jak wybrać idealną lokalizację na sesję zdjęciową we Wrocławiu. Sprawdź rodzaje miejsc, wskazówki i listę kontrolną od profesjonalnego fotografa.",
+        "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-1_vppdpx.webp",
+        "datePublished": "2024-03-10",
+        "author": {
+          "@type": "Person",
+          "name": "Anna Migaj"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Niebieskie Aparaty",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://niebieskie-aparaty.pl/favicon.ico"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://niebieskie-aparaty.pl/blog/jak-wybrac-idealne-miejsce-na-sesje"
+        }
+      })
+    }
+  ]
 });
 </script>
 

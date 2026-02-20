@@ -1,9 +1,9 @@
 <template>
   <div>
     <!-- Breadcrumbs -->
-    <!-- <div class="container mx-auto px-4">
+    <div class="container mx-auto px-4">
       <Breadcrumbs />
-    </div> -->
+    </div>
 
     <!-- Hero Section -->
     <section class="py-24 bg-accent">

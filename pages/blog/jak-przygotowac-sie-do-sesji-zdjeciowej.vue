@@ -1,5 +1,6 @@
 <template>
   <article class="container mx-auto px-4 py-16 max-w-4xl">
+    <Breadcrumbs />
     <header class="mb-12">
       <h1 class="font-cormorant text-4xl md:text-5xl mb-6">Jak przygotować się do sesji zdjęciowej</h1>
       <div class="flex items-center text-text-light mb-8">
@@ -8,11 +9,13 @@
         <span>10 minut czytania</span>
       </div>
       <div class="relative h-[400px] md:h-[600px] overflow-hidden mb-12">
-        <NuxtImg 
+        <NuxtImg
           src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-1_dgl2mi.webp"
           alt="Przygotowanie do sesji fotograficznej"
           class="w-full h-full object-cover"
           loading="eager"
+          width="896"
+          height="600"
         />
       </div>
     </header>
@@ -55,19 +58,23 @@
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
         <div class="relative h-84 overflow-hidden">
-          <NuxtImg 
+          <NuxtImg
             src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-2_iiywwa.webp"
             alt="Przykład stylizacji na sesję"
             class="w-full h-full object-cover"
             loading="lazy"
+            width="430"
+            height="336"
           />
         </div>
         <div class="relative h-84 overflow-hidden">
-          <NuxtImg 
+          <NuxtImg
             src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-3_dqtbxp.webp"
             alt="Wybór lokalizacji na sesję we Wrocławiu"
             class="w-full h-full object-cover"
             loading="lazy"
+            width="430"
+            height="336"
           />
         </div>
       </div>
@@ -133,10 +140,45 @@
 useSeoMeta({
   title: 'Jak przygotować się do sesji zdjęciowej – Fotograf Wrocław',
   description: 'Dowiedz się, jak przygotować się do sesji zdjęciowej we Wrocławiu. Poznaj sprawdzone porady dotyczące stylizacji, makijażu i atmosfery przed obiektywem.',
+  keywords: 'przygotowanie do sesji zdjęciowej, jak się przygotować do sesji, sesja zdjęciowa porady, fotograf Wrocław porady',
+  robots: 'index, follow',
   ogTitle: 'Jak przygotować się do sesji zdjęciowej – Fotograf Wrocław',
   ogDescription: 'Praktyczne porady jak przygotować się do sesji zdjęciowej we Wrocławiu. Stylizacje, lokalizacje, atmosfera – zaufaj profesjonaliście.',
-  ogImage: 'https://images.pexels.com/photos/2682452/pexels-photo-2682452.jpeg',
+  ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-1_dgl2mi.webp',
+  ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image',
+});
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Jak przygotować się do sesji zdjęciowej",
+        "description": "Dowiedz się, jak przygotować się do sesji zdjęciowej we Wrocławiu. Poznaj sprawdzone porady dotyczące stylizacji, makijażu i atmosfery przed obiektywem.",
+        "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-1_dgl2mi.webp",
+        "datePublished": "2024-03-15",
+        "author": {
+          "@type": "Person",
+          "name": "Anna Migaj"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Niebieskie Aparaty",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://niebieskie-aparaty.pl/favicon.ico"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://niebieskie-aparaty.pl/blog/jak-przygotowac-sie-do-sesji-zdjeciowej"
+        }
+      })
+    }
+  ]
 });
 </script>
 

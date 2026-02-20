@@ -113,6 +113,7 @@ useSeoMeta({
   ogTitle: 'Kontakt - Fotograf Wrocław Anna Migaj | Zarezerwuj Sesję',
   ogDescription: 'Skontaktuj się z Anną Migaj - fotografem ze Wrocławia. Umów sesję ślubną, portretową lub biznesową. Tel: +48 501 766 564.',
   ogImage: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp',
-  ogLocale: 'pl_PL'
+  ogLocale: 'pl_PL',
+  twitterCard: 'summary_large_image'
 });
 </script>

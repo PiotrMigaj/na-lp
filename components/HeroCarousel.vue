@@ -1,5 +1,5 @@
 <template>
-  <div class="relative">
+  <div class="relative" role="region" aria-label="Slider główny">
     <!-- Loading Overlay --> 
     <div v-if="isLoading" 
          class="absolute inset-0 bg-white flex items-center justify-center z-50"
@@ -50,7 +50,7 @@
                    'translate-y-0 opacity-100': imageLoaded[index] 
                  }"
                  :style="{ transition: 'all 1s ease-out 0.6s' }">
-              <h1 class="font-cormorant text-4xl md:text-5xl lg:text-6xl mb-6 tracking-wider">{{ slide.title }}</h1>
+              <h2 class="font-cormorant text-4xl md:text-5xl lg:text-6xl mb-6 tracking-wider">{{ slide.title }}</h2>
               <p class="font-light text-base md:text-lg lg:text-xl mb-8 tracking-wide max-w-2xl mx-auto">{{
                 slide.description }}</p>
               <NuxtLink :to="slide.buttonLink"
@@ -86,7 +86,8 @@
         <button v-for="(_, index) in slides" :key="index" @click="goToSlide(index)"
           class="w-2 h-2 rounded-full transition-all duration-300"
           :class="activeIndex === index ? 'bg-white w-6' : 'bg-white/50'"
-          :aria-label="`Go to slide ${index + 1}`"></button>
+          :aria-label="`Go to slide ${index + 1}`"
+          :aria-current="activeIndex === index ? 'true' : undefined"></button>
       </div>
     </div>
   </div>

@@ -1,14 +1,14 @@
 <template>
   <div>
     <!-- Breadcrumbs -->
-    <!-- <div class="container mx-auto px-4">
+    <div class="container mx-auto px-4">
       <Breadcrumbs />
-    </div> -->
+    </div>
 
     <!-- Hero Section -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-cormorant text-5xl md:text-6xl mb-6">Sesja Kobieca Wroclaw</h1>
+        <h1 class="font-cormorant text-5xl md:text-6xl mb-6">Sesja Kobieca Wrocław</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
           Profesjonalne sesje kobiece we Wroclawiu. Anna Migaj tworzy naturalne, zmyslowe portrety podkreslajace Twoja kobiecosc i unikalny charakter.
         </p>

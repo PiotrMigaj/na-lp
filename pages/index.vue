@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1 class="sr-only">Fotograf Wrocław - Anna Migaj</h1>
     <!-- Hero Section -->
     <HeroCarousel />
 
