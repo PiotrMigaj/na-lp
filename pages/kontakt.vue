@@ -3,7 +3,7 @@
     <!-- Sekcja Hero -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-cormorant text-5xl mb-6">Kontakt</h1>
+        <h1 class="font-cormorant text-5xl mb-6">Kontakt — Fotograf Wrocław Anna Migaj</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
           Masz pomysł na sesję? Napisz do mnie – chętnie porozmawiam i wspólnie stworzymy coś wyjątkowego.
         </p>
@@ -47,7 +47,9 @@
                 </div>
                 <div>
                   <h3 class="font-medium mb-1">Lokalizacja</h3>
-                  <p class="font-light text-text-light">Wrocław / Cała Polska</p>
+                  <address class="font-light text-text-light not-italic">
+                    Wrocław / Cała Polska
+                  </address>
                 </div>
               </div>
             </div>
@@ -108,7 +110,6 @@
 useSeoMeta({
   title: 'Kontakt - Fotograf Wrocław Anna Migaj | Zarezerwuj Sesję',
   description: 'Skontaktuj się z Anną Migaj - fotografem ze Wrocławia. Umów sesję ślubną, portretową lub biznesową. Tel: +48 501 766 564. Działam w całej Polsce.',
-  keywords: 'kontakt fotograf Wrocław, umówić sesję Wrocław, fotograf tel Wrocław, rezerwacja sesji zdjęciowej',
   robots: 'index, follow',
   ogTitle: 'Kontakt - Fotograf Wrocław Anna Migaj | Zarezerwuj Sesję',
   ogDescription: 'Skontaktuj się z Anną Migaj - fotografem ze Wrocławia. Umów sesję ślubną, portretową lub biznesową. Tel: +48 501 766 564.',

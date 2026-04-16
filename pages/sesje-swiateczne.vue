@@ -16,7 +16,7 @@
       <div class="container mx-auto px-4 relative z-10">
         <div class="text-center max-w-4xl mx-auto">
           <h1 class="font-bodoni-moda text-5xl md:text-6xl lg:text-7xl mb-8 tracking-wider text-gray-800 font-normal">
-            Sesje Świąteczne
+            Sesje Świąteczne Wrocław
           </h1>
           <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-8 shadow-xl">
             <p class="text-lg md:text-xl text-gray-700 leading-relaxed mb-6">
@@ -203,7 +203,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385962/sesja-swiateczna-anna-migaj-6_rl8wvn.webp"
-              alt="Sesja swiateczna Wroclaw - para z dzieckiem - fotograf Anna Migaj"
+              alt="Sesja świąteczna Wrocław - para z dzieckiem - fotograf Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -214,7 +214,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385962/sesja-swiateczna-anna-migaj-7_dgxca1.webp"
-              alt="Zdjecia swiateczne rodzinne Wroclaw - naturalne portrety Anna Migaj"
+              alt="Zdjęcia świąteczne rodzinne Wrocław - naturalne portrety Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -225,7 +225,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-8_u0tzng.webp"
-              alt="Swiateczna sesja fotograficzna Wroclaw - radosne chwile Anna Migaj"
+              alt="Świąteczna sesja fotograficzna Wrocław - radosne chwile Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -236,7 +236,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-9_sm10dp.webp"
-              alt="Sesja swiateczna dzieci Wroclaw - profesjonalne zdjecia Anna Migaj"
+              alt="Sesja świąteczna dzieci Wrocław - profesjonalne zdjęcia Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -247,7 +247,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-10_lvuqvk.webp"
-              alt="Fotografia swiateczna rodzinna Wroclaw - emocjonalne kadry Anna Migaj"
+              alt="Fotografia świąteczna rodzinna Wrocław - emocjonalne kadry Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -258,7 +258,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-11_mgpqkv.webp"
-              alt="Sesja swiateczna studio Wroclaw - eleganckie portrety Anna Migaj"
+              alt="Sesja świąteczna studio Wrocław - eleganckie portrety Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -269,7 +269,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385965/sesja-swiateczna-anna-migaj-12_ho0f3o.webp"
-              alt="Zdjecia swiateczne Wroclaw - rodzina przy choince Anna Migaj"
+              alt="Zdjęcia świąteczne Wrocław - rodzina przy choince Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -280,7 +280,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385966/sesja-swiateczna-anna-migaj-14_pn59uz.webp"
-              alt="Sesja swiateczna Wroclaw - naturalne zdjecia rodzinne Anna Migaj"
+              alt="Sesja świąteczna Wrocław - naturalne zdjęcia rodzinne Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -291,7 +291,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385966/sesja-swiateczna-anna-migaj-13_vqp504.webp"
-              alt="Swiateczna sesja fotograficzna Wroclaw - wesole momenty Anna Migaj"
+              alt="Świąteczna sesja fotograficzna Wrocław - wesołe momenty Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -302,7 +302,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385966/sesja-swiateczna-anna-migaj-15_vh4pvy.webp"
-              alt="Fotografia swiateczna Wroclaw - sesja z dziecmi Anna Migaj"
+              alt="Fotografia świąteczna Wrocław - sesja z dziećmi Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -313,7 +313,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385966/sesja-swiateczna-anna-migaj-16_eh0h3a.webp"
-              alt="Sesja swiateczna rodzinna Wroclaw - cieplo domowe Anna Migaj"
+              alt="Sesja świąteczna rodzinna Wrocław - ciepło domowe Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -324,7 +324,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385967/sesja-swiateczna-anna-migaj-17_syxwkr.webp"
-              alt="Zdjecia swiateczne studio Wroclaw - profesjonalna fotografia Anna Migaj"
+              alt="Zdjęcia świąteczne studio Wrocław - profesjonalna fotografia Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -335,7 +335,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385967/sesja-swiateczna-anna-migaj-18_tr2nfr.webp"
-              alt="Sesja swiateczna Wroclaw - magiczne wspomnienia Anna Migaj"
+              alt="Sesja świąteczna Wrocław - magiczne wspomnienia Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -346,7 +346,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385967/sesja-swiateczna-anna-migaj-19_a6agto.webp"
-              alt="Fotografia swiateczna rodzinna Wroclaw - naturalne kadry Anna Migaj"
+              alt="Fotografia świąteczna rodzinna Wrocław - naturalne kadry Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -357,7 +357,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385967/sesja-swiateczna-anna-migaj-20_vbki9w.webp"
-              alt="Sesja swiateczna Wroclaw - emocjonalne portrety rodzinne Anna Migaj"
+              alt="Sesja świąteczna Wrocław - emocjonalne portrety rodzinne Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -368,7 +368,7 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385970/sesja-swiateczna-anna-migaj-21_amws3k.webp"
-              alt="Zdjecia swiateczne rodzinne Wroclaw - radosna atmosfera Anna Migaj"
+              alt="Zdjęcia świąteczne rodzinne Wrocław - radosna atmosfera Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"
               width="600"
@@ -386,17 +386,16 @@
 
 <script setup>
 useSeoMeta({
-  title: 'Sesje Świąteczne Wrocław 2024 - Anna Migaj Fotograf | Rezerwuj',
-  description: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2024 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości. Pakiety od 550 zł. Zarezerwuj miejsce!',
-  keywords: 'sesje świąteczne Wrocław, fotograf świąteczny Wrocław, sesja rodzinna święta, zdjęcia świąteczne 2024, Anna Migaj',
+  title: 'Sesje Świąteczne Wrocław 2025 - Anna Migaj Fotograf | Rezerwuj',
+  description: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2025 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości. Pakiety od 550 zł. Zarezerwuj miejsce!',
   robots: 'index, follow',
-  ogTitle: 'Sesje Świąteczne Wrocław 2024 - Anna Migaj Fotograf',
-  ogDescription: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2024 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości.',
+  ogTitle: 'Sesje Świąteczne Wrocław 2025 - Anna Migaj Fotograf',
+  ogDescription: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2025 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości.',
   ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385961/sesja-swiateczna-anna-migaj-1_sqiqgr.webp',
   ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image',
-  twitterTitle: 'Sesje Świąteczne Wrocław 2024 - Anna Migaj Fotograf',
-  twitterDescription: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2024 w Fly Studio.',
+  twitterTitle: 'Sesje Świąteczne Wrocław 2025 - Anna Migaj Fotograf',
+  twitterDescription: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2025 w Fly Studio.',
   twitterImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385961/sesja-swiateczna-anna-migaj-1_sqiqgr.webp'
 });
 </script>

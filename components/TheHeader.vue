@@ -139,7 +139,7 @@ onMounted(() => {
 
 // Navigation items
 const navItems = [
-  { label: 'Home', path: '/' },
+  { label: 'Strona główna', path: '/' },
   { label: 'O Mnie', path: '/o-mnie' },
   {
     label: 'Portfolio',
@@ -152,6 +152,9 @@ const navItems = [
       { label: 'Sesje Kobiece', path: '/sesja-kobieca-wroclaw' },
       { label: 'Sesje Produktowe', path: '/sesja-produktowa-wroclaw' },
       { label: 'Fotografia Portretowa', path: '/fotograf-portretowy-wroclaw' },
+      { label: 'Chrzciny', path: '/chrzciny-wroclaw' },
+      { label: 'Sesje Rodzinne', path: '/sesja-rodzinna-wroclaw' },
+      { label: 'Sesje Świąteczne', path: '/sesje-swiateczne' },
     ]
   },
   { label: 'Blog', path: '/blog' },

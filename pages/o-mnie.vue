@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4 max-w-4xl text-center">
-        <h1 class="font-cormorant text-5xl mb-6">O mnie</h1>
+        <h1 class="font-cormorant text-5xl mb-6">O mnie — Anna Migaj, Fotograf Wrocław</h1>
         <p class="text-lg font-light max-w-3xl mx-auto leading-relaxed">
           Poznaj historię mojej drogi twórczej i pasji do fotografii, która łączy w sobie estetykę, relacje i uważność.
         </p>
@@ -32,7 +32,7 @@
             <p class="font-light leading-relaxed">
               Moje zdjęcia charakteryzują się minimalistycznym stylem, w którym światło i forma odgrywają kluczową rolę.
               Tworzę kadry ponadczasowe – subtelne, ale pełne znaczenia – uchwycające naturalne piękno i osobowość
-              fotografowanej osoby.
+              fotografowanej osoby. Fotografuję śluby, sesje kobiece, sesje biznesowe, chrzciny i sesje rodzinne we Wrocławiu oraz w całym województwie dolnośląskim.
             </p>
           </div>
         </div>
@@ -87,7 +87,6 @@
 useSeoMeta({
   title: 'O mnie - Anna Migaj Fotograf Wrocław | Niebieskie Aparaty',
   description: 'Anna Migaj - doświadczony fotograf ze Wrocławia. Z wykształcenia architektka, z pasji fotografka. Poznaj moją historię i styl fotograficzny.',
-  keywords: 'Anna Migaj fotograf, fotograf Wrocław o mnie, biografia fotografa, architektka fotograf',
   robots: 'index, follow',
   ogTitle: 'O mnie - Anna Migaj Fotograf Wrocław | Niebieskie Aparaty',
   ogDescription: 'Anna Migaj - doświadczony fotograf ze Wrocławia. Z wykształcenia architektka, z pasji fotografka. Poznaj moją historię i styl fotograficzny.',

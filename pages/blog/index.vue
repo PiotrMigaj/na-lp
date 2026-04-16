@@ -39,9 +39,20 @@
         </NuxtLink>
       </article>
     </div>
-    
+
+    <div class="mt-16 pt-12 border-t text-center">
+      <h2 class="font-cormorant text-3xl mb-6">Usługi fotograficzne we Wrocławiu</h2>
+      <p class="text-text-light mb-8 max-w-2xl mx-auto">Czytaj więcej o sesjach zdjęciowych i zarezerwuj termin z fotografem we Wrocławiu.</p>
+      <div class="flex flex-wrap justify-center gap-4">
+        <NuxtLink to="/sesja-slubna-wroclaw" class="border border-secondary text-secondary px-6 py-2 uppercase tracking-wider text-sm transition duration-300 hover:bg-secondary hover:text-primary">Sesje ślubne Wrocław</NuxtLink>
+        <NuxtLink to="/sesja-kobieca-wroclaw" class="border border-secondary text-secondary px-6 py-2 uppercase tracking-wider text-sm transition duration-300 hover:bg-secondary hover:text-primary">Sesje kobiece Wrocław</NuxtLink>
+        <NuxtLink to="/sesja-biznesowa-wroclaw" class="border border-secondary text-secondary px-6 py-2 uppercase tracking-wider text-sm transition duration-300 hover:bg-secondary hover:text-primary">Sesje biznesowe Wrocław</NuxtLink>
+        <NuxtLink to="/chrzciny-wroclaw" class="border border-secondary text-secondary px-6 py-2 uppercase tracking-wider text-sm transition duration-300 hover:bg-secondary hover:text-primary">Chrzciny Wrocław</NuxtLink>
+        <NuxtLink to="/sesja-rodzinna-wroclaw" class="border border-secondary text-secondary px-6 py-2 uppercase tracking-wider text-sm transition duration-300 hover:bg-secondary hover:text-primary">Sesje rodzinne Wrocław</NuxtLink>
+      </div>
+    </div>
   </div>
-  
+
 </template>
 
 <script setup>
@@ -72,7 +83,6 @@ const blogPosts = [
 useSeoMeta({
   title: 'Blog Fotograficzny – Porady, Przewodniki i Inspiracje',
   description: 'Przeglądaj naszego bloga fotograficznego, aby znaleźć profesjonalne porady, przewodniki przygotowawcze i twórcze inspiracje. Dowiedz się, jak przygotować się do sesji, wybrać lokalizację i pozować naturalnie.',
-  keywords: 'blog fotograficzny, porady fotograficzne, sesja zdjęciowa porady, fotograf Wrocław blog, jak pozować do zdjęć',
   robots: 'index, follow',
   ogTitle: 'Blog Fotograficzny – Porady, Przewodniki i Inspiracje',
   ogDescription: 'Przeglądaj naszego bloga fotograficznego, aby znaleźć profesjonalne porady, przewodniki przygotowawcze i twórcze inspiracje.',

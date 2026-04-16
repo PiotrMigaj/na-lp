@@ -23,11 +23,11 @@ app: {
   head: {
     charset: 'utf-8',
     viewport: 'width=device-width, initial-scale=1',
-    titleTemplate: '%s | Anna Migaj - Fotografia Ślubna i Biznesowa | Wrocław',
+    titleTemplate: (title) => title ? title : 'Fotograf Wrocław - Anna Migaj | Niebieskie Aparaty',
     meta: [
       {
         name: 'description',
-        content: 'Anna Migaj – fotografka ze Wrocławia specjalizująca się w fotografii ślubnej, kobiecej i biznesowej. Naturalne, pełne emocji zdjęcia, które uwieczniają najważniejsze chwile.',
+        content: 'Profesjonalny fotograf Wrocław - Anna Migaj. Sesje ślubne, kobiece, biznesowe, chrzciny i rodzinne. Naturalne zdjęcia pełne emocji. Sprawdź ofertę!',
       },
       { name: 'theme-color', content: '#ffffff' },
       { name: 'language', content: 'pl' },
@@ -35,7 +35,7 @@ app: {
       { name: 'geo.placename', content: 'Wrocław' },
 
       // Open Graph
-      { property: 'og:title', content: 'Anna Migaj - Fotografia Ślubna i Biznesowa | Wrocław' },
+      { property: 'og:title', content: 'Profesjonalny Fotograf Wrocław - Anna Migaj | Niebieskie Aparaty' },
       {
         property: 'og:description',
         content: 'Profesjonalna fotografia ślubna, kobieca i biznesowa we Wrocławiu. Naturalne, pełne emocji zdjęcia, które uwieczniają najważniejsze chwile.',
@@ -91,7 +91,12 @@ app: {
           "areaServed": [
             "Wrocław",
             "Dolnośląskie",
-            "Polska"
+            "Polska",
+            "Oleśnica",
+            "Oława",
+            "Trzebnica",
+            "Brzeg",
+            "Legnica"
           ],
           "serviceType": [
             "Fotografia ślubna",
@@ -99,8 +104,16 @@ app: {
             "Fotografia biznesowa",
             "Fotografia rodzinna",
             "Fotografia produktowa",
-            "Sesje zdjęciowe"
+            "Sesje zdjęciowe",
+            "Fotografia chrzcin",
+            "Sesje chrzcielne",
+            "Sesje rodzinne",
+            "Sesja kobieca",
+            "Sesja biznesowa"
           ],
+          "priceRange": "$$",
+          "knowsLanguage": "pl",
+          "paymentAccepted": "Cash, Credit Card, Bank Transfer",
           "openingHours": "Mo-Fr 09:00-18:00",
           "sameAs": [
             "https://www.instagram.com/niebieskie_aparaty",
@@ -149,6 +162,8 @@ app: {
     '/blog/jak-wybrac-idealne-miejsce-na-sesje': { prerender: true },
     '/blog/sztuka-naturalnego-pozowania-do-zdjec': { prerender: true },
     '/kontakt': { prerender: true },
+    '/chrzciny-wroclaw': { prerender: true },
+    '/sesja-rodzinna-wroclaw': { prerender: true },
     '/sesja-slubna-wroclaw': { prerender: true },
     '/fotograf-portretowy-wroclaw': { prerender: true },
     '/sesja-biznesowa-wroclaw': { prerender: true },

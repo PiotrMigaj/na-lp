@@ -56,6 +56,8 @@ const navItems = [
   { label: 'Sesje Kobiece', path: '/sesja-kobieca-wroclaw' },
   { label: 'Sesje Produktowe', path: '/sesja-produktowa-wroclaw' },
   { label: 'Fotografia Portretowa', path: '/fotograf-portretowy-wroclaw' },
+  { label: 'Chrzciny Wrocław', path: '/chrzciny-wroclaw' },
+  { label: 'Sesje Rodzinne', path: '/sesja-rodzinna-wroclaw' },
   { label: 'Blog', path: '/blog' },
   { label: 'Kontakt', path: '/kontakt' },
 ];

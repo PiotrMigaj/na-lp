@@ -23,7 +23,7 @@
             <h2 class="font-cormorant text-4xl mb-6">Sesje Biznesowe Wrocław</h2>
             <h3 class="text-xl font-medium mb-4">Profesjonalne Zdjęcia do Biznesu</h3>
             <p class="mb-6 font-light leading-relaxed">
-              Specjalizuję się w sesjach biznesowych we Wrocławiu, tworząc profesjonalne zdjęcia, które budują Twój wizerunek w branży. Moje zdjęcia biznesowe łączą profesjonalizm z naturalnością.
+              Jako profesjonalny fotograf biznesowy Wrocław specjalizuję się w sesjach biznesowych, tworząc profesjonalne zdjęcia, które budują Twój wizerunek w branży. Moje zdjęcia biznesowe łączą profesjonalizm z naturalnością.
             </p>
             <p class="mb-6 font-light leading-relaxed">
               Pracuję z przedsiębiorcami, korporacjami i freelancerami, tworząc zdjęcia do LinkedIn, stron internetowych, materiałów marketingowych i kampanii reklamowych.
@@ -212,75 +212,90 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Czesto Zadawane Pytania</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Często Zadawane Pytania</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-            Odpowiedzi na najczesciej zadawane pytania dotyczace sesji biznesowych we Wroclawiu.
+            Odpowiedzi na najczęściej zadawane pytania dotyczące sesji biznesowych we Wrocławiu.
           </p>
         </div>
 
         <div class="max-w-4xl mx-auto space-y-6">
           <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Ile kosztuje sesja biznesowa we Wroclawiu?</h3>
+            <h3 class="text-xl font-medium mb-3">Ile kosztuje sesja biznesowa we Wrocławiu?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Ceny sesji biznesowych we Wroclawiu zaczynaja sie od 450 zl za portret LinkedIn (30 minut, 5 zdjec).
-              Pelna sesja biznesowa to 850 zl (1 godzina, 15 zdjec). Pakiety korporacyjne dla firm wyceniam
-              indywidualnie w zaleznosci od liczby osob i zakresu uslugi.
+              Ceny sesji biznesowych we Wrocławiu zaczynają się od 450 zł za portret LinkedIn (30 minut, 5 zdjęć).
+              Pełna sesja biznesowa to 850 zł (1 godzina, 15 zdjęć). Pakiety korporacyjne dla firm wyceniam
+              indywidualnie w zależności od liczby osób i zakresu usługi.
             </p>
           </div>
 
           <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Jak przygotowac sie do sesji biznesowej?</h3>
+            <h3 class="text-xl font-medium mb-3">Jak przygotować się do sesji biznesowej?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Przed sesja biznesowa rekomenduje wybrac stonowane, jednokolorowe ubrania bez wyrazistych wzorow.
-              Unikaj intensywnych kolorow i logotypow. Przed sesja oferuje bezplatna konsultacje, podczas ktorej
-              omowimy stylizacje, fryzure i makijaz. Przeslij mi tez przykladowe zdjecia, ktore Ci sie podobaja.
+              Przed sesją biznesową rekomenduje wybrać stonowane, jednokolorowe ubrania bez wyrazistych wzorów.
+              Unikaj intensywnych kolorów i logotypów. Przed sesją oferuję bezpłatną konsultację, podczas której
+              omówimy stylizację, fryzurę i makijaż. Prześlij mi też przykładowe zdjęcia, które Ci się podobają.
             </p>
           </div>
 
           <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Gdzie odbywa sie sesja biznesowa we Wroclawiu?</h3>
+            <h3 class="text-xl font-medium mb-3">Gdzie odbywa się sesja biznesowa we Wrocławiu?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Sesje biznesowe realizuje w profesjonalnym studio we Wroclawiu lub w Twojej firmie.
-              Moge tez fotografowac w plenerze - np. w centrum Wroclawia lub w lokalizacji zwiazanej
-              z Twoja branza. Wybor lokalizacji zalezy od charakteru zdjec i Twoich preferencji.
+              Sesje biznesowe realizuję w profesjonalnym studio we Wrocławiu lub w Twojej firmie.
+              Mogę też fotografować w plenerze — np. w centrum Wrocławia lub w lokalizacji związanej
+              z Twoją branżą. Wybór lokalizacji zależy od charakteru zdjęć i Twoich preferencji.
             </p>
           </div>
 
           <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Kiedy otrzymam gotowe zdjecia biznesowe?</h3>
+            <h3 class="text-xl font-medium mb-3">Kiedy otrzymam gotowe zdjęcia biznesowe?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Standardowy czas realizacji sesji biznesowej to 2-5 dni roboczych. W przypadku pilnych potrzeb
-              oferuje ekspresowa obrobke w 24-48 godzin (za dodatkowa oplata). Zdjecia dostarczam
-              w wysokiej rozdzielczosci oraz w wersjach zoptymalizowanych do mediow spolecznosciowych.
+              Standardowy czas realizacji sesji biznesowej to 2–5 dni roboczych. W przypadku pilnych potrzeb
+              oferuję ekspresową obróbkę w 24–48 godzin (za dodatkową opłatą). Zdjęcia dostarczam
+              w wysokiej rozdzielczości oraz w wersjach zoptymalizowanych do mediów społecznościowych.
             </p>
           </div>
 
           <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Czy moge wykorzystac zdjecia biznesowe w celach komercyjnych?</h3>
+            <h3 class="text-xl font-medium mb-3">Czy mogę wykorzystać zdjęcia biznesowe w celach komercyjnych?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Tak, wszystkie zdjecia z sesji biznesowej mozesz wykorzystac do celow komercyjnych: na stronie
-              internetowej, w mediach spolecznosciowych, materialach marketingowych, CV czy wizytowkach.
-              Przekazuje pelne prawa do wykorzystania zdjec w dzialalnosci zawodowej.
+              Tak, wszystkie zdjęcia z sesji biznesowej możesz wykorzystać do celów komercyjnych: na stronie
+              internetowej, w mediach społecznościowych, materiałach marketingowych, CV czy wizytówkach.
+              Przekazuję pełne prawa do wykorzystania zdjęć w działalności zawodowej.
             </p>
           </div>
 
           <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Czy oferujesz sesje dla calego zespolu firmy?</h3>
+            <h3 class="text-xl font-medium mb-3">Czy oferujesz sesje dla całego zespołu firmy?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Tak, realizuje sesje korporacyjne dla zespolow i calych firm we Wroclawiu. Oferuje indywidualne
-              portrety kazdego pracownika oraz zdjecia grupowe. Sesje moga odbyc sie w siedzibie firmy
-              lub w studio. Ceny pakietow korporacyjnych zaczynaja sie od 1500 zl.
+              Tak, realizuję sesje korporacyjne dla zespołów i całych firm we Wrocławiu. Oferuję indywidualne
+              portrety każdego pracownika oraz zdjęcia grupowe. Sesje mogą odbyć się w siedzibie firmy
+              lub w studio. Ceny pakietów korporacyjnych zaczynają się od 1500 zł.
             </p>
           </div>
 
           <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Jakie formaty zdjec otrzymam po sesji?</h3>
+            <h3 class="text-xl font-medium mb-3">Jakie formaty zdjęć otrzymam po sesji?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Dostarczam zdjecia w roznych formatach: pelna rozdzielczosc do druku (300 dpi), wersje
-              zoptymalizowane do internetu, formaty kwadratowe do mediow spolecznosciowych oraz kadrowania
-              dostosowane do LinkedIn, strony www i materialow drukowanych.
+              Dostarczam zdjęcia w różnych formatach: pełna rozdzielczość do druku (300 dpi), wersje
+              zoptymalizowane do internetu, formaty kwadratowe do mediów społecznościowych oraz kadrowania
+              dostosowane do LinkedIn, strony www i materiałów drukowanych.
             </p>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Related Services -->
+    <section class="py-16 bg-accent">
+      <div class="container mx-auto px-4">
+        <div class="text-center mb-10">
+          <h2 class="font-cormorant text-3xl mb-4">Inne usługi fotograficzne</h2>
+        </div>
+        <div class="flex flex-wrap justify-center gap-4">
+          <NuxtLink to="/sesja-slubna-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Sesja Ślubna</NuxtLink>
+          <NuxtLink to="/sesja-kobieca-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Sesja Kobieca</NuxtLink>
+          <NuxtLink to="/chrzciny-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Chrzciny</NuxtLink>
+          <NuxtLink to="/fotograf-portretowy-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Fotografia Portretowa</NuxtLink>
         </div>
       </div>
     </section>
@@ -304,7 +319,6 @@
 useSeoMeta({
   title: 'Sesja Biznesowa Wrocław - Anna Migaj | Zdjęcia Korporacyjne',
   description: 'Profesjonalne sesje biznesowe Wrocław. Anna Migaj - fotograf korporacyjny. Zdjęcia do LinkedIn, CV, stron internetowych. Buduj profesjonalny wizerunek!',
-  keywords: 'sesja biznesowa Wrocław, fotograf biznesowy Wrocław, zdjęcia korporacyjne, LinkedIn zdjęcia, fotografia biznesowa, Anna Migaj business',
   robots: 'index, follow',
   ogTitle: 'Sesja Biznesowa Wrocław - Anna Migaj | Zdjęcia Korporacyjne',
   ogDescription: 'Profesjonalne sesje biznesowe Wrocław. Anna Migaj - fotograf korporacyjny. Zdjęcia do LinkedIn, CV, stron internetowych.',
@@ -341,58 +355,58 @@ useHead({
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Ile kosztuje sesja biznesowa we Wroclawiu?",
+            "name": "Ile kosztuje sesja biznesowa we Wrocławiu?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Ceny sesji biznesowych we Wroclawiu zaczynaja sie od 450 zl za portret LinkedIn (30 minut, 5 zdjec). Pelna sesja biznesowa to 850 zl (1 godzina, 15 zdjec). Pakiety korporacyjne wyceniam indywidualnie."
+              "text": "Ceny sesji biznesowych we Wrocławiu zaczynają się od 450 zł za portret LinkedIn (30 minut, 5 zdjęć). Pełna sesja biznesowa to 850 zł (1 godzina, 15 zdjęć). Pakiety korporacyjne wyceniam indywidualnie."
             }
           },
           {
             "@type": "Question",
-            "name": "Jak przygotowac sie do sesji biznesowej?",
+            "name": "Jak przygotować się do sesji biznesowej?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Rekomenduje stonowane, jednokolorowe ubrania bez wyrazistych wzorow. Unikaj intensywnych kolorow i logotypow. Przed sesja oferuje bezplatna konsultacje stylizacyjna."
+              "text": "Rekomenduje stonowane, jednokolorowe ubrania bez wyrazistych wzorów. Unikaj intensywnych kolorów i logotypów. Przed sesją oferuję bezpłatną konsultację stylizacyjną."
             }
           },
           {
             "@type": "Question",
-            "name": "Gdzie odbywa sie sesja biznesowa we Wroclawiu?",
+            "name": "Gdzie odbywa się sesja biznesowa we Wrocławiu?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Sesje biznesowe realizuje w profesjonalnym studio we Wroclawiu, w Twojej firmie lub w plenerze. Wybor lokalizacji zalezy od charakteru zdjec i Twoich preferencji."
+              "text": "Sesje biznesowe realizuję w profesjonalnym studio we Wrocławiu, w Twojej firmie lub w plenerze. Wybór lokalizacji zależy od charakteru zdjęć i Twoich preferencji."
             }
           },
           {
             "@type": "Question",
-            "name": "Kiedy otrzymam gotowe zdjecia biznesowe?",
+            "name": "Kiedy otrzymam gotowe zdjęcia biznesowe?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Standardowy czas realizacji to 2-5 dni roboczych. Oferuje tez ekspresowa obrobke w 24-48 godzin. Zdjecia dostarczam w wysokiej rozdzielczosci i wersjach do social media."
+              "text": "Standardowy czas realizacji to 2–5 dni roboczych. Oferuję też ekspresową obróbkę w 24–48 godzin. Zdjęcia dostarczam w wysokiej rozdzielczości i wersjach do social media."
             }
           },
           {
             "@type": "Question",
-            "name": "Czy moge wykorzystac zdjecia biznesowe w celach komercyjnych?",
+            "name": "Czy mogę wykorzystać zdjęcia biznesowe w celach komercyjnych?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Tak, wszystkie zdjecia mozesz wykorzystac komercyjnie: na stronie www, w social media, materialach marketingowych, CV czy wizytowkach. Przekazuje pelne prawa do wykorzystania."
+              "text": "Tak, wszystkie zdjęcia możesz wykorzystać komercyjnie: na stronie www, w social media, materiałach marketingowych, CV czy wizytówkach. Przekazuję pełne prawa do wykorzystania."
             }
           },
           {
             "@type": "Question",
-            "name": "Czy oferujesz sesje dla calego zespolu firmy?",
+            "name": "Czy oferujesz sesje dla całego zespołu firmy?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Tak, realizuje sesje korporacyjne dla zespolow i firm we Wroclawiu. Oferuje portrety indywidualne i zdjecia grupowe. Ceny pakietow korporacyjnych od 1500 zl."
+              "text": "Tak, realizuję sesje korporacyjne dla zespołów i firm we Wrocławiu. Oferuję portrety indywidualne i zdjęcia grupowe. Ceny pakietów korporacyjnych od 1500 zł."
             }
           },
           {
             "@type": "Question",
-            "name": "Jakie formaty zdjec otrzymam po sesji?",
+            "name": "Jakie formaty zdjęć otrzymam po sesji?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Dostarczam zdjecia w pelnej rozdzielczosci do druku (300 dpi), wersje do internetu, formaty kwadratowe do social media oraz kadrowania do LinkedIn i materialow drukowanych."
+              "text": "Dostarczam zdjęcia w pełnej rozdzielczości do druku (300 dpi), wersje do internetu, formaty kwadratowe do social media oraz kadrowania do LinkedIn i materiałów drukowanych."
             }
           }
         ]

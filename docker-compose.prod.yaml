@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   nuxt-app:
-    image: migi987/na-lp:8.0
+    image: migi987/na-lp:9.0
     ports:
       - "3000:3000"
     environment:

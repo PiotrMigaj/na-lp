@@ -47,6 +47,8 @@ const autoBreadcrumbs = computed(() => {
     'sesja-kobieca-wroclaw': 'Sesja Kobieca',
     'sesja-produktowa-wroclaw': 'Sesja Produktowa',
     'fotograf-portretowy-wroclaw': 'Fotografia Portretowa',
+    'chrzciny-wroclaw': 'Chrzciny Wrocław',
+    'sesja-rodzinna-wroclaw': 'Sesja Rodzinna',
     'jak-przygotowac-sie-do-sesji-zdjeciowej': 'Jak przygotować się do sesji zdjęciowej',
     'jak-wybrac-idealne-miejsce-na-sesje': 'Jak wybrać idealne miejsce na sesję',
     'sztuka-naturalnego-pozowania-do-zdjec': 'Sztuka naturalnego pozowania do zdjęć'

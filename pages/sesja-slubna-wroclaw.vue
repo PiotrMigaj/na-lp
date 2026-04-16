@@ -23,7 +23,7 @@
             <h2 class="font-cormorant text-4xl mb-6">Fotografia Ślubna Wrocław</h2>
             <h3 class="text-xl font-medium mb-4">Naturalne Zdjęcia Ślubne</h3>
             <p class="mb-6 font-light leading-relaxed">
-              Specjalizuję się w fotografii ślubnej we Wrocławiu, tworząc naturalne, spontaniczne zdjęcia, które oddają prawdziwe emocje dnia ślubu. Mój styl to minimalizm, elegancja i uchwycenie najważniejszych momentów.
+              Specjalizuję się w fotografii ślubnej we Wrocławiu jako profesjonalny fotograf ślubny Wrocław, tworząc naturalne, spontaniczne zdjęcia, które oddają prawdziwe emocje dnia ślubu. Mój styl to minimalizm, elegancja i uchwycenie najważniejszych momentów.
             </p>
             <p class="mb-6 font-light leading-relaxed">
               Każda para młoda jest wyjątkowa, dlatego podchodzę do każdej sesji ślubnej indywidualnie. Tworzę zdjęcia, które będą przypominać o najpiękniejszych chwilach przez lata.
@@ -161,75 +161,90 @@
     <section class="py-24 bg-white">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Czesto Zadawane Pytania</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Często Zadawane Pytania</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-            Odpowiedzi na najczesciej zadawane pytania dotyczace sesji slubnych we Wroclawiu.
+            Odpowiedzi na najczęściej zadawane pytania dotyczące sesji ślubnych we Wrocławiu.
           </p>
         </div>
 
         <div class="max-w-4xl mx-auto space-y-6">
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Ile kosztuje sesja slubna we Wroclawiu?</h3>
+            <h3 class="text-xl font-medium mb-3">Ile kosztuje sesja ślubna we Wrocławiu?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Ceny sesji slubnych we Wroclawiu zaczynaja sie od pakietu podstawowego obejmujacego 6 godzin fotografii.
-              Dokladna wycena zalezy od wybranego pakietu, lokalizacji i dodatkowych uslug. Zapraszam do kontaktu
-              po indywidualna oferte dostosowana do Waszych potrzeb.
+              Ceny sesji ślubnych we Wrocławiu zaczynają się od pakietu podstawowego obejmującego 6 godzin fotografii.
+              Dokładna wycena zależy od wybranego pakietu, lokalizacji i dodatkowych usług. Zapraszam do kontaktu
+              po indywidualną ofertę dostosowaną do Waszych potrzeb.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Jak wczesnie nalezy zarezerwowac fotografa slubnego we Wroclawiu?</h3>
+            <h3 class="text-xl font-medium mb-3">Jak wcześnie należy zarezerwować fotografa ślubnego we Wrocławiu?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Rekomenduje rezerwacje terminu sesji slubnej we Wroclawiu z wyprzedzeniem 6-12 miesiecy, szczegolnie
-              w sezonie slubnym (maj-wrzesien). Popularne daty rezerwowane sa nawet rok wczesniej. Im szybciej
-              sie skontaktujesz, tym wieksza pewnosc dostepnosci terminu.
+              Rekomenduje rezerwację terminu sesji ślubnej we Wrocławiu z wyprzedzeniem 6–12 miesięcy, szczególnie
+              w sezonie ślubnym (maj–wrzesień). Popularne daty rezerwowane są nawet rok wcześniej. Im szybciej
+              się skontaktujesz, tym większa pewność dostępności terminu.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Czy wykonujesz sesje slubne poza Wroclawiem?</h3>
+            <h3 class="text-xl font-medium mb-3">Czy wykonujesz sesje ślubne poza Wrocławiem?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Tak, realizuje sesje slubne nie tylko we Wroclawiu, ale rowniez w calym wojewodztwie dolnoslaskim
-              i calej Polsce. Dojazd do 50 km od Wroclawia jest wliczony w cene. Przy wiekszych odleglosciach
-              doliczam koszty dojazdu. Chetnie fotografuje rowniez sluby destination za granica.
+              Tak, realizuję sesje ślubne nie tylko we Wrocławiu, ale również w całym województwie dolnośląskim
+              i całej Polsce. Dojazd do 50 km od Wrocławia jest wliczony w cenę. Przy większych odległościach
+              doliczam koszty dojazdu. Chętnie fotografuję również śluby destination za granicą.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Kiedy otrzymamy gotowe zdjecia slubne?</h3>
+            <h3 class="text-xl font-medium mb-3">Kiedy otrzymamy gotowe zdjęcia ślubne?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Standardowy czas realizacji sesji slubnej wynosi 4-6 tygodni od dnia slubu. W tym czasie starannie
-              selekcjonuje i obrabiam kazde zdjecie. Podglad kilku najlepszych zdjec wysylam juz w ciagu tygodnia.
-              Gotowe zdjecia otrzymacie w prywatnej galerii online z mozliwoscia pobrania.
+              Standardowy czas realizacji sesji ślubnej wynosi 4–6 tygodni od dnia ślubu. W tym czasie starannie
+              selekcjonuję i obrabiam każde zdjęcie. Podgląd kilku najlepszych zdjęć wysyłam już w ciągu tygodnia.
+              Gotowe zdjęcia otrzymacie w prywatnej galerii online z możliwością pobrania.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Jaki styl fotografii slubnej reprezentujesz?</h3>
+            <h3 class="text-xl font-medium mb-3">Jaki styl fotografii ślubnej reprezentujesz?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Moj styl fotografii slubnej to polaczenie reportazu z portretem. Stawiam na naturalnosc,
-              spontaniczne emocje i autentyczne chwile. Unikam sztucznego pozowania - zamiast tego tworze
-              warunki, w ktorych czujecie sie swobodnie. Zdjecia sa jasne, pelne ciepla i eleganckie.
+              Mój styl fotografii ślubnej to połączenie reportażu z portretem. Stawiam na naturalność,
+              spontaniczne emocje i autentyczne chwile. Unikam sztucznego pozowania — zamiast tego tworzę
+              warunki, w których czujecie się swobodnie. Zdjęcia są jasne, pełne ciepła i eleganckie.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Czy oferujesz sesje nareczenska przed slubem?</h3>
+            <h3 class="text-xl font-medium mb-3">Czy oferujesz sesję narzeczeńską przed ślubem?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Tak, sesja nareczenska we Wroclawiu jest wlaczona w pakiet Premium i VIP. To swietna okazja,
-              zebysmy sie poznali przed slubem i zebyscie poczuli sie komfortowo przed obiektywem. Sesje
-              nareczenska mozna rowniez zamowic osobno jako dodatek do pakietu podstawowego.
+              Tak, sesja narzeczeńska we Wrocławiu jest wliczona w pakiet Premium i VIP. To świetna okazja,
+              żebyśmy się poznali przed ślubem i żebyście poczuli się komfortowo przed obiektywem. Sesję
+              narzeczeńską można również zamówić osobno jako dodatek do pakietu podstawowego.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Ile zdjec slubnych otrzymamy po sesji?</h3>
+            <h3 class="text-xl font-medium mb-3">Ile zdjęć ślubnych otrzymamy po sesji?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Liczba zdjec zalezy od wybranego pakietu i dlugosci dnia slubnego. Pakiet podstawowy (6 godzin)
-              to minimum 300 obrobionych zdjec, pakiet Premium (8 godzin) - 500+ zdjec, a pakiet VIP (10 godzin)
-              - ponad 700 zdjec. Wszystkie zdjecia sa starannie wyselekcjonowane i obrobione.
+              Liczba zdjęć zależy od wybranego pakietu i długości dnia ślubnego. Pakiet podstawowy (6 godzin)
+              to minimum 300 obrobionych zdjęć, pakiet Premium (8 godzin) — 500+ zdjęć, a pakiet VIP (10 godzin)
+              — ponad 700 zdjęć. Wszystkie zdjęcia są starannie wyselekcjonowane i obrobione.
             </p>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Related Services -->
+    <section class="py-16 bg-accent">
+      <div class="container mx-auto px-4">
+        <div class="text-center mb-10">
+          <h2 class="font-cormorant text-3xl mb-4">Inne usługi fotograficzne</h2>
+        </div>
+        <div class="flex flex-wrap justify-center gap-4">
+          <NuxtLink to="/sesja-kobieca-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Sesja Kobieca</NuxtLink>
+          <NuxtLink to="/chrzciny-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Chrzciny</NuxtLink>
+          <NuxtLink to="/sesja-biznesowa-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Sesja Biznesowa</NuxtLink>
+          <NuxtLink to="/fotograf-portretowy-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Fotografia Portretowa</NuxtLink>
         </div>
       </div>
     </section>
@@ -251,18 +266,17 @@
 
 <script setup>
 const weddingImages = [
-  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249874/slubne-1_jyc43n.webp', alt: 'Sesja slubna Wroclaw - Weronika i Szymon - fotograf slubny Anna Migaj' },
-  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249875/slubne-2_rwyoia.webp', alt: 'Zdjecia slubne Wroclaw - para mloda Weronika i Szymon - naturalna fotografia slubna' },
-  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249875/slubne-3_jrkhrs.webp', alt: 'Fotografia slubna Wroclaw - romantyczne zdjecia Weroniki i Szymona - Anna Migaj' },
-  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249876/slubne-4_hxcrau.webp', alt: 'Profesjonalna sesja slubna Wroclaw - Weronika i Szymon - emocjonalne kadry' },
-  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249877/slubne-5_sd1cv8.webp', alt: 'Sesja slubna plener Wroclaw - Weronika i Szymon - fotograf Anna Migaj' },
-  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249877/slubne-11_epvqau.webp', alt: 'Sesja slubna Wroclaw - Ewelina i Kamil - naturalne zdjecia slubne Anna Migaj' },
+  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249874/slubne-1_jyc43n.webp', alt: 'Sesja ślubna Wrocław - Weronika i Szymon - fotograf ślubny Anna Migaj' },
+  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249875/slubne-2_rwyoia.webp', alt: 'Zdjęcia ślubne Wrocław - para młoda Weronika i Szymon - naturalna fotografia ślubna' },
+  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249875/slubne-3_jrkhrs.webp', alt: 'Fotografia ślubna Wrocław - romantyczne zdjęcia Weroniki i Szymona - Anna Migaj' },
+  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249876/slubne-4_hxcrau.webp', alt: 'Profesjonalna sesja ślubna Wrocław - Weronika i Szymon - emocjonalne kadry' },
+  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249877/slubne-5_sd1cv8.webp', alt: 'Sesja ślubna plener Wrocław - Weronika i Szymon - fotograf Anna Migaj' },
+  { src: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249877/slubne-11_epvqau.webp', alt: 'Sesja ślubna Wrocław - Ewelina i Kamil - naturalne zdjęcia ślubne Anna Migaj' },
 ];
 
 useSeoMeta({
   title: 'Sesja Ślubna Wrocław - Anna Migaj | Naturalne Zdjęcia Ślubne',
   description: 'Profesjonalna sesja ślubna Wrocław. Anna Migaj - doświadczony fotograf ślubny. Naturalne, pełne emocji zdjęcia z Waszego wielkiego dnia. Sprawdź pakiety!',
-  keywords: 'sesja ślubna Wrocław, fotograf ślubny Wrocław, zdjęcia ślubne Wrocław, fotografia ślubna, Anna Migaj ślub, naturalne zdjęcia ślubne',
   robots: 'index, follow',
   ogTitle: 'Sesja Ślubna Wrocław - Anna Migaj | Naturalne Zdjęcia Ślubne',
   ogDescription: 'Profesjonalna sesja ślubna Wrocław. Anna Migaj - doświadczony fotograf ślubny. Naturalne, pełne emocji zdjęcia z Waszego wielkiego dnia.',
@@ -278,8 +292,8 @@ useHead({
       innerHTML: JSON.stringify({
         "@context": "https://schema.org",
         "@type": "Service",
-        "name": "Sesja Slubna Wroclaw",
-        "description": "Profesjonalna fotografia slubna we Wroclawiu. Naturalne, pelne emocji zdjecia z Waszego wielkiego dnia.",
+        "name": "Sesja Ślubna Wrocław",
+        "description": "Profesjonalna fotografia ślubna we Wrocławiu. Naturalne, pełne emocji zdjęcia z Waszego wielkiego dnia.",
         "provider": {
           "@type": "LocalBusiness",
           "name": "Niebieskie Aparaty - Anna Migaj",
@@ -287,11 +301,11 @@ useHead({
         },
         "areaServed": {
           "@type": "City",
-          "name": "Wroclaw"
+          "name": "Wrocław"
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
-          "name": "Pakiety Slubne",
+          "name": "Pakiety Ślubne",
           "itemListElement": [
             {
               "@type": "Offer",
@@ -326,58 +340,58 @@ useHead({
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Ile kosztuje sesja slubna we Wroclawiu?",
+            "name": "Ile kosztuje sesja ślubna we Wrocławiu?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Ceny sesji slubnych we Wroclawiu zaczynaja sie od pakietu podstawowego obejmujacego 6 godzin fotografii. Dokladna wycena zalezy od wybranego pakietu, lokalizacji i dodatkowych uslug."
+              "text": "Ceny sesji ślubnych we Wrocławiu zaczynają się od pakietu podstawowego obejmującego 6 godzin fotografii. Dokładna wycena zależy od wybranego pakietu, lokalizacji i dodatkowych usług."
             }
           },
           {
             "@type": "Question",
-            "name": "Jak wczesnie nalezy zarezerwowac fotografa slubnego we Wroclawiu?",
+            "name": "Jak wcześnie należy zarezerwować fotografa ślubnego we Wrocławiu?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Rekomenduje rezerwacje terminu sesji slubnej we Wroclawiu z wyprzedzeniem 6-12 miesiecy, szczegolnie w sezonie slubnym (maj-wrzesien). Popularne daty rezerwowane sa nawet rok wczesniej."
+              "text": "Rekomenduje rezerwację terminu sesji ślubnej we Wrocławiu z wyprzedzeniem 6–12 miesięcy, szczególnie w sezonie ślubnym (maj–wrzesień). Popularne daty rezerwowane są nawet rok wcześniej."
             }
           },
           {
             "@type": "Question",
-            "name": "Czy wykonujesz sesje slubne poza Wroclawiem?",
+            "name": "Czy wykonujesz sesje ślubne poza Wrocławiem?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Tak, realizuje sesje slubne nie tylko we Wroclawiu, ale rowniez w calym wojewodztwie dolnoslaskim i calej Polsce. Dojazd do 50 km od Wroclawia jest wliczony w cene."
+              "text": "Tak, realizuję sesje ślubne nie tylko we Wrocławiu, ale również w całym województwie dolnośląskim i całej Polsce. Dojazd do 50 km od Wrocławia jest wliczony w cenę."
             }
           },
           {
             "@type": "Question",
-            "name": "Kiedy otrzymamy gotowe zdjecia slubne?",
+            "name": "Kiedy otrzymamy gotowe zdjęcia ślubne?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Standardowy czas realizacji sesji slubnej wynosi 4-6 tygodni od dnia slubu. Podglad kilku najlepszych zdjec wysylam juz w ciagu tygodnia. Gotowe zdjecia otrzymacie w prywatnej galerii online."
+              "text": "Standardowy czas realizacji sesji ślubnej wynosi 4–6 tygodni od dnia ślubu. Podgląd kilku najlepszych zdjęć wysyłam już w ciągu tygodnia. Gotowe zdjęcia otrzymacie w prywatnej galerii online."
             }
           },
           {
             "@type": "Question",
-            "name": "Jaki styl fotografii slubnej reprezentujesz?",
+            "name": "Jaki styl fotografii ślubnej reprezentujesz?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Moj styl fotografii slubnej to polaczenie reportazu z portretem. Stawiam na naturalnosc, spontaniczne emocje i autentyczne chwile. Zdjecia sa jasne, pelne ciepla i eleganckie."
+              "text": "Mój styl fotografii ślubnej to połączenie reportażu z portretem. Stawiam na naturalność, spontaniczne emocje i autentyczne chwile. Zdjęcia są jasne, pełne ciepła i eleganckie."
             }
           },
           {
             "@type": "Question",
-            "name": "Czy oferujesz sesje nareczenska przed slubem?",
+            "name": "Czy oferujesz sesję narzeczeńską przed ślubem?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Tak, sesja nareczenska we Wroclawiu jest wlaczona w pakiet Premium i VIP. Sesje nareczenska mozna rowniez zamowic osobno jako dodatek do pakietu podstawowego."
+              "text": "Tak, sesja narzeczeńska we Wrocławiu jest wliczona w pakiet Premium i VIP. Sesję narzeczeńską można również zamówić osobno jako dodatek do pakietu podstawowego."
             }
           },
           {
             "@type": "Question",
-            "name": "Ile zdjec slubnych otrzymamy po sesji?",
+            "name": "Ile zdjęć ślubnych otrzymamy po sesji?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Liczba zdjec zalezy od wybranego pakietu. Pakiet podstawowy to minimum 300 obrobionych zdjec, pakiet Premium - 500+ zdjec, a pakiet VIP - ponad 700 zdjec."
+              "text": "Liczba zdjęć zależy od wybranego pakietu. Pakiet podstawowy to minimum 300 obrobionych zdjęć, pakiet Premium — 500+ zdjęć, a pakiet VIP — ponad 700 zdjęć."
             }
           }
         ]

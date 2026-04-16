@@ -128,6 +128,15 @@
       </ul>
 
       <div class="mt-12 pt-8 border-t">
+        <h3 class="text-2xl font-cormorant mb-4">Powiązane usługi</h3>
+        <div class="flex flex-wrap gap-3 mb-8">
+          <NuxtLink to="/sesja-kobieca-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Sesja Kobieca Wrocław</NuxtLink>
+          <NuxtLink to="/sesja-slubna-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Sesja Ślubna Wrocław</NuxtLink>
+          <NuxtLink to="/fotograf-portretowy-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Fotografia Portretowa Wrocław</NuxtLink>
+        </div>
+      </div>
+
+      <div class="mt-4 pt-8 border-t">
         <h3 class="text-2xl font-cormorant mb-4">Gotowy na swoją idealną sesję?</h3>
         <p>
           Pomogę Ci znaleźć idealną lokalizację do Twojej sesji zdjęciowej we Wrocławiu. Skontaktuj się, by wspólnie stworzyć coś wyjątkowego!
@@ -147,7 +156,6 @@
 useSeoMeta({
   title: 'Jak wybrać idealne miejsce na sesję zdjęciową – poradnik fotografa Wrocław',
   description: 'Dowiedz się, jak wybrać idealną lokalizację na sesję zdjęciową we Wrocławiu. Sprawdź rodzaje miejsc, wskazówki i listę kontrolną od profesjonalnego fotografa.',
-  keywords: 'lokalizacja sesji zdjęciowej, miejsce na sesję Wrocław, poradnik fotograficzny, wybór lokalizacji zdjęcia',
   robots: 'index, follow',
   ogTitle: 'Jak wybrać idealne miejsce na sesję zdjęciową – poradnik fotografa Wrocław',
   ogDescription: 'Dowiedz się, jak wybrać idealną lokalizację na sesję zdjęciową we Wrocławiu. Sprawdź rodzaje miejsc, wskazówki i listę kontrolną od profesjonalnego fotografa.',
@@ -167,9 +175,13 @@ useHead({
         "description": "Dowiedz się, jak wybrać idealną lokalizację na sesję zdjęciową we Wrocławiu. Sprawdź rodzaje miejsc, wskazówki i listę kontrolną od profesjonalnego fotografa.",
         "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249643/blog-location-1_vppdpx.webp",
         "datePublished": "2024-03-10",
+        "inLanguage": "pl-PL",
+        "wordCount": 550,
         "author": {
           "@type": "Person",
-          "name": "Anna Migaj"
+          "name": "Anna Migaj",
+          "url": "https://niebieskie-aparaty.pl/o-mnie",
+          "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp"
         },
         "publisher": {
           "@type": "Organization",

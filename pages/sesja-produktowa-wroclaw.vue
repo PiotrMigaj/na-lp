@@ -230,6 +230,19 @@
       </div>
     </section>
 
+    <!-- Related Services -->
+    <section class="py-16 bg-white">
+      <div class="container mx-auto px-4 max-w-4xl text-center">
+        <h2 class="font-cormorant text-3xl mb-8">Inne usługi fotograficzne</h2>
+        <div class="flex flex-wrap justify-center gap-4">
+          <NuxtLink to="/sesja-kobieca-wroclaw" class="border border-secondary text-secondary px-6 py-2 uppercase tracking-wider text-sm transition duration-300 hover:bg-secondary hover:text-primary">Sesja Kobieca</NuxtLink>
+          <NuxtLink to="/sesja-biznesowa-wroclaw" class="border border-secondary text-secondary px-6 py-2 uppercase tracking-wider text-sm transition duration-300 hover:bg-secondary hover:text-primary">Sesja Biznesowa</NuxtLink>
+          <NuxtLink to="/sesja-slubna-wroclaw" class="border border-secondary text-secondary px-6 py-2 uppercase tracking-wider text-sm transition duration-300 hover:bg-secondary hover:text-primary">Sesja Ślubna</NuxtLink>
+          <NuxtLink to="/fotograf-portretowy-wroclaw" class="border border-secondary text-secondary px-6 py-2 uppercase tracking-wider text-sm transition duration-300 hover:bg-secondary hover:text-primary">Fotografia Portretowa</NuxtLink>
+        </div>
+      </div>
+    </section>
+
     <!-- CTA -->
     <section class="py-24 bg-secondary text-primary text-center">
       <div class="container mx-auto px-4 max-w-3xl">
@@ -257,7 +270,6 @@ const productImages = [
 useSeoMeta({
   title: 'Sesja Produktowa Wrocław - Anna Migaj | Fotografia Produktów',
   description: 'Profesjonalna sesja produktowa Wrocław. Anna Migaj - fotograf produktowy. Wysokiej jakości zdjęcia produktów dla e-commerce, katalogów i social media. Umów sesję!',
-  keywords: 'sesja produktowa Wrocław, fotografia produktowa Wrocław, zdjęcia produktów, e-commerce fotografia, Anna Migaj produkty, fotograf produktowy Wrocław',
   robots: 'index, follow',
   ogTitle: 'Sesja Produktowa Wrocław - Anna Migaj | Fotografia Produktów',
   ogDescription: 'Profesjonalna sesja produktowa Wrocław. Anna Migaj - fotograf produktowy. Wysokiej jakości zdjęcia produktów dla e-commerce, katalogów i social media.',

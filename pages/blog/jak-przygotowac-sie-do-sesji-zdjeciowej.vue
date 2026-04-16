@@ -120,6 +120,17 @@
       </ul>
 
       <div class="mt-12 pt-8 border-t">
+        <h3 class="text-2xl font-cormorant mb-4">Powiązane usługi</h3>
+        <div class="flex flex-wrap gap-3 mb-8">
+          <NuxtLink to="/sesja-kobieca-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Sesja Kobieca Wrocław</NuxtLink>
+          <NuxtLink to="/sesja-slubna-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Sesja Ślubna Wrocław</NuxtLink>
+          <NuxtLink to="/sesja-biznesowa-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Sesja Biznesowa Wrocław</NuxtLink>
+          <NuxtLink to="/chrzciny-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Chrzciny Wrocław</NuxtLink>
+          <NuxtLink to="/sesja-rodzinna-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Sesja Rodzinna Wrocław</NuxtLink>
+        </div>
+      </div>
+
+      <div class="mt-4 pt-8 border-t">
         <h3 class="text-2xl font-cormorant mb-4">Gotowa/y na swoją sesję we Wrocławiu?</h3>
         <p>
           Teraz, gdy wiesz już, jak się przygotować, czas umówić swoją sesję zdjęciową. 
@@ -140,7 +151,6 @@
 useSeoMeta({
   title: 'Jak przygotować się do sesji zdjęciowej – Fotograf Wrocław',
   description: 'Dowiedz się, jak przygotować się do sesji zdjęciowej we Wrocławiu. Poznaj sprawdzone porady dotyczące stylizacji, makijażu i atmosfery przed obiektywem.',
-  keywords: 'przygotowanie do sesji zdjęciowej, jak się przygotować do sesji, sesja zdjęciowa porady, fotograf Wrocław porady',
   robots: 'index, follow',
   ogTitle: 'Jak przygotować się do sesji zdjęciowej – Fotograf Wrocław',
   ogDescription: 'Praktyczne porady jak przygotować się do sesji zdjęciowej we Wrocławiu. Stylizacje, lokalizacje, atmosfera – zaufaj profesjonaliście.',
@@ -160,9 +170,13 @@ useHead({
         "description": "Dowiedz się, jak przygotować się do sesji zdjęciowej we Wrocławiu. Poznaj sprawdzone porady dotyczące stylizacji, makijażu i atmosfery przed obiektywem.",
         "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-1_dgl2mi.webp",
         "datePublished": "2024-03-15",
+        "inLanguage": "pl-PL",
+        "wordCount": 650,
         "author": {
           "@type": "Person",
-          "name": "Anna Migaj"
+          "name": "Anna Migaj",
+          "url": "https://niebieskie-aparaty.pl/o-mnie",
+          "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp"
         },
         "publisher": {
           "@type": "Organization",

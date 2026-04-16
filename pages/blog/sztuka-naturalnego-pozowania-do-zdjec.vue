@@ -132,6 +132,15 @@
       </ul>
 
       <div class="mt-12 pt-8 border-t">
+        <h3 class="text-2xl font-cormorant mb-4">Powiązane usługi</h3>
+        <div class="flex flex-wrap gap-3 mb-8">
+          <NuxtLink to="/sesja-kobieca-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Sesja Kobieca Wrocław</NuxtLink>
+          <NuxtLink to="/fotograf-portretowy-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Fotografia Portretowa Wrocław</NuxtLink>
+          <NuxtLink to="/sesja-biznesowa-wroclaw" class="border border-secondary text-secondary px-5 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-primary">Sesja Biznesowa Wrocław</NuxtLink>
+        </div>
+      </div>
+
+      <div class="mt-4 pt-8 border-t">
         <h3 class="text-2xl font-cormorant mb-4">Gotowa, by opanować sztukę pozowania?</h3>
         <p>
           Stwórzmy razem piękne, naturalne zdjęcia. Skontaktuj się ze mną, aby umówić sesję i wcielić te techniki w życie.
@@ -151,7 +160,6 @@
 useSeoMeta({
   title: 'Naturalne Pozowanie do Zdjęć – Praktyczny Przewodnik',
   description: 'Poznaj profesjonalne techniki naturalnego pozowania. Dowiedz się, jak znaleźć najlepsze kąty, wyrażać emocje i wyglądać korzystnie na zdjęciach.',
-  keywords: 'naturalne pozowanie, jak pozować do zdjęć, techniki pozowania, porady fotograficzne pozowanie',
   robots: 'index, follow',
   ogTitle: 'Naturalne Pozowanie do Zdjęć – Praktyczny Przewodnik',
   ogDescription: 'Poznaj profesjonalne techniki naturalnego pozowania. Dowiedz się, jak znaleźć najlepsze kąty, wyrażać emocje i wyglądać korzystnie na zdjęciach.',
@@ -171,9 +179,13 @@ useHead({
         "description": "Poznaj profesjonalne techniki naturalnego pozowania. Dowiedz się, jak znaleźć najlepsze kąty, wyrażać emocje i wyglądać korzystnie na zdjęciach.",
         "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249631/blog-posing-1_mcyarl.webp",
         "datePublished": "2024-03-05",
+        "inLanguage": "pl-PL",
+        "wordCount": 700,
         "author": {
           "@type": "Person",
-          "name": "Anna Migaj"
+          "name": "Anna Migaj",
+          "url": "https://niebieskie-aparaty.pl/o-mnie",
+          "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp"
         },
         "publisher": {
           "@type": "Organization",

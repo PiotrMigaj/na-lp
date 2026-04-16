@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1 class="sr-only">Fotograf Wrocław - Anna Migaj</h1>
     <!-- Hero Section -->
     <HeroCarousel />
 
@@ -9,16 +8,16 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 class="font-cormorant text-4xl mb-6">Fotograf Wrocław - Profesjonalne Sesje Zdjęciowe</h2>
-            <h3 class="text-xl font-medium mb-4">Anna Migaj - Twój Fotograf</h3>
+            <h1 class="font-cormorant text-4xl mb-6">Profesjonalny Fotograf Wrocław — Sesje Kobiece, Ślubne, Biznesowe i Chrzciny</h1>
+            <h2 class="text-xl font-medium mb-4">Anna Migaj — Twój Fotograf</h2>
             <p class="mb-6 font-light leading-relaxed">
-              Nazywam się Anna Migaj i od kilku lat zajmuję się fotografią. Z wykształcenia jestem architektką – zamiłowanie do estetyki, harmonii i detalu od zawsze towarzyszyło mojej pracy twórczej.
+              Jestem Anna Migaj — profesjonalny fotograf Wrocław, który towarzyszy Ci w najważniejszych momentach życia. Fotografuję sesje ślubne, sesje kobiece, sesje biznesowe, chrzciny i sesje rodzinne we Wrocławiu oraz w całym województwie dolnośląskim.
             </p>
             <p class="mb-6 font-light leading-relaxed">
-              Moje zdjęcia charakteryzują się minimalistycznym stylem, w którym światło i forma odgrywają kluczową rolę. Tworzę kadry ponadczasowe – subtelne, ale pełne znaczenia – uchwycające naturalne piękno i osobowość fotografowanej osoby.
+              Z wykształcenia architektka, z pasji fotografka — zamiłowanie do estetyki, harmonii i detalu od zawsze towarzyszyło mojej pracy twórczej. Tworzę kadry ponadczasowe — subtelne, ale pełne znaczenia — uchwycające naturalne piękno i osobowość fotografowanej osoby.
             </p>
             <p class="mb-6 font-light leading-relaxed">
-              Studiowałam architekturę i współpracowałam z osobami kreatywnymi z różnych branż. Dziś łączę te doświadczenia z miłością do pracy z ludźmi. Wierzę, że dobra fotografia rodzi się z uważności, wzajemnego zaufania i prawdziwej relacji.
+              Wierzę, że dobra fotografia rodzi się z uważności, wzajemnego zaufania i prawdziwej relacji. Jako fotograf Wrocław zależy mi na tym, byś czuła się swobodnie przed obiektywem — niezależnie od okazji.
             </p>
             <NuxtLink to="/o-mnie" class="inline-block bg-secondary text-primary px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-opacity-80 mt-4">
               Dowiedz się więcej
@@ -62,24 +61,28 @@
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Sesje Zdjęciowe Wrocław</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Rodzaje Sesji Zdjęciowych we Wrocławiu</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Profesjonalna fotografia dopasowana do Twoich potrzeb i wizji.
           </p>
         </div>
-        
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div class="text-center">
-            <h3 class="text-2xl font-medium mb-4">Fotografia Ślubna Wrocław</h3>
+            <h3 class="text-2xl font-medium mb-4"><NuxtLink to="/sesja-slubna-wroclaw" class="hover:text-secondary transition-colors">Sesja Ślubna Wrocław</NuxtLink></h3>
             <p class="text-gray-600 mb-4">Naturalne zdjęcia ślubne pełne emocji i spontanicznych momentów</p>
           </div>
           <div class="text-center">
-            <h3 class="text-2xl font-medium mb-4">Sesje Biznesowe Wrocław</h3>
+            <h3 class="text-2xl font-medium mb-4"><NuxtLink to="/sesja-biznesowa-wroclaw" class="hover:text-secondary transition-colors">Sesja Biznesowa Wrocław</NuxtLink></h3>
             <p class="text-gray-600 mb-4">Profesjonalne zdjęcia biznesowe i korporacyjne</p>
           </div>
           <div class="text-center">
-            <h3 class="text-2xl font-medium mb-4">Fotografia Portretowa</h3>
+            <h3 class="text-2xl font-medium mb-4"><NuxtLink to="/sesja-kobieca-wroclaw" class="hover:text-secondary transition-colors">Sesja Kobieca Wrocław</NuxtLink></h3>
             <p class="text-gray-600 mb-4">Sesje portretowe i kobiece pełne naturalności</p>
+          </div>
+          <div class="text-center">
+            <h3 class="text-2xl font-medium mb-4"><NuxtLink to="/chrzciny-wroclaw" class="hover:text-secondary transition-colors">Chrzciny Wrocław</NuxtLink></h3>
+            <p class="text-gray-600 mb-4">Naturalna, reportażowa fotografia z chrztu Twojego dziecka</p>
           </div>
         </div>
         
@@ -129,7 +132,6 @@ import SectionHeaderCenteredSubtitle from '~/components/SectionHeaderCenteredSub
 useSeoMeta({
   title: 'Fotograf Wrocław - Anna Migaj | Sesje Kobiece, Biznesowe i Ślubne',
   description: 'Profesjonalny fotograf Wrocław - Anna Migaj. Wyjątkowe sesje kobiece, biznesowe i ślubne. Naturalna fotografia pełna emocji. Sprawdź ofertę! ✨',
-  keywords: 'fotograf Wrocław, sesje kobiece Wrocław, sesja biznesowa Wrocław, fotografia ślubna Wrocław, Anna Migaj, Niebieskie Aparaty',
   robots: 'index, follow',
   ogTitle: 'Fotograf Wrocław - Anna Migaj | Sesje Kobiece, Biznesowe i Ślubne',
   ogDescription: 'Profesjonalny fotograf Wrocław - Anna Migaj. Wyjątkowe sesje kobiece, biznesowe i ślubne. Naturalna fotografia pełna emocji.',
@@ -224,4 +226,58 @@ const testimonials = [
     role: ''
   }
 ];
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Ile kosztuje fotograf we Wrocławiu?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ceny sesji zdjęciowych we Wrocławiu zaczynają się od 450 zł za portret biznesowy, 700 zł za sesję kobiecą i od pakietów podstawowych za fotografię ślubną. Ceny chrzcin i sesji rodzinnych wyceniam indywidualnie. Zapraszam do kontaktu po szczegółową ofertę."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Jakie sesje fotograficzne oferujesz we Wrocławiu?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oferuję: sesje ślubne Wrocław, sesje kobiece Wrocław, sesje biznesowe Wrocław, fotografia chrzcin, sesje rodzinne, fotografia portretowa oraz sesje produktowe. Działam we Wrocławiu i całym województwie dolnośląskim."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Czy fotografujesz chrzciny we Wrocławiu?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tak, fotografuję chrzciny we Wrocławiu i okolicach. Oferuję naturalny, reportażowy styl fotografii chrzcielnej — uchwycę ceremonię w kościele, radość rodziny i pierwsze chwile Twojego dziecka. Skontaktuj się po indywidualną wycenę."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Jak wcześnie należy zarezerwować fotografa?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Na sesje ślubne rekomenduje rezerwację 6–12 miesięcy wcześniej, szczególnie w sezonie ślubnym (maj–wrzesień). Na sesje kobiece, biznesowe i chrzciny zazwyczaj wystarczy 2–4 tygodnie z wyprzedzeniem."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Gdzie działasz jako fotograf?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Głównie działam we Wrocławiu, ale fotografuję w całym województwie dolnośląskim i całej Polsce. Dojazd do 50 km od Wrocławia jest wliczony w cenę."
+            }
+          }
+        ]
+      })
+    }
+  ]
+});
 </script>

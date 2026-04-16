@@ -213,75 +213,90 @@
     <section class="py-24 bg-white">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Czesto Zadawane Pytania</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Często Zadawane Pytania</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-            Odpowiedzi na najczesciej zadawane pytania dotyczace sesji portretowych i kobiecych we Wroclawiu.
+            Odpowiedzi na najczęściej zadawane pytania dotyczące sesji portretowych i kobiecych we Wrocławiu.
           </p>
         </div>
 
         <div class="max-w-4xl mx-auto space-y-6">
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Ile kosztuje sesja portretowa we Wroclawiu?</h3>
+            <h3 class="text-xl font-medium mb-3">Ile kosztuje sesja portretowa we Wrocławiu?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Ceny sesji portretowych we Wroclawiu zaczynaja sie od 500 zl za podstawowa sesje (1 godzina, 10 zdjec).
-              Sesje kobiece i stylizowane to koszt od 700 zl. Dokladna wycena zalezy od dlugosci sesji,
-              liczby stylizacji i lokalizacji. Zapraszam do kontaktu po indywidualna oferte.
+              Ceny sesji portretowych we Wrocławiu zaczynają się od 500 zł za podstawową sesję (1 godzina, 10 zdjęć).
+              Sesje kobiece i stylizowane to koszt od 700 zł. Dokładna wycena zależy od długości sesji,
+              liczby stylizacji i lokalizacji. Zapraszam do kontaktu po indywidualną ofertę.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Jak przygotowac sie do sesji kobiecej?</h3>
+            <h3 class="text-xl font-medium mb-3">Jak przygotować się do sesji kobiecej?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Przed sesja kobieca we Wroclawiu rekomenduje dobre wyspanie sie i nawodnienie. Przygotuj 2-3
-              zestawy ubran w roznych stylach. Oferuje bezplatna konsultacje przed sesja, podczas ktorej
-              omowimy stylizacje, makijaz i oczekiwania. Warto tez przygotowac inspiracje ze zdjec.
+              Przed sesją kobiecą we Wrocławiu rekomenduje dobre wyspanie się i nawodnienie. Przygotuj 2–3
+              zestawy ubrań w różnych stylach. Oferuję bezpłatną konsultację przed sesją, podczas której
+              omówimy stylizację, makijaż i oczekiwania. Warto też przygotować inspiracje ze zdjęć.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Gdzie odbywaja sie sesje portretowe we Wroclawiu?</h3>
+            <h3 class="text-xl font-medium mb-3">Gdzie odbywają się sesje portretowe we Wrocławiu?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Sesje portretowe realizuje w profesjonalnym studio we Wroclawiu, w plenerze (parki, stare miasto,
-              nad Odra) lub w wybranej przez Ciebie lokalizacji. Kazde miejsce nadaje zdjeciom inny charakter -
-              studio sprawdza sie do eleganckich portretow, plener do naturalnych, swobodnych sesji.
+              Sesje portretowe realizuję w profesjonalnym studio we Wrocławiu, w plenerze (parki, stare miasto,
+              nad Odrą) lub w wybranej przez Ciebie lokalizacji. Każde miejsce nadaje zdjęciom inny charakter —
+              studio sprawdza się do eleganckich portretów, plener do naturalnych, swobodnych sesji.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
             <h3 class="text-xl font-medium mb-3">Czy pomagasz w pozowaniu podczas sesji?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Tak, przez cala sesje portretowa prowadze Cie przez pozowanie krok po kroku. Wiem, ze wiele osob
-              czuje sie niepewnie przed obiektywem - to normalne! Moja rola to stworzyc luzna atmosfere
-              i podpowiadac naturalne pozy, dzieki ktorym bedziesz wygladac i czuc sie swietnie.
+              Tak, przez całą sesję portretową prowadzę Cię przez pozowanie krok po kroku. Wiem, że wiele osób
+              czuje się niepewnie przed obiektywem — to normalne! Moją rolą jest stworzyć luźną atmosferę
+              i podpowiadać naturalne pozy, dzięki którym będziesz wyglądać i czuć się świetnie.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Czy potrzebuje profesjonalnego makijazu na sesje?</h3>
+            <h3 class="text-xl font-medium mb-3">Czy potrzebuję profesjonalnego makijażu na sesję?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Profesjonalny makijaz nie jest wymagany, ale moze znaczaco podniesc efekt koncowy zdjec.
-              Wspolpracuje z utalentowanymi wizazystkami we Wroclawiu, ktore moge polecic. Moga wykonac
-              delikatny makijaz naturalny lub bardziej wyrazisty look - w zaleznosci od charakteru sesji.
+              Profesjonalny makijaż nie jest wymagany, ale może znacząco podnieść efekt końcowy zdjęć.
+              Współpracuję z utalentowanymi wizażystkami we Wrocławiu, które mogę polecić. Mogą wykonać
+              delikatny makijaż naturalny lub bardziej wyrazisty look — w zależności od charakteru sesji.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Jak dlugo trwa sesja portretowa?</h3>
+            <h3 class="text-xl font-medium mb-3">Jak długo trwa sesja portretowa?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Standardowa sesja portretowa we Wroclawiu trwa 1-2 godziny. Sesje kobiece z kilkoma stylizacjami
-              moga trwac 2-3 godziny. Czas sesji dostosowuje do Twoich potrzeb - wazne, zebys nie czula
-              sie pospieszana i mogla w pelni cieszyc sie doswiadczeniem.
+              Standardowa sesja portretowa we Wrocławiu trwa 1–2 godziny. Sesje kobiece z kilkoma stylizacjami
+              mogą trwać 2–3 godziny. Czas sesji dostosowuję do Twoich potrzeb — ważne, żebyś nie czuła
+              się pospieszana i mogła w pełni cieszyć się doświadczeniem.
             </p>
           </div>
 
           <div class="bg-accent p-6 rounded-lg">
-            <h3 class="text-xl font-medium mb-3">Kiedy otrzymam gotowe zdjecia z sesji portretowej?</h3>
+            <h3 class="text-xl font-medium mb-3">Kiedy otrzymam gotowe zdjęcia z sesji portretowej?</h3>
             <p class="text-gray-600 leading-relaxed">
-              Gotowe zdjecia z sesji portretowej otrzymasz w ciagu 7-14 dni od sesji. Kazde zdjecie jest
-              starannie obrobione z zachowaniem naturalnego wygladu. Zdjecia dostarczam w prywatnej galerii
-              online z mozliwoscia pobrania w wysokiej rozdzielczosci.
+              Gotowe zdjęcia z sesji portretowej otrzymasz w ciągu 7–14 dni od sesji. Każde zdjęcie jest
+              starannie obrobione z zachowaniem naturalnego wyglądu. Zdjęcia dostarczam w prywatnej galerii
+              online z możliwością pobrania w wysokiej rozdzielczości.
             </p>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Related Services -->
+    <section class="py-16 bg-accent">
+      <div class="container mx-auto px-4">
+        <div class="text-center mb-10">
+          <h2 class="font-cormorant text-3xl mb-4">Inne usługi fotograficzne</h2>
+        </div>
+        <div class="flex flex-wrap justify-center gap-4">
+          <NuxtLink to="/sesja-kobieca-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Sesja Kobieca</NuxtLink>
+          <NuxtLink to="/sesja-slubna-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Sesja Ślubna</NuxtLink>
+          <NuxtLink to="/sesja-biznesowa-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Sesja Biznesowa</NuxtLink>
+          <NuxtLink to="/chrzciny-wroclaw" class="inline-block border border-secondary text-secondary px-6 py-2 text-sm uppercase tracking-wider transition duration-300 hover:bg-secondary hover:text-white">Chrzciny</NuxtLink>
         </div>
       </div>
     </section>
@@ -305,7 +320,6 @@
 useSeoMeta({
   title: 'Fotograf Portretowy Wrocław - Anna Migaj | Sesje Kobiece Wrocław',
   description: 'Fotograf portretowy Wrocław - Anna Migaj. Profesjonalne sesje portretowe, kobiece i biznesowe. Naturalne zdjęcia oddające Twoją osobowość. Umów sesję!',
-  keywords: 'fotograf portretowy Wrocław, sesja portretowa Wrocław, sesja kobieca Wrocław, zdjęcia portretowe, Anna Migaj portrait, fotografia portretowa',
   robots: 'index, follow',
   ogTitle: 'Fotograf Portretowy Wrocław - Anna Migaj | Sesje Kobiece',
   ogDescription: 'Fotograf portretowy Wrocław - Anna Migaj. Profesjonalne sesje portretowe, kobiece i biznesowe. Naturalne zdjęcia oddające Twoją osobowość.',
@@ -348,26 +362,26 @@ useHead({
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Ile kosztuje sesja portretowa we Wroclawiu?",
+            "name": "Ile kosztuje sesja portretowa we Wrocławiu?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Ceny sesji portretowych we Wroclawiu zaczynaja sie od 500 zl za podstawowa sesje (1 godzina, 10 zdjec). Sesje kobiece i stylizowane to koszt od 700 zl. Dokladna wycena zalezy od dlugosci sesji i lokalizacji."
+              "text": "Ceny sesji portretowych we Wrocławiu zaczynają się od 500 zł za podstawową sesję (1 godzina, 10 zdjęć). Sesje kobiece i stylizowane to koszt od 700 zł. Dokładna wycena zależy od długości sesji i lokalizacji."
             }
           },
           {
             "@type": "Question",
-            "name": "Jak przygotowac sie do sesji kobiecej?",
+            "name": "Jak przygotować się do sesji kobiecej?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Rekomenduje dobre wyspanie sie i nawodnienie. Przygotuj 2-3 zestawy ubran. Oferuje bezplatna konsultacje przed sesja, podczas ktorej omowimy stylizacje, makijaz i oczekiwania."
+              "text": "Rekomenduje dobre wyspanie się i nawodnienie. Przygotuj 2–3 zestawy ubrań. Oferuję bezpłatną konsultację przed sesją, podczas której omówimy stylizację, makijaż i oczekiwania."
             }
           },
           {
             "@type": "Question",
-            "name": "Gdzie odbywaja sie sesje portretowe we Wroclawiu?",
+            "name": "Gdzie odbywają się sesje portretowe we Wrocławiu?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Sesje portretowe realizuje w profesjonalnym studio we Wroclawiu, w plenerze (parki, stare miasto, nad Odra) lub w wybranej przez Ciebie lokalizacji."
+              "text": "Sesje portretowe realizuję w profesjonalnym studio we Wrocławiu, w plenerze (parki, stare miasto, nad Odrą) lub w wybranej przez Ciebie lokalizacji."
             }
           },
           {
@@ -375,31 +389,31 @@ useHead({
             "name": "Czy pomagasz w pozowaniu podczas sesji?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Tak, przez cala sesje prowadze Cie przez pozowanie krok po kroku. Tworze luzna atmosfere i podpowiadam naturalne pozy, dzieki ktorym bedziesz wygladac i czuc sie swietnie."
+              "text": "Tak, przez całą sesję prowadzę Cię przez pozowanie krok po kroku. Tworzę luźną atmosferę i podpowiadam naturalne pozy, dzięki którym będziesz wyglądać i czuć się świetnie."
             }
           },
           {
             "@type": "Question",
-            "name": "Czy potrzebuje profesjonalnego makijazu na sesje?",
+            "name": "Czy potrzebuję profesjonalnego makijażu na sesję?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Profesjonalny makijaz nie jest wymagany, ale moze podniesc efekt zdjec. Wspolpracuje z wizazystkami we Wroclawiu, ktore moge polecic do makijazu naturalnego lub wyrazistego."
+              "text": "Profesjonalny makijaż nie jest wymagany, ale może podnieść efekt zdjęć. Współpracuję z wizażystkami we Wrocławiu, które mogę polecić do makijażu naturalnego lub wyrazistego."
             }
           },
           {
             "@type": "Question",
-            "name": "Jak dlugo trwa sesja portretowa?",
+            "name": "Jak długo trwa sesja portretowa?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Standardowa sesja portretowa trwa 1-2 godziny. Sesje kobiece z kilkoma stylizacjami moga trwac 2-3 godziny. Czas dostosowuje do Twoich potrzeb."
+              "text": "Standardowa sesja portretowa trwa 1–2 godziny. Sesje kobiece z kilkoma stylizacjami mogą trwać 2–3 godziny. Czas dostosowuję do Twoich potrzeb."
             }
           },
           {
             "@type": "Question",
-            "name": "Kiedy otrzymam gotowe zdjecia z sesji portretowej?",
+            "name": "Kiedy otrzymam gotowe zdjęcia z sesji portretowej?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Gotowe zdjecia otrzymasz w ciagu 7-14 dni. Kazde zdjecie jest starannie obrobione. Zdjecia dostarczam w prywatnej galerii online z mozliwoscia pobrania."
+              "text": "Gotowe zdjęcia otrzymasz w ciągu 7–14 dni. Każde zdjęcie jest starannie obrobione. Zdjęcia dostarczam w prywatnej galerii online z możliwością pobrania."
             }
           }
         ]
