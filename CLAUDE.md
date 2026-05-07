@@ -11,7 +11,8 @@
 **Meta tag practices:**
 - `titleTemplate` must be a function: `(title) => title ? title : 'fallback'` — static strings append to all pages and create 90+ char titles (truncated in SERPs)
 - Remove `keywords` meta from all pages — ignored by Google since 2009, signals amateur SEO
-- Title length ≤60 chars, description ≤160 chars (SERPs truncate)
+- Title length ≤60 **characters**, description ≤160 chars. Measure with `echo -n "title" | wc -m` (not `wc -c` — diacritics are 2 bytes each)
+- FAQPage JSON-LD requires a visible FAQ `<section>` on the **same page** — schema without matching HTML gets penalized
 - FAQPage schema: match visible Q&A text exactly (both questions and answers)
 
 **BlogPosting schema** should include:
@@ -36,6 +37,7 @@
 
 **New service pages must be registered in:**
 - `nuxt.config.ts` `routeRules` (add `'/slug': { prerender: true }`)
+- `nuxt.config.ts` `LocalBusiness.serviceType` array (add new service type strings)
 - `components/Breadcrumbs.vue` `pageNames` map (e.g., `'chrzciny-wroclaw': 'Chrzciny Wrocław'`)
 - `components/TheHeader.vue` dropdown nav
 - `components/TheFooter.vue` nav
@@ -48,6 +50,8 @@
 - Use Cloudinary CDN (`https://res.cloudinary.com/drbgrfsbo/image/upload/...`)
 - Specify `.webp` format and include `width`/`height` props
 - Alt texts must include Polish keywords and diacritics (e.g., `"Sesja ślubna Wrocław - naturalne zdjęcia Anna Migaj"`)
+- Data arrays passed to `PortfolioGrid.vue` must include an `alt` field — the component uses `item.alt || item.title` but `title` is not keyword-optimized
+- `HeroCarousel.vue` uses `slide.alt` (not `slide.title`) as image alt — new slides must include an `alt` field with location + keyword context
 
 ## Testing & Verification
 
@@ -77,6 +81,7 @@ Check schema validity:
 
 ## Known Patterns
 
+- **Voice:** Anna is a solo photographer — always first-person singular: "moje sesje", "fotografuję", "mój blog". Never "nasze", "dzielimy się".
 - Fonts: Cormorant (headings), Montserrat/Bodoni Moda (body)
 - Tailwind CSS for styling
 - `@nuxtjs/sitemap` auto-generates from routes

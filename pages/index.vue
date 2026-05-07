@@ -41,7 +41,7 @@
     <section class="py-24 bg-accent">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Portfolio Fotografa ze Wrocławia</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Portfolio Fotografa Wrocław — Sesje Ślubne, Biznesowe, Kobiece i Eventy</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Przegląd moich najnowszych realizacji, które odzwierciedlają mój styl i podejście do fotografii.
           </p>
@@ -61,7 +61,7 @@
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Rodzaje Sesji Zdjęciowych we Wrocławiu</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Usługi Fotograficzne Wrocław — Fotografia Ślubna, Biznesowa, Kobieca, Chrzciny i Komunie</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Profesjonalna fotografia dopasowana do Twoich potrzeb i wizji.
           </p>
@@ -83,6 +83,10 @@
           <div class="text-center">
             <h3 class="text-2xl font-medium mb-4"><NuxtLink to="/chrzciny-wroclaw" class="hover:text-secondary transition-colors">Chrzciny Wrocław</NuxtLink></h3>
             <p class="text-gray-600 mb-4">Naturalna, reportażowa fotografia z chrztu Twojego dziecka</p>
+          </div>
+          <div class="text-center">
+            <h3 class="text-2xl font-medium mb-4"><NuxtLink to="/fotograf-komunie-wroclaw" class="hover:text-secondary transition-colors">Komunie Wrocław</NuxtLink></h3>
+            <p class="text-gray-600 mb-4">Piękna, reportażowa fotografia z Pierwszej Komunii Świętej</p>
           </div>
         </div>
         
@@ -111,6 +115,52 @@
       </div>
     </section>
 
+    <!-- FAQ Section -->
+    <section class="py-24">
+      <div class="container mx-auto px-4">
+        <div class="text-center mb-16">
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Często Zadawane Pytania</h2>
+          <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+            Odpowiedzi na najczęstsze pytania dotyczące fotografii we Wrocławiu.
+          </p>
+        </div>
+        <div class="max-w-4xl mx-auto space-y-6">
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Ile kosztuje fotograf we Wrocławiu?</h3>
+            <p class="text-gray-600 leading-relaxed">Ceny sesji zdjęciowych we Wrocławiu zaczynają się od 450 zł za portret biznesowy, 700 zł za sesję kobiecą i od pakietów podstawowych za fotografię ślubną. Ceny chrzcin i sesji rodzinnych wyceniam indywidualnie. Zapraszam do kontaktu po szczegółową ofertę.</p>
+          </div>
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Jakie sesje fotograficzne oferujesz we Wrocławiu?</h3>
+            <p class="text-gray-600 leading-relaxed">Oferuję: sesje ślubne Wrocław, sesje kobiece Wrocław, sesje biznesowe Wrocław, fotografia chrzcin, sesje rodzinne, fotografia portretowa oraz sesje produktowe. Działam we Wrocławiu i całym województwie dolnośląskim.</p>
+          </div>
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Czy fotografujesz chrzciny we Wrocławiu?</h3>
+            <p class="text-gray-600 leading-relaxed">Tak, fotografuję chrzciny we Wrocławiu i okolicach. Oferuję naturalny, reportażowy styl fotografii chrzcielnej — uchwycę ceremonię w kościele, radość rodziny i pierwsze chwile Twojego dziecka. Skontaktuj się po indywidualną wycenę.</p>
+          </div>
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Jak wcześnie należy zarezerwować fotografa?</h3>
+            <p class="text-gray-600 leading-relaxed">Na sesje ślubne rekomenduje rezerwację 6–12 miesięcy wcześniej, szczególnie w sezonie ślubnym (maj–wrzesień). Na sesje kobiece, biznesowe i chrzciny zazwyczaj wystarczy 2–4 tygodnie z wyprzedzeniem.</p>
+          </div>
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Gdzie działasz jako fotograf?</h3>
+            <p class="text-gray-600 leading-relaxed">Głównie działam we Wrocławiu, ale fotografuję w całym województwie dolnośląskim i całej Polsce. Dojazd do 50 km od Wrocławia jest wliczony w cenę.</p>
+          </div>
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Czy fotografujesz komunie i Pierwszą Komunię Świętą we Wrocławiu?</h3>
+            <p class="text-gray-600 leading-relaxed">Tak, fotografuję Pierwszą Komunię Świętą we Wrocławiu i okolicach. Uchwycę ceremonię w kościele, radość rodziny i chwile z przyjęcia komunijnego w naturalnym, reportażowym stylu. Zapytaj o termin i wycenę.</p>
+          </div>
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Czy fotografujesz eventy i konferencje we Wrocławiu?</h3>
+            <p class="text-gray-600 leading-relaxed">Tak, realizuję reportaże z eventów, konferencji i imprez firmowych we Wrocławiu. Dyskretna, profesjonalna dokumentacja każdego wydarzenia. Skontaktuj się po indywidualną wycenę fotografii eventowej.</p>
+          </div>
+          <div class="bg-accent p-6 rounded-lg">
+            <h3 class="text-xl font-medium mb-3">Czym różni się fotografia biznesowa od portretu LinkedIn?</h3>
+            <p class="text-gray-600 leading-relaxed">Portret LinkedIn to zazwyczaj pojedyncze zdjęcie profilowe — szybka, konkretna realizacja od 450 zł. Fotografia biznesowa Wrocław to kompleksowa sesja dla marek i przedsiębiorców: portrety, zdjęcia zespołu, reportaż z biura i content do social media — wyceniana indywidualnie.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Contact CTA -->
     <section class="py-24 bg-secondary text-primary text-center">
       <div class="container mx-auto px-4 max-w-3xl">
@@ -119,7 +169,7 @@
           Porozmawiajmy o Twoim projekcie – wspólnie stworzymy fotografie, które zachwycają i zostają w pamięci.
         </p>
         <NuxtLink to="/kontakt" class="inline-block border border-white text-white px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-white hover:text-secondary">
-          Skontaktuj się ze mną
+          Zarezerwuj sesję we Wrocławiu
         </NuxtLink>
       </div>
     </section>
@@ -146,31 +196,37 @@ useSeoMeta({
 const portfolioItems = [
   {
     title: 'Sesja ślubna Weroniki i Szymona',
+    alt: 'Sesja ślubna Wrocław — Weronika i Szymon, fotografia ślubna Anna Migaj Niebieskie Aparaty',
     category: 'SESJA ŚLUBNA',
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/sesja-slubna_oukxfe.webp'
   },
   {
     title: 'Sesja rodzinna na Dzień Mamy',
+    alt: 'Sesja rodzinna Wrocław — rodzina z dziećmi, fotograf rodzinny Anna Migaj',
     category: 'SESJA RODZINNA',
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249188/sesja-rodzinna_khokg4.webp'
   },
   {
     title: 'Sesja portretowa',
+    alt: 'Sesja portretowa Wrocław — profesjonalny portret kobiety, fotograf Anna Migaj',
     category: 'PORTRET',
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249190/sesja-portretowa_z1ibbr.webp'
   },
   {
     title: 'Sesja biznesowa dla Krzysztofa',
+    alt: 'Fotografia biznesowa Wrocław — portret LinkedIn, sesja korporacyjna Anna Migaj',
     category: 'SESJA BIZNESOWA',
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/sesja-biznesowa-meska_pijzxm.webp'
   },
   {
     title: 'Sesja kobieca na Dzień Mamy',
+    alt: 'Sesja kobieca Wrocław — naturalne zdjęcia kobiety, fotograf portretowy Anna Migaj',
     category: 'SESJA KOBIECA',
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/sesja-kobieca_hlszsa.webp'
   },
   {
     title: 'Sesja produktowa dla Nieba Przychylam',
+    alt: 'Sesja produktowa Wrocław — fotografia produktów dla marki, Anna Migaj fotograf',
     category: 'SESJA PRODUKTOWA',
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249190/sesja-produktowa_v4qv7z.webp'
   }
@@ -273,6 +329,30 @@ useHead({
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Głównie działam we Wrocławiu, ale fotografuję w całym województwie dolnośląskim i całej Polsce. Dojazd do 50 km od Wrocławia jest wliczony w cenę."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Czy fotografujesz komunie i Pierwszą Komunię Świętą we Wrocławiu?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tak, fotografuję Pierwszą Komunię Świętą we Wrocławiu i okolicach. Uchwycę ceremonię w kościele, radość rodziny i chwile z przyjęcia komunijnego w naturalnym, reportażowym stylu. Zapytaj o termin i wycenę."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Czy fotografujesz eventy i konferencje we Wrocławiu?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tak, realizuję reportaże z eventów, konferencji i imprez firmowych we Wrocławiu. Dyskretna, profesjonalna dokumentacja każdego wydarzenia. Skontaktuj się po indywidualną wycenę fotografii eventowej."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Czym różni się fotografia biznesowa od portretu LinkedIn?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Portret LinkedIn to zazwyczaj pojedyncze zdjęcie profilowe — szybka, konkretna realizacja od 450 zł. Fotografia biznesowa Wrocław to kompleksowa sesja dla marek i przedsiębiorców: portrety, zdjęcia zespołu, reportaż z biura i content do social media — wyceniana indywidualnie."
             }
           }
         ]

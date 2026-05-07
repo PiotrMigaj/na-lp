@@ -10,6 +10,53 @@
       </div>
     </section>
 
+    <!-- Social Proof -->
+    <section class="py-12 bg-accent">
+      <div class="container mx-auto px-4">
+        <div class="flex flex-col md:flex-row items-center justify-center gap-8 text-center md:text-left">
+          <div class="flex items-center gap-4">
+            <div class="w-12 h-12 bg-secondary/10 flex items-center justify-center rounded-full">
+              <Icon name="mdi:camera" class="w-6 h-6 text-secondary" />
+            </div>
+            <div>
+              <p class="font-cormorant text-2xl font-medium">300+</p>
+              <p class="text-sm text-gray-600">zadowolonych klientów</p>
+            </div>
+          </div>
+          <div class="hidden md:block w-px h-12 bg-gray-300"></div>
+          <div class="flex items-center gap-4">
+            <div class="w-12 h-12 bg-secondary/10 flex items-center justify-center rounded-full">
+              <Icon name="mdi:clock-fast" class="w-6 h-6 text-secondary" />
+            </div>
+            <div>
+              <p class="font-cormorant text-2xl font-medium">24h</p>
+              <p class="text-sm text-gray-600">czas odpowiedzi</p>
+            </div>
+          </div>
+          <div class="hidden md:block w-px h-12 bg-gray-300"></div>
+          <div class="flex items-center gap-4">
+            <div class="w-12 h-12 bg-secondary/10 flex items-center justify-center rounded-full">
+              <Icon name="mdi:star" class="w-6 h-6 text-secondary" />
+            </div>
+            <div>
+              <p class="font-cormorant text-2xl font-medium">5★</p>
+              <p class="text-sm text-gray-600">opinie klientów</p>
+            </div>
+          </div>
+        </div>
+        <div class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-4 max-w-3xl mx-auto">
+          <blockquote class="bg-white p-4 rounded-lg text-sm font-light leading-relaxed text-gray-600 italic">
+            „Współpraca z Anną to czysta przyjemność. Zdjęcia przerosły nasze oczekiwania — piękne, naturalne i dokładnie nasze."
+            <footer class="mt-2 font-medium not-italic text-gray-800">— Weronika i Szymon</footer>
+          </blockquote>
+          <blockquote class="bg-white p-4 rounded-lg text-sm font-light leading-relaxed text-gray-600 italic">
+            „Anna ma niesamowite wyczucie estetyki. Czułem się swobodnie przed obiektywem, a efekt końcowy był zachwycający."
+            <footer class="mt-2 font-medium not-italic text-gray-800">— Krzysztof</footer>
+          </blockquote>
+        </div>
+      </div>
+    </section>
+
     <!-- Formularz i dane kontaktowe -->
     <section class="py-24">
       <div class="container mx-auto px-4">

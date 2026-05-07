@@ -398,6 +398,39 @@ useSeoMeta({
   twitterDescription: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2025 w Fly Studio.',
   twitterImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385961/sesja-swiateczna-anna-migaj-1_sqiqgr.webp'
 });
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Sesje Świąteczne Wrocław",
+        "description": "Magiczne sesje świąteczne we Wrocławiu — naturalne zdjęcia z klimatem Świąt Bożego Narodzenia. Anna Migaj Niebieskie Aparaty.",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Niebieskie Aparaty - Anna Migaj",
+          "url": "https://niebieskie-aparaty.pl",
+          "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385961/sesja-swiateczna-anna-migaj-1_sqiqgr.webp"
+        },
+        "areaServed": [
+          { "@type": "City", "name": "Wrocław" },
+          { "@type": "AdministrativeArea", "name": "Województwo Dolnośląskie" }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "description": "Pakiety od 550 zł",
+            "priceCurrency": "PLN"
+          }
+        },
+        "inLanguage": "pl-PL"
+      })
+    }
+  ]
+});
 </script>
 
 <style scoped>

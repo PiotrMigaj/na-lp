@@ -1,7 +1,7 @@
 <template>
   <nav aria-label="breadcrumb" class="py-4">
     <ol itemscope itemtype="https://schema.org/BreadcrumbList" class="flex space-x-2 text-sm text-gray-600">
-      <li v-for="(breadcrumb, index) in breadcrumbs" :key="index"
+      <li v-for="(breadcrumb, index) in autoBreadcrumbs" :key="index"
           itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"
           class="flex items-center space-x-2">
         <span v-if="index > 0" class="text-gray-400">/</span>
@@ -48,6 +48,7 @@ const autoBreadcrumbs = computed(() => {
     'sesja-produktowa-wroclaw': 'Sesja Produktowa',
     'fotograf-portretowy-wroclaw': 'Fotografia Portretowa',
     'chrzciny-wroclaw': 'Chrzciny Wrocław',
+    'fotograf-komunie-wroclaw': 'Fotograf Komunie Wrocław',
     'sesja-rodzinna-wroclaw': 'Sesja Rodzinna',
     'jak-przygotowac-sie-do-sesji-zdjeciowej': 'Jak przygotować się do sesji zdjęciowej',
     'jak-wybrac-idealne-miejsce-na-sesje': 'Jak wybrać idealne miejsce na sesję',

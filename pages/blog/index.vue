@@ -3,8 +3,8 @@
     <Breadcrumbs />
     <h1 class="font-cormorant text-4xl md:text-5xl text-center mb-12">Blog Fotograficzny</h1>
     <p class="text-center text-text-light max-w-2xl mx-auto mb-16">
-      Odkryj porady, inspiracje i spostrzeżenia z naszej profesjonalnej podróży fotograficznej.
-      Od poradników przygotowawczych po kreatywne techniki — dzielimy się wiedzą, aby pomóc Ci uchwycić idealne momenty.
+      Odkryj porady, inspiracje i spostrzeżenia z mojej fotograficznej podróży.
+      Od poradników przygotowawczych po kreatywne techniki — dzielę się wiedzą, aby pomóc Ci uchwycić idealne momenty.
     </p>
     
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -81,14 +81,41 @@ const blogPosts = [
 ];
 
 useSeoMeta({
-  title: 'Blog Fotograficzny – Porady, Przewodniki i Inspiracje',
-  description: 'Przeglądaj naszego bloga fotograficznego, aby znaleźć profesjonalne porady, przewodniki przygotowawcze i twórcze inspiracje. Dowiedz się, jak przygotować się do sesji, wybrać lokalizację i pozować naturalnie.',
+  title: 'Blog Fotograficzny Wrocław — Anna Migaj | Porady',
+  description: 'Blog fotograficzny Anny Migaj — fotograf Wrocław. Porady jak przygotować się do sesji, wybrać lokalizację i pozować naturalnie. Inspiracje i przewodniki.',
   robots: 'index, follow',
-  ogTitle: 'Blog Fotograficzny – Porady, Przewodniki i Inspiracje',
-  ogDescription: 'Przeglądaj naszego bloga fotograficznego, aby znaleźć profesjonalne porady, przewodniki przygotowawcze i twórcze inspiracje.',
+  ogTitle: 'Blog Fotograficzny Wrocław — Anna Migaj | Porady',
+  ogDescription: 'Blog fotograficzny Anny Migaj — fotograf Wrocław. Porady jak przygotować się do sesji, wybrać lokalizację i pozować naturalnie.',
   ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249618/blog-preparation-1_dgl2mi.webp',
   ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image',
+});
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "Blog Fotograficzny — Anna Migaj Niebieskie Aparaty",
+        "description": "Blog fotograficzny Anny Migaj — porady, inspiracje i przewodniki dla osób przygotowujących się do sesji zdjęciowej we Wrocławiu.",
+        "url": "https://niebieskie-aparaty.pl/blog",
+        "inLanguage": "pl-PL",
+        "author": {
+          "@type": "Person",
+          "name": "Anna Migaj",
+          "url": "https://niebieskie-aparaty.pl/o-mnie",
+          "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp"
+        },
+        "publisher": {
+          "@type": "LocalBusiness",
+          "name": "Niebieskie Aparaty - Anna Migaj",
+          "url": "https://niebieskie-aparaty.pl"
+        }
+      })
+    }
+  ]
 });
 </script>
 

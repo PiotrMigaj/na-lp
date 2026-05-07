@@ -90,8 +90,51 @@ useSeoMeta({
   robots: 'index, follow',
   ogTitle: 'O mnie - Anna Migaj Fotograf Wrocław | Niebieskie Aparaty',
   ogDescription: 'Anna Migaj - doświadczony fotograf ze Wrocławia. Z wykształcenia architektka, z pasji fotografka. Poznaj moją historię i styl fotograficzny.',
-  ogImage: 'https://niebieskie-aparaty.pl/images/anna-migaj-fotograf.webp',
+  ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp',
   ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image'
+});
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "ProfilePage",
+        "mainEntity": {
+          "@type": "Person",
+          "name": "Anna Migaj",
+          "jobTitle": "Fotograf",
+          "description": "Profesjonalny fotograf ze Wrocławia specjalizujący się w fotografii ślubnej, kobiecej, biznesowej i rodzinnej. Z wykształcenia architektka — łączy estetykę z uważnością i autentycznymi emocjami.",
+          "url": "https://niebieskie-aparaty.pl/o-mnie",
+          "image": "https://res.cloudinary.com/drbgrfsbo/image/upload/v1750249189/anna-migaj-fotograf_rncd8m.webp",
+          "worksFor": {
+            "@type": "LocalBusiness",
+            "name": "Niebieskie Aparaty",
+            "url": "https://niebieskie-aparaty.pl"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Wrocław",
+            "addressCountry": "PL"
+          },
+          "sameAs": [
+            "https://www.instagram.com/niebieskie_aparaty",
+            "https://www.facebook.com/profile.php?id=100001562507926"
+          ],
+          "knowsAbout": [
+            "Fotografia ślubna",
+            "Fotografia kobieca",
+            "Fotografia biznesowa",
+            "Fotografia rodzinna",
+            "Fotografia chrzcin",
+            "Fotografia komunijna"
+          ],
+          "inLanguage": "pl-PL"
+        }
+      })
+    }
+  ]
 });
 </script>

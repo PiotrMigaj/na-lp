@@ -20,13 +20,13 @@
       <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 class="font-cormorant text-4xl mb-6">Sesje Biznesowe Wrocław</h2>
+            <h2 class="font-cormorant text-4xl mb-6">Fotografia Biznesowa Wrocław — Sesje dla Marek i Liderów</h2>
             <h3 class="text-xl font-medium mb-4">Profesjonalne Zdjęcia do Biznesu</h3>
             <p class="mb-6 font-light leading-relaxed">
-              Jako profesjonalny fotograf biznesowy Wrocław specjalizuję się w sesjach biznesowych, tworząc profesjonalne zdjęcia, które budują Twój wizerunek w branży. Moje zdjęcia biznesowe łączą profesjonalizm z naturalnością.
+              Jako profesjonalny fotograf biznesowy Wrocław specjalizuję się w fotografii biznesowej, tworząc zdjęcia, które budują Twój wizerunek w branży. Moja fotografia biznesowa Wrocław łączy profesjonalizm z naturalnością — portret, który pracuje dla Ciebie.
             </p>
             <p class="mb-6 font-light leading-relaxed">
-              Pracuję z przedsiębiorcami, korporacjami i freelancerami, tworząc zdjęcia do LinkedIn, stron internetowych, materiałów marketingowych i kampanii reklamowych.
+              Pracuję z przedsiębiorcami, korporacjami i freelancerami — tworzę zdjęcia do LinkedIn, stron internetowych, materiałów marketingowych i kampanii reklamowych. Fotografuję również eventy i konferencje firmowe we Wrocławiu.
             </p>
             <NuxtLink to="/kontakt" class="inline-block bg-secondary text-primary px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-opacity-80 mt-4">
               Umów sesję biznesową
@@ -97,9 +97,9 @@
     <section class="py-24">
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Portfolio Biznesowe</h2>
+          <h2 class="font-cormorant text-4xl md:text-5xl mb-6">Portfolio Fotografii Biznesowej Wrocław</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-            Zobacz przykłady moich realizacji dla klientów biznesowych we Wrocławiu.
+            Zobacz przykłady mojej fotografii biznesowej dla klientów korporacyjnych we Wrocławiu.
           </p>
         </div>
 
@@ -317,11 +317,11 @@
 
 <script setup>
 useSeoMeta({
-  title: 'Sesja Biznesowa Wrocław - Anna Migaj | Zdjęcia Korporacyjne',
-  description: 'Profesjonalne sesje biznesowe Wrocław. Anna Migaj - fotograf korporacyjny. Zdjęcia do LinkedIn, CV, stron internetowych. Buduj profesjonalny wizerunek!',
+  title: 'Fotografia Biznesowa Wrocław — Anna Migaj | Sesje',
+  description: 'Fotografia biznesowa Wrocław — Anna Migaj. Sesje korporacyjne, portrety LinkedIn, eventy firmowe. Buduj profesjonalny wizerunek. Sprawdź ofertę!',
   robots: 'index, follow',
-  ogTitle: 'Sesja Biznesowa Wrocław - Anna Migaj | Zdjęcia Korporacyjne',
-  ogDescription: 'Profesjonalne sesje biznesowe Wrocław. Anna Migaj - fotograf korporacyjny. Zdjęcia do LinkedIn, CV, stron internetowych.',
+  ogTitle: 'Fotografia Biznesowa Wrocław — Anna Migaj | Sesje',
+  ogDescription: 'Fotografia biznesowa Wrocław — Anna Migaj. Sesje korporacyjne, portrety LinkedIn, eventy firmowe.',
   ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750250522/biznesowe-1_fknqui.webp',
   ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image'

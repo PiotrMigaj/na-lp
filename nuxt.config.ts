@@ -109,7 +109,9 @@ app: {
             "Sesje chrzcielne",
             "Sesje rodzinne",
             "Sesja kobieca",
-            "Sesja biznesowa"
+            "Sesja biznesowa",
+            "Fotografia komunijna",
+            "Sesje komunijne"
           ],
           "priceRange": "$$",
           "knowsLanguage": "pl",
@@ -139,7 +141,7 @@ app: {
   },
   
   image: {
-    format: ['webp'],
+    format: ['avif', 'webp'],
     quality: 80,
     screens: {
       'xs': 320,
@@ -168,7 +170,8 @@ app: {
     '/fotograf-portretowy-wroclaw': { prerender: true },
     '/sesja-biznesowa-wroclaw': { prerender: true },
     '/sesja-kobieca-wroclaw': { prerender: true },
-    '/sesja-produktowa-wroclaw': { prerender: true }
+    '/sesja-produktowa-wroclaw': { prerender: true },
+    '/fotograf-komunie-wroclaw': { prerender: true }
   },
   
   typescript: {

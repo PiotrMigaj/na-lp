@@ -59,7 +59,7 @@
         :disabled="isSubmitting"
       >
         <span v-if="isSubmitting">Wysyłanie...</span>
-        <span v-else>Wyślij wiadomość</span>
+        <span v-else>Wyślij zapytanie</span>
       </button>
     </div>
     

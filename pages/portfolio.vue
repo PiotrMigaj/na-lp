@@ -40,7 +40,7 @@
         </p>
         <NuxtLink to="/kontakt"
           class="inline-block border border-white text-white px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-white hover:text-secondary">
-          Skontaktuj się
+          Porozmawiajmy o Twoim projekcie
         </NuxtLink>
       </div>
     </section>

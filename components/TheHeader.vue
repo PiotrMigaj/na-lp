@@ -153,6 +153,7 @@ const navItems = [
       { label: 'Sesje Produktowe', path: '/sesja-produktowa-wroclaw' },
       { label: 'Fotografia Portretowa', path: '/fotograf-portretowy-wroclaw' },
       { label: 'Chrzciny', path: '/chrzciny-wroclaw' },
+      { label: 'Komunie', path: '/fotograf-komunie-wroclaw' },
       { label: 'Sesje Rodzinne', path: '/sesja-rodzinna-wroclaw' },
       { label: 'Sesje Świąteczne', path: '/sesje-swiateczne' },
     ]

@@ -20,9 +20,9 @@
         <div v-for="(slide, index) in slides" :key="index"
           class="carousel-slide w-full h-full flex-shrink-0 bg-center bg-cover relative">
           <div class="absolute inset-0">
-            <NuxtImg 
-              :src="slide.image" 
-              :alt="slide.title" 
+            <NuxtImg
+              :src="slide.image"
+              :alt="slide.alt"
               class="w-full h-full object-cover transition-opacity duration-700"
               :class="{ 
                 'opacity-0': !imageLoaded[index], 
@@ -103,30 +103,34 @@ const loadedCount = ref(0);
 const slides = [
   {
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750240182/sesja-fashion-marta_e7r1mn.webp',
-    title: 'Uchwycić Piękno w Każdym Kadrze',
-    description: 'Specjalizuję się w fotografii mody najwyższej jakości, tworząc opowieści i podkreślając Twoją unikalną wizję.',
-    buttonText: 'Zobacz portfolio',
+    alt: 'Fotograf Wrocław Anna Migaj — sesja portretowa kobiety w naturalnym świetle',
+    title: 'Profesjonalny Fotograf Wrocław',
+    description: 'Anna Migaj — sesje kobiece, ślubne, biznesowe i chrzciny. Naturalna fotografia pełna emocji.',
+    buttonText: 'Zobacz moje portfolio',
     buttonLink: '/portfolio'
   },
   {
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750240194/sesja-zmyslowa_wjbi8h.webp',
-    title: 'Kierunek Artystyczny i Stylizacja',
-    description: 'Od koncepcji po realizację – ożywiam modowe historie z dbałością o każdy detal.',
-    buttonText: 'Nasze usługi',
+    alt: 'Sesja kobieca Wrocław — Anna Migaj fotograf, naturalne portrety kobiet',
+    title: 'Sesje Kobiece i Biznesowe Wrocław',
+    description: 'Fotografuję z uważnością i szacunkiem — tworzę kadry, w których jesteś sobą.',
+    buttonText: 'Moje usługi fotograficzne',
     buttonLink: '/portfolio'
   },
   {
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750240205/sesja-plenerowa_wjdgoo.webp',
-    title: 'Doskonale Edytoriale',
-    description: 'Tworzę klimatyczne i estetyczne sesje zdjęciowe inspirowane modą i sztuką.',
+    alt: 'Sesja plenerowa Wrocław — Anna Migaj fotografia artystyczna i edytorialna',
+    title: 'Doskonałe Edytoriale',
+    description: 'Tworzę klimatyczne sesje zdjęciowe inspirowane modą i sztuką — każdy kadr to opowieść.',
     buttonText: 'O mnie',
     buttonLink: '/o-mnie'
   },
   {
     image: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1750240221/sesja-zmyslowa-madzia_itabli.webp',
+    alt: 'Fotograf Wrocław Anna Migaj Niebieskie Aparaty — umów sesję zdjęciową',
     title: 'Stwórzmy Coś Razem',
-    description: 'Masz pomysł na projekt? Z przyjemnością pomogę zrealizować Twoją wizję.',
-    buttonText: 'Skontaktuj się',
+    description: 'Masz pomysł na sesję we Wrocławiu? Chętnie go zrealizuję — napisz i zarezerwuj termin.',
+    buttonText: 'Zarezerwuj termin',
     buttonLink: '/kontakt'
   }
 ];
