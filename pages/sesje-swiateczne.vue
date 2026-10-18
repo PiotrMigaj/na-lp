@@ -20,7 +20,7 @@
           </h1>
           <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-8 shadow-xl">
             <p class="text-lg md:text-xl text-gray-700 leading-relaxed mb-6">
-              <strong>Świąteczna Sesja Zdjęciowa we Wrocławiu – 14 grudnia 2025, Fly Studio</strong>
+              <strong>Świąteczna Sesja Zdjęciowa we Wrocławiu – 12 grudnia 2026, Fly Studio</strong>
             </p>
             <p class="text-base md:text-lg text-gray-600 leading-relaxed mb-6">
               Zapraszam Cię na moją ulubioną sesję w roku — pełną śmiechu i zapachu pierników! ✨
@@ -43,7 +43,7 @@
             W 45 minut uchwycimy świąteczne chwile pełne ciepła, naturalności i radości.<br><br>
             Nie musisz pozować jak model — wystarczy, że przyjdziesz z otwartością i uśmiechem (resztą zajmę się ja).<br><br>
             Wyjdziesz nie tylko z pięknymi zdjęciami, ale też z lekkością w sercu i świątecznym nastrojem. ❤️<br><br>
-            Do zobaczenia 14 grudnia we Fly Studio — sala czeka, a ja już nie mogę się doczekać naszego spotkania!
+            Do zobaczenia 12 grudnia we Fly Studio — sala czeka, a ja już nie mogę się doczekać naszego spotkania!
           </p>
         </div>
 
@@ -140,7 +140,7 @@
         <div class="text-center mb-16">
           <h2 class="font-bodoni-moda text-4xl md:text-5xl mb-6">Świąteczne Wspomnienia</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-            Zobacz, jak wyglądają nasze świąteczne sesje i zainspiruj się do stworzenia własnych magicznych wspomnień.
+            Zobacz, jak wyglądają moje świąteczne sesje i zainspiruj się do stworzenia własnych magicznych wspomnień.
           </p>
         </div>
 
@@ -386,16 +386,16 @@
 
 <script setup>
 useSeoMeta({
-  title: 'Sesje Świąteczne Wrocław 2025 - Anna Migaj Fotograf | Rezerwuj',
-  description: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2025 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości. Pakiety od 550 zł. Zarezerwuj miejsce!',
+  title: 'Sesje Świąteczne Wrocław 2026 - Anna Migaj Fotograf',
+  description: 'Magiczne sesje świąteczne we Wrocławiu! 12 grudnia 2026 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości. Pakiety od 550 zł. Zarezerwuj miejsce!',
   robots: 'index, follow',
-  ogTitle: 'Sesje Świąteczne Wrocław 2025 - Anna Migaj Fotograf',
-  ogDescription: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2025 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości.',
+  ogTitle: 'Sesje Świąteczne Wrocław 2026 - Anna Migaj Fotograf',
+  ogDescription: 'Magiczne sesje świąteczne we Wrocławiu! 12 grudnia 2026 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości.',
   ogImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385961/sesja-swiateczna-anna-migaj-1_sqiqgr.webp',
   ogLocale: 'pl_PL',
   twitterCard: 'summary_large_image',
-  twitterTitle: 'Sesje Świąteczne Wrocław 2025 - Anna Migaj Fotograf',
-  twitterDescription: 'Magiczne sesje świąteczne we Wrocławiu! 14 grudnia 2025 w Fly Studio.',
+  twitterTitle: 'Sesje Świąteczne Wrocław 2026 - Anna Migaj Fotograf',
+  twitterDescription: 'Magiczne sesje świąteczne we Wrocławiu! 12 grudnia 2026 w Fly Studio.',
   twitterImage: 'https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385961/sesja-swiateczna-anna-migaj-1_sqiqgr.webp'
 });
 

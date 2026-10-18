@@ -48,7 +48,7 @@
 
 <script setup>
 const navItems = [
-  { label: 'Strona główna', path: '/' },
+  { label: 'Strona główna', path: '/home' },
   { label: 'O mnie', path: '/o-mnie' },
   { label: 'Portfolio', path: '/portfolio' },
   { label: 'Sesje Ślubne', path: '/sesja-slubna-wroclaw' },

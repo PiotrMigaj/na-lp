@@ -15,6 +15,10 @@ export default defineNuxtConfig({
   site: {
     url: 'https://niebieskie-aparaty.pl',
   },
+
+  sitemap: {
+    exclude: ['/'],
+  },
   
 app: {
   htmlAttrs: {
@@ -155,7 +159,10 @@ app: {
   
   ssr: true,
   routeRules: {
-    '/': { prerender: true },
+    // Christmas season: / temporarily redirects to /sesje-swiateczne; homepage lives at /home.
+    // To revert: restore '/': { prerender: true }, rename pages/home.vue back to index.vue, point '/home' links back to '/'.
+    '/': { redirect: { to: '/sesje-swiateczne', statusCode: 302 } },
+    '/home': { prerender: true },
     '/sesje-swiateczne': { prerender: true },
     '/o-mnie': { prerender: true },
     '/portfolio': { prerender: true },

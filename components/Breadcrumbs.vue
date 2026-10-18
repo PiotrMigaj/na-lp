@@ -37,6 +37,7 @@ const autoBreadcrumbs = computed(() => {
 
   // Mapowanie nazw stron
   const pageNames = {
+    'home': 'Strona główna',
     'o-mnie': 'O mnie',
     'kontakt': 'Kontakt',
     'portfolio': 'Portfolio',
@@ -58,7 +59,7 @@ const autoBreadcrumbs = computed(() => {
   // Start with home
   breadcrumbs.push({
     name: 'Strona główna',
-    to: '/'
+    to: '/home'
   });
 
   let currentPath = '';

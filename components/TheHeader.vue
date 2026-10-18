@@ -3,7 +3,7 @@
     <nav class="bg-white/95 shadow-sm backdrop-blur-sm py-4" aria-label="Nawigacja główna">
       <div class="container mx-auto px-4">
         <div class="flex justify-between items-center">
-          <NuxtLink to="/" class="font-cormorant text-3xl tracking-wider">
+          <NuxtLink to="/home" class="font-cormorant text-3xl tracking-wider">
             NIEBIESKIE APARATY
           </NuxtLink>
           
@@ -139,7 +139,7 @@ onMounted(() => {
 
 // Navigation items
 const navItems = [
-  { label: 'Strona główna', path: '/' },
+  { label: 'Strona główna', path: '/home' },
   { label: 'O Mnie', path: '/o-mnie' },
   {
     label: 'Portfolio',

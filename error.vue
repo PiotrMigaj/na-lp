@@ -7,7 +7,7 @@
         <p class="mb-8 text-text-light">
           Strona, której szukasz, nie istnieje lub została przeniesiona.
         </p>
-        <NuxtLink to="/"
+        <NuxtLink to="/home"
           class="inline-block bg-secondary text-primary px-8 py-3 uppercase tracking-wider text-sm transition duration-300 hover:bg-opacity-80">
           Powrót do strony głównej
         </NuxtLink>
