@@ -51,6 +51,7 @@ const navItems = [
   { label: 'Strona główna', path: '/home' },
   { label: 'O mnie', path: '/o-mnie' },
   { label: 'Portfolio', path: '/portfolio' },
+  { label: 'Sesje świąteczne', path: '/sesje-swiateczne' },
   { label: 'Sesje Ślubne', path: '/sesja-slubna-wroclaw' },
   { label: 'Sesje Biznesowe', path: '/sesja-biznesowa-wroclaw' },
   { label: 'Sesje Kobiece', path: '/sesja-kobieca-wroclaw' },
