@@ -41,7 +41,7 @@
 - `components/Breadcrumbs.vue` `pageNames` map (e.g., `'chrzciny-wroclaw': 'Chrzciny Wrocław'`)
 - `components/TheHeader.vue` dropdown nav
 - `components/TheFooter.vue` nav
-- Homepage `/pages/index.vue` services section or grid
+- Homepage (`pages/home.vue` in season / `pages/index.vue` otherwise) services section or grid
 
 **Internal linking strategy:** Service pages should link to related services and blog articles at the bottom. Blog articles should link to relevant service pages in a "Powiązane usługi" section.
 
@@ -65,13 +65,22 @@ Check schema validity:
 - Paste HTML into https://validator.schema.org/
 - FAQPage, BlogPosting, Service, LocalBusiness, BreadcrumbList should validate with zero errors
 - Text in schema must match page text exactly
+- Build: `npm run build`. If `nuxt: command not found` or esbuild fails with `EACCES`, `node_modules` is broken → run `npm ci`
+- Check the built site: `PORT=3999 node .output/server/index.mjs`, then `curl -sI localhost:3999/` (redirects) and `curl -s localhost:3999/sitemap.xml`
+
+## Seasonal Christmas Mode
+
+- **On (current state):** `routeRules['/']` 302-redirects to `/sesje-swiateczne`; homepage is at `pages/home.vue` (`/home`); header logo, "Strona główna" (header + footer), the root crumb in `Breadcrumbs.vue` and the button in `error.vue` link to `/home`; `sitemap.exclude: ['/']`.
+- **Off:** `'/': { prerender: true }`, rename `home.vue` → `index.vue`, point the `/home` links back to `/`, remove `/home` from routeRules and the sitemap exclude.
+- **Yearly refresh of `sesje-swiateczne.vue`:** date in the hero, "Do zobaczenia X grudnia", year in title/og/twitter meta, prices on the package cards **and** "Pakiety od X zł" in both the meta description and the Service JSON-LD. Booking links go to external mafelo packets, and prices there are changed outside this repo.
 
 ## Key Files
 
 | File | Purpose |
 |------|---------|
 | `nuxt.config.ts` | Global SEO config, LocalBusiness schema, routeRules |
-| `pages/index.vue` | Homepage — primary keyword target "fotograf wrocław" |
+| `pages/home.vue` | Homepage (lives at `/home` during the Christmas season, otherwise `pages/index.vue`) — keyword "fotograf wrocław" |
+| `pages/sesje-swiateczne.vue` | Seasonal Christmas offer page |
 | `pages/o-mnie.vue` | Bio page — Person + E-E-A-T signals |
 | `components/TheHeader.vue` | Nav links — add new service pages here |
 | `components/TheFooter.vue` | Footer nav — add new service pages here |

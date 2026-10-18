@@ -52,7 +52,7 @@
           <div class="bg-white border border-gray-200 rounded-lg p-8 shadow-lg hover:shadow-xl transition-shadow duration-300 flex flex-col h-full">
             <div class="text-center mb-6">
               <h3 class="font-bodoni-moda text-2xl mb-4">Pakiet Lifestyle</h3>
-              <div class="text-3xl font-bold text-secondary mb-2">550 PLN</div>
+              <div class="text-3xl font-bold text-secondary mb-2">590 PLN</div>
             </div>
             <ul class="space-y-3 mb-8 flex-grow">
               <li class="flex items-start">
@@ -93,7 +93,7 @@
             </div>
             <div class="text-center mb-6">
               <h3 class="font-bodoni-moda text-2xl mb-4">Pakiet Premium</h3>
-              <div class="text-3xl font-bold text-secondary mb-2">650 PLN</div>
+              <div class="text-3xl font-bold text-secondary mb-2">690 PLN</div>
             </div>
             <ul class="space-y-3 mb-8 flex-grow">
               <li class="flex items-start">
@@ -387,7 +387,7 @@
 <script setup>
 useSeoMeta({
   title: 'Sesje Świąteczne Wrocław 2026 - Anna Migaj Fotograf',
-  description: 'Magiczne sesje świąteczne we Wrocławiu! 12 grudnia 2026 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości. Pakiety od 550 zł. Zarezerwuj miejsce!',
+  description: 'Magiczne sesje świąteczne we Wrocławiu! 12 grudnia 2026 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości. Pakiety od 590 zł. Zarezerwuj miejsce!',
   robots: 'index, follow',
   ogTitle: 'Sesje Świąteczne Wrocław 2026 - Anna Migaj Fotograf',
   ogDescription: 'Magiczne sesje świąteczne we Wrocławiu! 12 grudnia 2026 w Fly Studio. Naturalne zdjęcia pełne ciepła i radości.',
@@ -422,7 +422,7 @@ useHead({
           "@type": "Offer",
           "priceSpecification": {
             "@type": "PriceSpecification",
-            "description": "Pakiety od 550 zł",
+            "description": "Pakiety od 590 zł",
             "priceCurrency": "PLN"
           }
         },
