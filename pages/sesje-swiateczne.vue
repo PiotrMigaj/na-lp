@@ -158,94 +158,6 @@
           </div>
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385962/sesja-swiateczna-anna-migaj-2_ogalhf.webp"
-              alt="Sesja świąteczna Wrocław - naturalne zdjęcia rodzinne Anna Migaj 2"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="600"
-              height="800"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385962/sesja-swiateczna-anna-migaj-3_tdw4nv.webp"
-              alt="Sesja świąteczna Wrocław - naturalne zdjęcia rodzinne Anna Migaj 3"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="600"
-              height="800"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385962/sesja-swiateczna-anna-migaj-4_qclg8n.webp"
-              alt="Sesja świąteczna Wrocław - naturalne zdjęcia rodzinne Anna Migaj 4"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="600"
-              height="800"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-5_x4byuf.webp"
-              alt="Sesja świąteczna Wrocław - naturalne zdjęcia rodzinne Anna Migaj 5"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="600"
-              height="800"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385962/sesja-swiateczna-anna-migaj-6_rl8wvn.webp"
-              alt="Sesja świąteczna Wrocław - para z dzieckiem - fotograf Anna Migaj"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="600"
-              height="800"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385962/sesja-swiateczna-anna-migaj-7_dgxca1.webp"
-              alt="Zdjęcia świąteczne rodzinne Wrocław - naturalne portrety Anna Migaj"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="600"
-              height="800"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-8_u0tzng.webp"
-              alt="Świąteczna sesja fotograficzna Wrocław - radosne chwile Anna Migaj"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="600"
-              height="800"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
-              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-9_sm10dp.webp"
-              alt="Sesja świąteczna dzieci Wrocław - profesjonalne zdjęcia Anna Migaj"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-              width="600"
-              height="800"
-              format="webp"
-            />
-          </div>
-          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
-            <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385964/sesja-swiateczna-anna-migaj-10_lvuqvk.webp"
               alt="Fotografia świąteczna rodzinna Wrocław - emocjonalne kadry Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
@@ -368,6 +280,61 @@
           <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
             <NuxtImg 
               src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1760385970/sesja-swiateczna-anna-migaj-21_amws3k.webp"
+              alt="Zdjęcia świąteczne rodzinne Wrocław - radosna atmosfera Anna Migaj"
+              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+              loading="lazy"
+              width="600"
+              height="800"
+              format="webp"
+            />
+          </div>
+          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
+            <NuxtImg 
+              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1792757692/43fd6c07ce01e9a66955b4b6939875639aa8bed0_mgfnlk.jpg"
+              alt="Zdjęcia świąteczne rodzinne Wrocław - radosna atmosfera Anna Migaj"
+              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+              loading="lazy"
+              width="600"
+              height="800"
+              format="webp"
+            />
+          </div>
+          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
+            <NuxtImg 
+              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1792757692/e5ca18f0eecbbf85d7640b63b27483da9c5aed33_waahxt.jpg"
+              alt="Zdjęcia świąteczne rodzinne Wrocław - radosna atmosfera Anna Migaj"
+              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+              loading="lazy"
+              width="600"
+              height="800"
+              format="webp"
+            />
+          </div>
+          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
+            <NuxtImg 
+              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1792757692/4e37a00efafbcb238bffd1991099c669898a2c15_amyypa.jpg"
+              alt="Zdjęcia świąteczne rodzinne Wrocław - radosna atmosfera Anna Migaj"
+              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+              loading="lazy"
+              width="600"
+              height="800"
+              format="webp"
+            />
+          </div>
+          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
+            <NuxtImg 
+              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1792757692/b0dc1185ae2936e206be9f979bfb6007909aab75_z0tdoh.jpg"
+              alt="Zdjęcia świąteczne rodzinne Wrocław - radosna atmosfera Anna Migaj"
+              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+              loading="lazy"
+              width="600"
+              height="800"
+              format="webp"
+            />
+          </div>
+          <div class="relative aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
+            <NuxtImg 
+              src="https://res.cloudinary.com/drbgrfsbo/image/upload/v1792757692/03a4067be96655160fe00883cb634887e0b71396_bbryi0.jpg"
               alt="Zdjęcia świąteczne rodzinne Wrocław - radosna atmosfera Anna Migaj"
               class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
               loading="lazy"

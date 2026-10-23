@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: migi987/na-lp:11.0-christmas-2026
+    image: migi987/na-lp:11.0-christmas-2026-2.0
     ports:
       - "3000:3000"
     deploy:
@@ -20,7 +20,8 @@ services:
       - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
       - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
     env_file:
-      - .env
+      - path: .env
+        required: false
     restart: unless-stopped
     security_opt:
       - no-new-privileges
